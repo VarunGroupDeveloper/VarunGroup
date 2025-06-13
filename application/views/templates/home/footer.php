@@ -74,7 +74,7 @@
                                     <div class="rs-contact-list-content">
                                         <span>Email Address</span>
                                         <p> Interested in working with us?</p>
-                                        <h6><a href="mailto:support.industrie@gmail.com">support.industrie@gmail.com</a></h6>
+                                        <h6><a href="mailto:support.industrie@gmail.com">support.varungroup.com</a></h6>
                                     </div>
                                 </div>
                                 <div class="rs-contact-list-item wow fadeIn" data-wow-delay=".6s">
@@ -231,7 +231,7 @@
                                             <h5 class="rs-footer-widget-title">Email Address</h5>
                                             <p> Interested in working with us?</p>
                                             <div class="rs-footer-widget-email">
-                                                <a href="mailto:industrie@gmail.com">industrie@gmail.com</a>
+                                                <a href="mailto:industrie@gmail.com">marketing@varungroup.com</a>
                                             </div>
                                         </div>
                                     </div>
@@ -254,7 +254,7 @@
                                         <h5 class="rs-footer-widget-title">Follow Us</h5>
                                         <div class="rs-footer-widget-social">
                                             <div class="rs-theme-social has-theme-blue">
-                                                <a href="#"><i class="ri-twitter-x-line"></i></a>
+                                                <a href="#"><i class="ri-youtube-fill"></i></a>
                                                 <a href="#"><i class="ri-facebook-fill"></i></a>
                                                 <a href="#"><i class="ri-linkedin-fill"></i></a>
                                                 <a href="#"><i class="ri-instagram-line"></i></a>
@@ -271,7 +271,7 @@
                         <div class="row justify-content-center">
                             <div class="col-xl-12">
                                 <div class="rs-footer-copyright has-theme-blue text-center">
-                                    <p class="underline">© <span id="year">2025</span> Industrie. Designed by <a href="https://rstheme.com">RSTheme</a></p>
+                                    <p class="underline">© <span id="year">2025</span> Designed by <a href="https://varungroup.com">Varun Group.</a></p>
                                 </div>
                             </div>
                         </div>

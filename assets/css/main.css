@@ -5911,6 +5911,12 @@ body.rtl .rs-theme-dir-slide {
 .rs-header-three .rs-header-hamburger .bar-icon svg path {
   fill: var(--rs-white);
 }
+@media only screen and (min-width:1440px){
+ .rs-header-hamburger.has-theme-light-blue{
+  display: none;
+} 
+}
+
 @media only screen and (max-width: 1366px) {
   .rs-header-three .rs-header-btn {
     display: none;
