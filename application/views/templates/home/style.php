@@ -1,5 +1,5 @@
 <!-- Place favicon.ico in the root directory -->
-<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon-light-blue.png">
+<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
 <!-- CSS here -->
 <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
 <link rel="stylesheet" href="assets/css/vendor/animate.min.css">

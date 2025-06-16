@@ -154,7 +154,7 @@
                     <div class="row g-5 align-items-center">
                         <div class="col-xl-3 col-lg-3">
                             <div class="rs-subscribe-logo">
-                                <img src="assets/images/logo/logo-white.png" alt="image">
+                                <img src="assets/images/logo/logo.png" alt="image">
                             </div>
                         </div>
                         <div class="col-xl-9 col-lg-9">

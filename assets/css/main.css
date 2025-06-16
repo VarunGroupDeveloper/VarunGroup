@@ -2059,7 +2059,7 @@ textarea:focus {
 }
 .rs-counter-one .rs-counter-number,
 .rs-counter-one .prefix {
-  font-size: 115px;
+  font-size: 100px;
   position: relative;
   -webkit-text-fill-color: transparent;
   color: transparent;

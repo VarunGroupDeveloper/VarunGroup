@@ -14,7 +14,7 @@
                                                 <div class="rs-banner-content">
                                                     <span class="rs-banner-subtitle">
                                           <img src="assets/images/shape/border-line.png" alt="image">
-                                          Welcome to our industrie
+                                          Welcome to our Varun Group
                                        </span>
                                                     <h1 class="rs-banner-title">Reliable <br>
                                                         <img class="rs-banner-shape" src="assets/images/shape/arrow-shape.png" alt="image">
@@ -56,7 +56,7 @@
                                                 <div class="rs-banner-content">
                                                     <span class="rs-banner-subtitle">
                                           <img src="assets/images/shape/border-line.png" alt="image">
-                                          Welcome to our industrie
+                                          Welcome to our Varun Group
                                        </span>
                                                     <h1 class="rs-banner-title">Innovate <br>
                                                         <img class="rs-banner-shape" src="assets/images/shape/arrow-shape.png" alt="image">
@@ -281,10 +281,10 @@
                         <div class="rs-counter-item">
                             <div class="rs-counter-inner">
                                 <div class="rs-counter-number-wrapper">
-                                    <span class="rs-counter-number odometer" data-count="20">00</span>
+                                    <span class="rs-counter-number odometer" data-count="240">00</span>
                                     <span class="prefix">+</span>
                                 </div>
-                                <span class="rs-counter-title">Years of Experience</span>
+                                <span class="rs-counter-title">Showrooms</span>
                             </div>
                         </div>
                     </div>
@@ -292,21 +292,10 @@
                         <div class="rs-counter-item">
                             <div class="rs-counter-inner">
                                 <div class="rs-counter-number-wrapper">
-                                    <span class="rs-counter-number odometer" data-count="98">00</span>
-                                    <span class="prefix">%</span>
-                                </div>
-                                <span class="rs-counter-title">Clients Satisfaction</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                        <div class="rs-counter-item">
-                            <div class="rs-counter-inner">
-                                <div class="rs-counter-number-wrapper">
-                                    <span class="rs-counter-number odometer" data-count="30">00</span>
+                                    <span class="rs-counter-number odometer" data-count="220">00</span>
                                     <span class="prefix">+</span>
                                 </div>
-                                <span class="rs-counter-title">Laboratory</span>
+                                <span class="rs-counter-title">Workshops</span>
                             </div>
                         </div>
                     </div>
@@ -314,10 +303,21 @@
                         <div class="rs-counter-item">
                             <div class="rs-counter-inner">
                                 <div class="rs-counter-number-wrapper">
-                                    <span class="rs-counter-number odometer" data-count="25">00</span>
-                                    <span class="prefix">k</span>
+                                    <span class="rs-counter-number odometer" data-count="540">00</span>
+                                    <span class="prefix">+</span>
                                 </div>
-                                <span class="rs-counter-title">Drilling Fields</span>
+                                <span class="rs-counter-title">Touchpoints</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                        <div class="rs-counter-item">
+                            <div class="rs-counter-inner">
+                                <div class="rs-counter-number-wrapper">
+                                    <span class="rs-counter-number odometer" data-count="500">00</span>
+                                    <span class="prefix">+</span>
+                                </div>
+                                <span class="rs-counter-title">Usefull Programs </span>
                             </div>
                         </div>
                     </div>

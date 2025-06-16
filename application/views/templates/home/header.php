@@ -35,13 +35,13 @@
                         <div class="rs-header-logo-wrapper">
                             <div class="rs-header-logo">
                                 <!-- <div class="rs-header-logo-bg"></div> -->
-                                <a href="index.html"><img src="assets/images/logo/logo-light-blue.png" alt="logo"></a>
+                                <a href="index.html"><img src="assets/images/logo/logo.png" alt="logo"></a>
                             </div>
                         </div>
                     </div>
                     <div class="rs-header-menu">
                         <div class="rs-theme-social has-transparent has-theme-blue">
-                            <a href="#"><i class="ri-twitter-x-line"></i></a>
+                            <a href="#"><i class="ri-youtube-line"></i></a>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
                             <a href="#"><i class="ri-linkedin-fill"></i></a>
                             <a href="#"><i class="ri-instagram-line"></i></a>
@@ -259,7 +259,7 @@
                 <div class="offcanvas-content">
                     <div class="offcanvas-top d-flex justify-content-between align-items-center mb-25">
                         <div class="offcanvas-logo">
-                            <a href="index.html"><img src="assets/images/logo/logo-light-blue.png" alt="logo"></a>
+                            <a href="index.html"><img src="assets/images/logo/logo.png" alt="logo"></a>
                         </div>
                         <div class="offcanvas-close">
                             <button class="offcanvas-close-icon animation--flip">
