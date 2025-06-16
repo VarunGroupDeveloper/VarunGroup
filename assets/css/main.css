@@ -8758,7 +8758,7 @@ body.rtl .rs-theme-dir-slide {
   list-style: none;
 }
 .main-menu li a {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 500;
   line-height: 1;
   color: var(--rs-text-primary);

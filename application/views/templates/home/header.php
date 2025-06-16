@@ -48,160 +48,44 @@
                         </div>
                         <nav id="mobile-menu" class="main-menu">
                             <ul class="multipage-menu">
-                                <li class="menu-item-has-children">
-                                    <a href="#">Home</a>
-                                    <ul class="submenu last-children">
-                                        <li class="menu-item-has-children has-arrow">
-                                            <a href="#">Multipages</a>
-                                            <ul class="submenu">
-                                                <li><a href="index.html">Industry</a></li>
-                                                <li><a href="red-engineering.html">Red Engineering</a></li>
-                                                <li><a href="blue-construction.html">Blue Construction</a></li>
-                                                <li><a href="metallurgy.html">Metallurgy</a></li>
-                                                <li><a href="orange-construction.html">Orange construction</a></li>
-                                                <li><a href="laboratory.html">Laboratory</a></li>
-                                                <li><a href="renewable-energy.html">Renewable Energy</a></li>
-                                                <li><a href="oil-gas.html">Oil & Gas</a></li>
-                                                <li><a href="factory.html">Factory</a></li>
-                                                <li><a href="robotic.html">Robotic</a></li>
-                                                <li><a href="architecture.html">Architecture</a></li>
-                                                <li><a href="manufacturing.html">Manufacturing</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item-has-children has-arrow">
-                                            <a href="javascript:void(0)">Onepages</a>
-                                            <ul class="submenu">
-                                                <li><a href="industrie-one-page.html">Industrie Onepage</a></li>
-                                                <li><a href="red-engineering-one-page.html">Engineering Onepage</a></li>
-                                                <li><a href="blue-construction-one-page.html">Blue Construct Onepage</a></li>
-                                                <li><a href="metallurgy-one-page.html">Metallurgy Onepage</a></li>
-                                                <li><a href="orange-construction-one-page.html">Construction Onepage</a></li>
-                                                <li><a href="laboratory-one-page.html">Laboratory Onepage</a></li>
-                                                <li><a href="renewable-energy-one-page.html"> Energy Onepage</a></li>
-                                                <li><a href="oil-gas-one-page.html">Oil Gas Onepage</a></li>
-                                                <li><a href="factory-one-page.html">Factory Onepage</a></li>
-                                                <li><a href="robotic-one-page.html">Robotic Onepage</a></li>
-                                                <li><a href="architecture-one-page.html">Architecture Onepage</a></li>
-                                                <li><a href="manufacturing-one-page.html">Manufacturing Onepage</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
+                                <li class="menu-item">
+                                    <a href="./">Home</a>
+                                    
                                 </li>
                                 <!-- about menu -->
                                 <li class="menu-item-has-children">
                                     <a href="about.html">About</a>
                                     <ul class="submenu last-children">
                                         <li>
-                                            <a href="about.html">About Us 01</a>
+                                            <a href="about.html">Our History</a>
                                         </li>
                                         <li>
-                                            <a href="about-two.html">About Us 02</a>
+                                            <a href="about-two.html">Our Leadership</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <!-- page menu -->
-                                <li class="menu-item-has-children">
-                                    <a href="javascript:void(0)">Pages</a>
-                                    <ul class="submenu last-children">
-                                        <li class=" has-arrow">
-                                            <a href="javascript:void(0)">Services</a>
-                                            <ul class="submenu">
-                                                <li><a href="services.html">Services</a></li>
-                                                <li><a href="services-details.html">Services Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class=" has-arrow">
-                                            <a href="javascript:void(0)">Team</a>
-                                            <ul class="submenu">
-                                                <li><a href="team.html">Team</a></li>
-                                                <li><a href="team-details.html">Team Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class=" has-arrow">
-                                            <a href="javascript:void(0)">Project</a>
-                                            <ul class="submenu">
-                                                <li><a href="portfolio.html">Project</a></li>
-                                                <li><a href="portfolio-details.html">Project Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="pricing.html">Pricing Plan</a>
-                                        </li>
-                                        <li class=" has-arrow">
-                                            <a href="shop.html">Shop</a>
-                                            <ul class="submenu">
-                                                <li><a href="shop.html">Product</a></li>
-                                                <li><a href="shop-details.html">Product Details</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
-                                                <li><a href="cart.html">Cart</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="faq.html">Faq</a>
-                                        </li>
-                                        <li>
-                                            <a href="appointment.html">Appointment</a>
-                                        </li>
-                                    </ul>
+                                <li class="menu-item">
+                                    <a href="javascript:void(0)">Business</a>
+                                   
                                 </li>
                                 <!-- elements menu -->
-                                <li class="has-mega-menu menu-item-has-children">
-                                    <a href="javascript:void(0)">Elements</a>
-                                    <ul class="mega-menu mega-grid">
-                                        <li>
-                                            <a href="#" class="title">Elements Layout</a>
-                                            <ul>
-                                                <li><a href="elements-features.html">Features</a></li>
-                                                <li><a href="elements-advance-tab.html">Advance Tab</a></li>
-                                                <li><a href="elements-work-process.html">Work Process</a></li>
-                                                <li><a href="elements-counter.html">Counter</a></li>
-                                                <li><a href="elements-gsap.html">GSAP</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="title">Elements Layout</a>
-                                            <ul>
-                                                <li><a href="elements-services.html">Services Box</a></li>
-                                                <li><a href="elements-team.html">Team</a></li>
-                                                <li><a href="elements-pricing.html">Pricing</a></li>
-                                                <li><a href="elements-portfolio.html">Project</a></li>
-                                                <li><a href="#">Coming Soon</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="title">Elements Layout</a>
-                                            <ul>
-                                                <li><a href="elements-services-tab.html">Services Tab</a></li>
-                                                <li><a href="elements-testimonial.html">Testimonials</a></li>
-                                                <li><a href="elements-brand.html">Partner Logo</a></li>
-                                                <li><a href="elements-blog.html">Blog</a></li>
-                                                <li><a href="#">Coming Soon</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
+                                <li class="has-mega-menu menu-item">
+                                    <a href="javascript:void(0)">News & Updates</a>
+                                 
                                 </li>
 
-                                <li class="menu-item-has-children">
-                                    <a href="javascript:void(0)">Blog</a>
-                                    <ul class="submenu last-children">
-                                        <li>
-                                            <a href="blog.html">Blog</a>
-                                        </li>
-                                        <li>
-                                            <a href="blog-details.html">Blog Details</a>
-                                        </li>
-                                    </ul>
+                                <li class="menu-item">
+                                    <a href="javascript:void(0)">Gallery</a>
+                                   
                                 </li>
-                                <li class="menu-item-has-children">
+                                <li class="menu-item">
+                                    <a href="contact.html">Community</a>
+                                    
+                                </li>
+                                <li class="menu-item">
                                     <a href="contact.html">Contact</a>
-                                    <ul class="submenu last-children">
-                                        <li>
-                                            <a href="contact.html">Contact 01</a>
-                                        </li>
-                                        <li>
-                                            <a href="contact-two.html">Contact 02</a>
-                                        </li>
-                                    </ul>
+                                    
                                 </li>
                             </ul>
                         </nav>
