@@ -1,47 +1,18 @@
     <!-- Header area start -->
     <header>
-        <div class="rs-header-area rs-header-four has-theme-light-blue">
+        <div class="rs-header-area rs-header-one" id="header-sticky">
             <div class="container-fluid g-0">
-                <!-- top start -->
-                <div class="rs-header-top rs-header-top-two">
-                    <div class="rs-header-info-wrapper">
-                        <div class="rs-header-info-item">
-                            <div class="rs-header-contact-item">
-                                <span>Email.</span>
-                                <h6><a href="mailto:support.industrie@gmail.com ">support.industrie@gmail.com </a></h6>
-                            </div>
-                        </div>
-                        <div class="rs-header-info-item">
-                            <div class="rs-header-contact-item">
-                                <span>Call.</span>
-                                <h6><a href="tel:+971551579261"> +971 551 579 261 </a></h6>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="rs-header-info-item">
-                        <div class="rs-header-contact-item">
-                            <span>
-                            Schedule.
-                        </span>
-                            <h6> Mon - Sat 10.00 - 18.00 </h6>
-                        </div>
-                    </div>
-                </div>
-                <!-- top end -->
-            </div>
-            <div class="container-fluid">
-                <div class="rs-header-inner" id="header-sticky">
+                <div class="rs-header-inner">
                     <div class="rs-header-left">
                         <div class="rs-header-logo-wrapper">
                             <div class="rs-header-logo">
-                                <!-- <div class="rs-header-logo-bg"></div> -->
                                 <a href="index.html"><img src="assets/images/logo/logo.png" alt="logo"></a>
                             </div>
                         </div>
                     </div>
                     <div class="rs-header-menu">
-                        <div class="rs-theme-social has-transparent has-theme-blue">
-                            <a href="#"><i class="ri-youtube-line"></i></a>
+                        <div class="rs-theme-social has-transparent has-orange">
+                            <a href="#"><i class="ri-twitter-x-line"></i></a>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
                             <a href="#"><i class="ri-linkedin-fill"></i></a>
                             <a href="#"><i class="ri-instagram-line"></i></a>
@@ -54,37 +25,36 @@
                                 </li>
                                 <!-- about menu -->
                                 <li class="menu-item-has-children">
-                                    <a href="about.html">About</a>
+                                    <a href="#">About</a>
                                     <ul class="submenu last-children">
                                         <li>
-                                            <a href="about.html">Our History</a>
+                                            <a href="<?php echo base_url('history'); ?>">Our History</a>
                                         </li>
                                         <li>
-                                            <a href="about-two.html">Our Leadership</a>
+                                            <a href="<?php echo base_url('leadership'); ?>">Our Leadership</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <!-- page menu -->
                                 <li class="menu-item">
-                                    <a href="javascript:void(0)">Business</a>
+                                    <a href="<?php echo base_url('business'); ?>">Business</a>
                                    
                                 </li>
                                 <!-- elements menu -->
                                 <li class="has-mega-menu menu-item">
-                                    <a href="javascript:void(0)">News & Updates</a>
+                                    <a href="<?php echo base_url('news_and_updates'); ?>">News & Updates</a>
                                  
                                 </li>
 
                                 <li class="menu-item">
-                                    <a href="javascript:void(0)">Gallery</a>
-                                   
+                                    <a href="<?php echo base_url('gallery'); ?>">Gallery</a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="contact.html">Community</a>
+                                    <a  href="<?php echo base_url('community'); ?>">Community</a>
                                     
                                 </li>
                                 <li class="menu-item">
-                                    <a href="contact.html">Contact</a>
+                                    <a href="<?php echo base_url('contact'); ?>">Contact</a>
                                     
                                 </li>
                             </ul>
@@ -93,11 +63,11 @@
                     <div class="rs-header-right">
                         <!-- search area start -->
                         <div class="rs-header-search-wrapper">
-                            <div class="rs-header-search-icon has-theme-light-blue">
+                            <div class="rs-header-search-icon">
                                 <i class="ri-close-fill has-close"></i>
                                 <i class="ri-search-line has-search"></i>
                             </div>
-                            <form id="contact-form" class="rs-header-search-inner rs-stickys-form" action="assets/mailer.php" method="POST">
+                            <form class="rs-header-search-inner rs-stickys-form" action="#">
                                 <div class="rs-header-search">
                                     <input type="text" placeholder="Searching...">
                                     <button type="submit"><i class="ri-search-line"></i></button>
@@ -106,7 +76,7 @@
                         </div>
                         <!-- search area end -->
                         <div class="rs-header-btn">
-                            <a class="rs-btn has-theme-light-blue has-icon has-bg" href="contact.html">Get In Touch
+                            <a class="rs-btn has-theme-orange has-icon has-bg" href="contact.html">Get In Touch
                                 <span class="icon-box">
                                 <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
                                     <path
@@ -121,7 +91,9 @@
                             </span>
                             </a>
                         </div>
-                        <div class="rs-header-hamburger has-theme-light-blue">
+                        
+                        <!-- sidebar start -->
+                        <div class="rs-header-hamburger has-theme-red">
                             <div class="sidebar-toggle">
                                 <a class="bar-icon" href="javascript:void(0)">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="21" height="20" viewBox="0 0 21 20" fill="none">
@@ -130,13 +102,15 @@
                                 </a>
                             </div>
                         </div>
+                        <!-- sidebar end -->
                     </div>
                 </div>
             </div>
         </div>
     </header>
     <!-- Header area end -->
-        <!-- Offcanvas area start -->
+
+   <!-- Offcanvas area start -->
     <div class="fix">
         <div class="offcanvas-area has-theme-light-blue" data-lenis-prevent>
             <div class="offcanvas-wrapper">
@@ -178,3 +152,5 @@
     <div class="offcanvas-overlay"></div>
     <div class="offcanvas-overlay-white"></div>
     <!-- Offcanvas area start -->
+
+

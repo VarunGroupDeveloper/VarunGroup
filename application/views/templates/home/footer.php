@@ -102,7 +102,7 @@
                     </div>
                     <div class="col-xl-5 col-lg-5">
                         <div class="rs-contact-form wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                            <div class="rs-contact-form-bg-thumb" data-background="assets/images/bg/contact-bg-03.png"></div>
+                            <div class="rs-contact-form-bg-thumb" data-background="assets/images/home/contact-bg-03.png"></div>
                             <h3 class="rs-contact-form-title">Get in Touch</h3>
                             <p class="descrip">The point of using Lorem Ipsum is that it has more-or-less normal</p>
                             <form id="contact-form" action="assets/mailer.php" method="POST">
@@ -145,7 +145,7 @@
     </main>
 
     <div class="rs-footer-bg-thumb-wrapper">
-        <div class="rs-footer-bg-thumb" data-background="assets/images/bg/footer-bg-02.png"></div>
+        <div class="rs-footer-bg-thumb" data-background="assets/images/home/varun-group-footer.webp"></div>
 
         <!-- subscribe area start -->
         <div class="rs-subscribe-area rs-subscribe-one">

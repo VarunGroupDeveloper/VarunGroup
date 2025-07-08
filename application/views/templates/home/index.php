@@ -14,7 +14,7 @@
                                                 <div class="rs-banner-content">
                                                     <span class="rs-banner-subtitle">
                                           <img src="assets/images/shape/border-line.png" alt="image">
-                                          Welcome to our Varun Group
+                                          Welcome to our industrie
                                        </span>
                                                     <h1 class="rs-banner-title">Reliable <br>
                                                         <img class="rs-banner-shape" src="assets/images/shape/arrow-shape.png" alt="image">
@@ -56,7 +56,7 @@
                                                 <div class="rs-banner-content">
                                                     <span class="rs-banner-subtitle">
                                           <img src="assets/images/shape/border-line.png" alt="image">
-                                          Welcome to our Varun Group
+                                          Welcome to our industrie
                                        </span>
                                                     <h1 class="rs-banner-title">Innovate <br>
                                                         <img class="rs-banner-shape" src="assets/images/shape/arrow-shape.png" alt="image">
@@ -103,8 +103,7 @@
             </div>
         </section>
         <!-- banner area end -->
-
-        <!-- feature area start -->
+                <!-- feature area start -->
         <section class="rs-feature-area rs-feature-five section-space">
             <div class="container has-large">
                 <div class="row g-5">
@@ -124,10 +123,9 @@
                                     <path d="M7.29297 20.834C9.01886 20.834 10.418 19.4349 10.418 17.709C10.418 15.9831 9.01886 14.584 7.29297 14.584C5.56708 14.584 4.16797 15.9831 4.16797 17.709C4.16797 19.4349 5.56708 20.834 7.29297 20.834Z" fill="white"></path>
                                 </svg>
                             </div>
-                            <h5 class="rs-feature-title">Worldwide Manufacturing</h5>
+                            <h5 class="rs-feature-title">Expanding Horizons Across India</h5>
                             <div class="rs-feature-descrip">
-                                <p>Industry's standard dummy text ever since the when an printer took a galley of type and
-                                    scrambled</p>
+                                <p> With 700+ showrooms, dealerships, and service touchpoints, Varun Group serves millions across diverse industries.</p>
                             </div>
                         </div>
                     </div>
@@ -143,10 +141,9 @@
                                     <path d="M14.9175 29.2687C14.709 29.2685 14.5031 29.2229 14.3141 29.1349C14.1251 29.047 13.9576 28.9188 13.8232 28.7594C13.6889 28.5999 13.591 28.4131 13.5364 28.2119C13.4817 28.0107 13.4717 27.8001 13.5069 27.5946L14.349 22.6797L10.7788 19.1983C10.5898 19.0115 10.4566 18.7758 10.3939 18.5176C10.3312 18.2594 10.3417 17.9888 10.424 17.7361C10.5063 17.4835 10.6573 17.2587 10.8601 17.087C11.0629 16.9153 11.3094 16.8034 11.5722 16.7638L16.5071 16.0477L18.7139 11.5768C18.8457 11.3535 19.0335 11.1685 19.2586 11.0399C19.4838 10.9114 19.7385 10.8438 19.9978 10.8438C20.2571 10.8438 20.5118 10.9114 20.737 11.0399C20.9621 11.1685 21.1499 11.3535 21.2817 11.5768L23.4928 16.0391L28.4263 16.7552C28.6909 16.7934 28.9396 16.9049 29.1441 17.0771C29.3486 17.2493 29.5008 17.4753 29.5835 17.7295C29.6663 17.9838 29.6762 18.2561 29.6121 18.5157C29.548 18.7753 29.4126 19.0117 29.2211 19.1983L25.6409 22.6797L26.483 27.5946C26.5279 27.8577 26.4984 28.1282 26.3977 28.3755C26.2971 28.6228 26.1293 28.837 25.9133 28.994C25.6974 29.151 25.4418 29.2444 25.1756 29.2639C24.9093 29.2833 24.6429 29.2279 24.4064 29.104L19.9914 26.784L15.5791 29.104C15.3751 29.2113 15.1481 29.2678 14.9175 29.2687ZM19.9971 23.7337C20.2291 23.7338 20.4576 23.7904 20.663 23.8984L23.1763 25.2202L22.6965 22.4233C22.6572 22.1946 22.6741 21.9597 22.7457 21.7389C22.8173 21.5182 22.9415 21.3181 23.1076 21.156L25.1411 19.1754L22.3328 18.7673C22.103 18.7339 21.8848 18.6451 21.6969 18.5087C21.5091 18.3722 21.3572 18.1921 21.2544 17.9839L19.9971 15.4377L18.7412 17.9839C18.6386 18.1924 18.4868 18.3728 18.2989 18.5095C18.111 18.6462 17.8927 18.7352 17.6628 18.7687L14.8545 19.1768L16.8866 21.1574C17.0527 21.3195 17.1769 21.5196 17.2485 21.7404C17.3201 21.9612 17.3369 22.196 17.2976 22.4248L16.8193 25.2231L19.3297 23.9012C19.5355 23.7927 19.7644 23.7352 19.9971 23.7337Z" fill="white"></path>
                                 </svg>
                             </div>
-                            <h5 class="rs-feature-title">Best Quality Service</h5>
+                            <h5 class="rs-feature-title"> Global Brand Partnerships</h5>
                             <div class="rs-feature-descrip">
-                                <p>The point of using Lorem Ipsum is that it has a more-or
-                                    less normal distribution of letters </p>
+                                <p> We represent partner with global leaders like Maruti Suzuki, Bajaj, JCB, BharatBenz, MG Motor, Mahindra, BMW and Taj Hotels, delivering quality scale.</p>
                             </div>
                         </div>
                     </div>
@@ -158,10 +155,9 @@
                                     <path d="M48.5385 39.3089C48.5359 39.3089 48.5334 39.308 48.5301 39.308L46.8333 39.0476C46.6317 38.3942 46.3713 37.7717 46.0547 37.1871L47.0677 35.8138C47.5784 35.1309 47.5103 34.1632 46.9072 33.5618L45.4642 32.1263C44.8737 31.5039 43.9043 31.4241 43.2105 31.9398L41.8279 32.9579C41.2198 32.6328 40.5949 32.3749 39.9615 32.1851L39.7045 30.4984C39.5861 29.6551 38.8503 29.0193 37.9926 29.0193H35.9448C35.1015 29.0193 34.3808 29.6282 34.2254 30.4951L33.9793 32.1885C33.7088 32.2708 33.4551 32.3623 33.2124 32.4656C33.0923 32.5018 32.9822 32.5454 32.9192 32.5799C32.6504 32.6866 32.3808 32.8117 32.1137 32.9545L30.7303 31.9356C30.0373 31.4325 29.0696 31.5123 28.4901 32.1095L27.0462 33.5542C26.6744 33.9149 26.5049 34.4126 26.5402 34.9019C26.153 34.8502 25.7644 34.814 25.3746 34.792V31.3561C28.2412 29.1645 30.0571 25.3974 30.2539 21.2647H31.3602C32.7874 21.2647 33.949 20.103 33.949 18.6759V17.8031C33.949 16.4311 32.8721 15.3162 31.521 15.2314C31.178 10.3964 27.9129 6.28097 23.2688 4.86426V2.51571C23.2688 1.12892 22.1399 0 20.7531 0H18.8985C17.5117 0 16.3828 1.12892 16.3828 2.51571V4.86426C11.7387 6.28097 8.47356 10.3964 8.13059 15.2314C6.7795 15.3162 5.70255 16.4311 5.70255 17.8031V18.6759C5.70255 20.103 6.86423 21.2647 8.29133 21.2647H9.37983C9.57691 25.4077 11.4164 29.1938 14.2744 31.3655V34.8076C6.33153 35.2509 0 41.8376 0 49.8942V53.1028C0 55.123 1.64382 56.7668 3.66479 56.7668H10.6635C10.6664 56.7668 10.6689 56.7685 10.6718 56.7685C10.6747 56.7685 10.6772 56.7668 10.6802 56.7668H29.8937C29.8967 56.7668 29.8991 56.7685 29.9021 56.7685C29.905 56.7685 29.9075 56.7668 29.9104 56.7668H35.9792C37.5564 56.7668 38.9665 55.7321 39.4476 54.2383C39.5668 54.0463 39.6621 53.8357 39.7028 53.5942L39.9624 51.8983C40.6091 51.7001 41.2307 51.4439 41.8195 51.1314L43.2189 52.1587C43.9144 52.6568 44.8804 52.572 45.444 51.9765L46.919 50.5183C47.3877 50.0336 47.5364 49.3415 47.3079 48.7359C47.26 48.5771 47.1802 48.4209 47.071 48.2739L46.0538 46.8946C46.3713 46.3041 46.6326 45.6817 46.8325 45.0349L48.5217 44.7771C49.365 44.6561 50 43.9237 50 43.0736V41.0182C50 40.1799 49.3717 39.445 48.5385 39.3089ZM38.9993 45.5468C38.2901 43.1587 36.9944 40.98 35.2123 39.198C35.0668 39.0518 34.914 38.9118 34.7615 38.7721C35.4168 38.3234 36.1861 38.0766 37.0032 38.0766C39.2131 38.0766 41.0115 39.8742 41.0115 42.0841C41.0115 43.5239 40.2124 44.8378 38.9993 45.5468ZM16.7835 32.7769C16.8523 32.802 16.9202 32.829 16.9895 32.8522C17.9007 33.1626 18.849 33.3266 19.8082 33.3266C20.774 33.3266 21.7306 33.1601 22.6517 32.8456C22.7211 32.8222 22.7893 32.7954 22.8583 32.7703C23.0701 32.6922 23.2794 32.6061 23.4867 32.5119C23.542 32.4868 23.5995 32.4692 23.6544 32.443V35.2594L19.8305 38.7122L15.9947 35.2099V32.4539C16.0551 32.4827 16.1185 32.5021 16.1794 32.5295C16.3787 32.6195 16.5799 32.702 16.7835 32.7769ZM16.3828 6.68552V9.60169C16.3828 10.0771 16.7675 10.4618 17.2429 10.4618C17.7183 10.4618 18.103 10.0771 18.103 9.60169V5.52028V2.51571C18.103 2.07724 18.46 1.72026 18.8985 1.72026H20.7531C21.1916 1.72026 21.5486 2.07724 21.5486 2.51571V5.52028C21.5486 5.66633 21.5953 5.79957 21.6611 5.92173V9.98387C21.6611 10.4593 22.0458 10.844 22.5213 10.844C22.9967 10.844 23.3814 10.4593 23.3814 9.98387V6.72763C26.9691 8.08208 29.4723 11.3665 29.7987 15.2144H9.85284C10.1827 11.327 12.7347 8.01325 16.3828 6.68552ZM7.42281 18.6759V17.8031C7.42281 17.3244 7.81255 16.9355 8.29133 16.9355H31.3602C31.839 16.9355 32.2288 17.3244 32.2288 17.8031V18.6759C32.2288 19.1547 31.839 19.5444 31.3602 19.5444H29.4342H10.1922H8.29133C7.81255 19.5444 7.42281 19.1547 7.42281 18.6759ZM11.0859 21.2647H28.5548C28.3565 25.0202 26.6598 28.4111 24.0265 30.2389C23.8389 30.3695 23.6406 30.4716 23.4461 30.584C21.1537 31.8959 18.4059 31.8881 16.1369 30.5545C15.9653 30.4521 15.7903 30.3631 15.6226 30.2456C12.9968 28.438 11.285 25.0286 11.0859 21.2647ZM35.9792 55.0465H30.7622V46.7006C30.7622 46.2252 30.3775 45.8405 29.9021 45.8405C29.4266 45.8405 29.0419 46.2252 29.0419 46.7006V55.0465H11.5319V46.7006C11.5319 46.2252 11.1472 45.8405 10.6718 45.8405C10.1964 45.8405 9.81168 46.2252 9.81168 46.7006V55.0465H3.66479C2.59298 55.0465 1.72026 54.1746 1.72026 53.1028V49.8942C1.72026 42.6102 7.55305 36.6649 14.8408 36.4893L19.2445 40.5109C19.4092 40.6612 19.6166 40.736 19.8249 40.736C20.0316 40.736 20.2374 40.6621 20.4012 40.5142L20.4421 40.4773L24.8681 36.4899C25.9013 36.5168 26.9319 36.6613 27.934 36.9208C29.7551 37.3996 31.4266 38.248 32.91 39.4483C33.2897 39.7473 33.6542 40.0716 33.9952 40.4134C35.7953 42.2135 37.0359 44.468 37.5844 46.9375C37.8036 47.8976 37.9145 48.8921 37.9145 49.8942V53.1028C37.9145 53.2912 37.8893 53.4557 37.8445 53.609C37.839 53.6244 37.8327 53.6395 37.828 53.6556C37.592 54.4745 36.8318 55.0465 35.9792 55.0465ZM48.2797 41.0182L48.2697 43.0753L46.0244 43.4188C45.6826 43.4709 45.4045 43.7238 45.3205 44.0589C45.1013 44.93 44.7569 45.7514 44.2958 46.5024C44.1118 46.8006 44.1278 47.1811 44.3361 47.4633L45.6893 49.2995C45.6893 49.2986 45.6666 49.2659 45.6515 49.1987C45.6632 49.2491 45.6758 49.2608 45.696 49.3087L44.2294 50.7661L42.389 49.4154C42.2378 49.3053 42.0589 49.2491 41.88 49.2491C41.7263 49.2491 41.5726 49.2902 41.4348 49.3734C40.8729 49.7127 40.2698 49.9891 39.6348 50.1974V49.8942C39.6348 49.3817 39.6012 48.8723 39.5498 48.3658C39.5338 48.2079 39.5092 48.053 39.4883 47.8961C39.4613 47.6936 39.4441 47.4893 39.4088 47.2886C41.4248 46.3604 42.7317 44.3563 42.7317 42.0841C42.7317 38.9259 40.1623 36.3564 37.0032 36.3564C35.6836 36.3564 34.4035 36.8192 33.3888 37.6466C33.2509 37.5457 33.105 37.4596 32.9643 37.3638C32.8142 37.2616 32.6649 37.1587 32.5117 37.0623C32.2233 36.8808 31.9275 36.7142 31.6285 36.5535C31.4963 36.4825 31.3674 36.4049 31.2331 36.338C30.7984 36.1212 30.3549 35.9225 29.9 35.7491C29.8424 35.7272 29.7821 35.7118 29.7242 35.6906C29.3761 35.5628 29.0255 35.4406 28.6665 35.3383L28.2532 34.7798L29.7156 33.3241L31.5476 34.6739C31.8315 34.8839 32.2145 34.8982 32.5144 34.71C32.8588 34.495 33.2082 34.3161 33.6206 34.1489C33.6592 34.1296 33.692 34.117 33.7248 34.1078C33.7659 34.0969 33.8062 34.0826 33.8457 34.0658C34.1716 33.9238 34.532 33.8071 34.9469 33.7096C35.2905 33.6282 35.55 33.3451 35.6004 32.9957L35.9448 30.7395L38.0027 30.7479L38.3463 33.0015C38.3992 33.3501 38.6596 33.6307 39.0031 33.7105C39.833 33.902 40.6537 34.2405 41.4432 34.7176C41.7423 34.8982 42.1194 34.8814 42.3983 34.6739L44.2328 33.3275L45.6868 34.7873L44.3361 36.6193C44.1269 36.9032 44.1118 37.2846 44.2974 37.5836C44.7544 38.3194 45.0979 39.14 45.3205 40.0237C45.4045 40.3588 45.6826 40.6117 46.0244 40.6637L48.2697 41.0081L48.3999 40.1581L48.2797 41.0182Z" fill="white"></path>
                                 </svg>
                             </div>
-                            <h5 class="rs-feature-title">Experienced Workers</h5>
+                            <h5 class="rs-feature-title">Legacy Built by Experts</h5>
                             <div class="rs-feature-descrip">
-                                <p>Literature from 45 BC, making it over 2000 years old. Latin professor at Hampden-Sydney
-                                    College in Virginia</p>
+                                <p> Backed by decades of leadership and experienced professionals, our teams deliver with precision, passion, and innovation in every sector we operate.</p>
                             </div>
                         </div>
                     </div>
@@ -169,113 +165,97 @@
             </div>
         </section>
         <!-- feature area end -->
-
-        <!-- about area start -->
-        <section class="rs-about-area rs-about-six">
-            <div class="rs-about-shape-one">
-                <img src="assets/images/shape/about-shape-01.png" alt="image">
-            </div>
-            <div class="rs-about-shape-two">
-                <img src="assets/images/shape/about-shape-02.png" alt="image">
-            </div>
-            <div class="container has-large">
+        <section class="rs-about-area section-space rs-about-five">
+            <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
-                        <h2 class="rs-about-title">About industrie</h2>
-                    </div>
-                </div>
-                <div class="row g-5">
-                    <div class="col-xl-12">
                         <div class="rs-about-wrapper">
-                            <div class="rs-about-thumb rs-image scroll_reveal reveal_left reveal-active">
-                                <img decoding="async" src="assets/images/about/about-thumb-08.png" alt="image">
-                            </div>
-                            <div class="rs-about-content-wrapper">
-                                <div class="rs-section-title-wrapper">
-                                    <span class="rs-section-subtitle has-theme-light-blue justify-content-start">
-                              About industrie
+                            <div class="rs-about-wrapper-left">
+                                <div class="rs-section-title-wrapper section-title-space">
+                                    <span class="rs-section-subtitle has-theme-orange justify-content-start">
+                              ABOUT VARUN GROUP
                            </span>
-                                    <h2 class="rs-section-title has-theme-light-blue rs-split-text-enable split-in-fade mb-30 ">
-                                        We design and build some of
-                                        the most <span class="rs-theme-light-blue">powerful facilities</span> in the world. Those
-                                        that change business status</h2>
+                                    <h2 class="rs-section-title rs-split-text-enable split-in-fade" style="perspective: 400px;">INDIA'S LEADING BUSINESS CONGLOMERATE SINCE 1950</h2>
                                 </div>
-                                <div class="rs-about-tab">
-                                    <ul class="nav nav-pills" id="pills-tab" role="tablist">
-                                        <li class="nav-item" role="presentation">
-                                            <button class="nav-link active" id="pills-item-one-tab" data-bs-toggle="pill" data-bs-target="#pills-item-one" type="button" role="tab" aria-controls="pills-item-one" aria-selected="true">
-                                                Our History
-                                            </button>
-                                        </li>
-                                        <li class="nav-item" role="presentation">
-                                            <button class="nav-link" id="pills-item-two-tab" data-bs-toggle="pill" data-bs-target="#pills-item-two" type="button" role="tab" aria-controls="pills-item-two" aria-selected="false"> Our Mission
-                                            </button>
-                                        </li>
-                                        <li class="nav-item" role="presentation">
-                                            <button class="nav-link" id="pills-item-three-tab" data-bs-toggle="pill" data-bs-target="#pills-item-three" type="button" role="tab" aria-controls="pills-item-three" aria-selected="false">
-                                                Our Vision
-                                            </button>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="rs-aobut-tab-content-wrapper">
-                                    <div class="tab-content rs-about-tab-anim" id="pills-tabContent">
-                                        <div class="tab-pane fade show active" id="pills-item-one" role="tabpanel" aria-labelledby="pills-item-one-tab" tabindex="0">
-                                            <div class="rs-about-tab-content">
-                                                <p>Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence
-                                                    with a passion make also for precision we have been empowering industries and
-                                                    driving progress for <span class="fw-6">over 30 years.</span></p>
-                                            </div>
+                                <div class="rs-about-thumb has-large">
+                                    <img src="assets/images/home/about-hand-image.webp" alt="image">
+                                    <div class="rs-about-counter-wrapper gsap-move up-100 start-70" style="transform: translate3d(0px, -6.1814px, 0px);">
+                                        <div class="rs-counter-bg-thumb" data-background="assets/images/shape/star-shape.png" style="background-image: url(&quot;assets/images/shape/star-shape.png&quot;);">
                                         </div>
-                                        <div class="tab-pane fade" id="pills-item-two" role="tabpanel" aria-labelledby="pills-item-two-tab" tabindex="0">
-                                            <div class="rs-about-tab-content">
-                                                <p>Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence
-                                                    with a passion make also for precision we have been empowering industries and
-                                                    driving progress for <span class="fw-6">over 30 years.</span></p>
-                                            </div>
-                                        </div>
-                                        <div class="tab-pane fade" id="pills-item-three" role="tabpanel" aria-labelledby="pills-item-three-tab" tabindex="0">
-                                            <div class="rs-about-tab-content">
-                                                <p>Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence
-                                                    with a passion make also for precision we have been empowering industries and
-                                                    driving progress for <span class="fw-6">over 30 years.</span></p>
+                                        <div class="rs-counter-item">
+                                            <div class="rs-counter-inner">
+                                                <div class="rs-counter-number-wrapper">
+                                                    <span class="rs-counter-number odometer odometer-auto-theme" data-count="75"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">7</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></span>
+                                                    <span class="prefix">+</span>
+                                                </div>
+                                                <span class="rs-counter-title">Years of Experience</span>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="rs-about-btn">
-                                    <a class="rs-btn has-theme-light-blue has-icon has-bg" href="about.html">Discover Us
-                                        <span class="icon-box">
-                                 <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                    <path
-                                       d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                    </path>
-                                 </svg>
-                                 <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                    <path
-                                       d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                    </path>
-                                 </svg>
-                              </span>
-                                    </a>
-
-
+                            </div>
+                            <div class="rs-about-wrapper-right">
+                                <div class="rs-about-thumb has-small">
+                                    <img src="assets/images/home/about-us.webp" alt="image">
+                                </div>
+                                <div class="rs-about-content-wrapper">
+                                    <div class="rs-about-tab">
+                                        <ul class="nav nav-pills" id="history-tab" role="tablist">
+                                            <li class="nav-item" role="presentation">
+                                                <button class="nav-link active" id="history-item-one-tab" data-bs-toggle="pill" data-bs-target="#history-item-one" type="button" role="tab" aria-controls="history-item-one" aria-selected="true">
+                                                    Our History
+                                                </button>
+                                            </li>
+                                            <li class="nav-item" role="presentation">
+                                                <button class="nav-link" id="history-item-two-tab" data-bs-toggle="pill" data-bs-target="#history-item-two" type="button" role="tab" aria-controls="history-item-two" aria-selected="false" tabindex="-1"> Our Mission
+                                                </button>
+                                            </li>
+                                            <li class="nav-item" role="presentation">
+                                                <button class="nav-link" id="history-item-three-tab" data-bs-toggle="pill" data-bs-target="#history-item-three" type="button" role="tab" aria-controls="history-item-three" aria-selected="false" tabindex="-1">
+                                                    Our Vision
+                                                </button>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="rs-aobut-tab-content-wrapper">
+                                        <div class="tab-content rs-about-tab-anim" id="pills-tabContent">
+                                            <div class="tab-pane fade show active" id="history-item-one" role="tabpanel" aria-labelledby="history-item-one-tab" tabindex="0">
+                                                <div class="rs-about-tab-content">
+                                                    <p>Varun Group started in 1950 as a small family business. Over time, we have grown into a large group working in automobiles, finance, construction, hospitality, farming, and entertainment. Today, we are proud to have over 21,000+ employees serving across India.</p>
+                                                    
+                                                </div>
+                                            </div>
+                                            <div class="tab-pane fade" id="history-item-two" role="tabpanel" aria-labelledby="history-item-two-tab" tabindex="0">
+                                                <div class="rs-about-tab-content">
+                                                    <p>Our mission is to deliver quality products and services, build trusted brands, and create better lives for our customers, employees, and communities.</p>
+                                                    
+                                                </div>
+                                            </div>
+                                            <div class="tab-pane fade" id="history-item-three" role="tabpanel" aria-labelledby="history-item-three-tab" tabindex="0">
+                                                <div class="rs-about-tab-content">
+                                                    <p>We want to be a trusted leader in every industry we work in. We focus on growing with care, encouraging new ideas, and building a better future for all.</p>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
         </section>
-        <!-- about area end -->
+
+
+
+
+
 
                 <!-- counter area start -->
         <div class="rs-counter-area rs-counter-one section-space-top has-theme-blue section-space-bottom">
-            <div class="container has-large">
+            <div class="container ">
                 <div class="row g-5">
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                         <div class="rs-counter-item">
@@ -314,10 +294,10 @@
                         <div class="rs-counter-item">
                             <div class="rs-counter-inner">
                                 <div class="rs-counter-number-wrapper">
-                                    <span class="rs-counter-number odometer" data-count="500">00</span>
-                                    <span class="prefix">+</span>
+                                    <span class="rs-counter-number odometer" data-count="21">00</span>
+                                    <span class="prefix">K+</span>
                                 </div>
-                                <span class="rs-counter-title">Usefull Programs </span>
+                                <span class="rs-counter-title">Employees</span>
                             </div>
                         </div>
                     </div>
@@ -326,186 +306,414 @@
         </div>
         <!-- counter area end -->
 
-        <!-- services area start -->
-        <section class="rs-services-area rs-services-three section-space primary-bg rs-swiper has-theme-blue">
+        <section class="rs-portfolio-area rs-portfolio-eight rs-swiper">
             <div class="container">
-                <div class="row g-5">
-                    <div class="col-xl-3 col-lg-3">
-                        <div class="rs-services-content-wrapper">
-                            <div class="rs-section-title-wrapper">
-                                <span class="rs-section-subtitle has-theme-blue justify-content-start">
-                           Services
-                        </span>
-                                <h2 class="rs-section-title has-theme-blue rs-split-text-enable split-in-fade">Providing
-                                    solutions of every
-                                    kind</h2>
-                                <p class="descrip">Engines prime movers and exhaust gas turbochargers. </p>
-                                <!-- If we need navigation buttons -->
-                                <div class=" rs-services-navigation">
-                                    <button class="swiper-button-prev rs-swiper-btn has-bg-white has-small hover-blue"><i
-                                 class="fa-regular fa-arrow-left"></i></button>
-                                    <button class="swiper-button-next rs-swiper-btn has-bg-white has-small hover-blue"><i
-                                 class="fa-regular fa-arrow-right"></i></button>
-                                </div>
-                            </div>
+                <div class="row align-items-center justify-content-between mb-4">
+                    <div class="col-md-6 col-sm-12">
+                        <div class="rs-section-title-wrapper section-title-space">
+                            <span class="rs-section-subtitle has-theme-light-green d-block mb-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
+                           <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z" fill="#EA5501"></path>
+                        </svg>
+                        Our Bussiness
+                     </span>
+                            <h2 class="rs-section-title has-theme-green rs-split-text-enable split-in-fade" style="perspective: 400px;">Building Value Across Industries</h2>
+                                
                         </div>
                     </div>
-                    <div class="col-xl-9 col-lg-9">
-                        <div class="rs-services-slide-wrapper process-counts">
-                            <div class="swiper" data-clone-slides="false" data-loop="false" data-speed="1500" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="2500" data-item="3" data-item-xl="2" data-item-lg="2" data-item-md="2" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30" data-margin-xl="30">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="rs-services-item">
-                                            <div class="rs-services-thumb">
-                                                <a href="services-details.html"> <img src="assets/images/services/services-thumb-10.png" alt="image"></a>
-                                            </div>
-                                            <div class="rs-services-content">
-                                                <h5 class="rs-services-title"><a href="services-details.html"> Architecure
-                                                        Services</a></h5>
-                                                <p class="descrip">Consectetur project contracting involves various elements,
-                                                    including.</p>
-                                                <div class="rs-services-number"></div>
-                                                <div class="rs-services-btn-wrapper">
-                                                    <div class="rs-services-text-btn underline has-theme-blue">
-                                                        <a class="rs-text-btn" href="services-details.html">View
-                                                            Details</a>
-                                                    </div>
-                                                    <a class="rs-square-btn has-icon has-light-bg" href="services-details.html">
-                                                        <span class="icon-box">
-                                             <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12"
-                                                height="10" viewBox="0 0 12 10" fill="none">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                   d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                   fill="#616161"></path>
-                                             </svg>
-                                             <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="12"
-                                                height="10" viewBox="0 0 12 10" fill="none">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                   d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                   fill="#616161"></path>
-                                             </svg>
-                                          </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
+
+                    <!-- Right: Navigation Arrows -->
+                    <div class="col-md-6 col-sm-12 text-md-end text-sm-start">
+                      <div class="rs-portfolio-navigation d-inline-flex gap-2">
+                        <button class="swiper-button-prev rs-swiper-btn has-bg-light rs-nav-prev-1" tabindex="0" aria-label="Previous slide">
+                          <i class="fa-regular fa-arrow-left"></i>
+                        </button>
+                        <button class="swiper-button-next rs-swiper-btn has-bg-light rs-nav-next-1" tabindex="0" aria-label="Next slide">
+                          <i class="fa-regular fa-arrow-right"></i>
+                        </button>
+                      </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="rs-portfolio-slider-wrapper">
+                            <div class="swiper has-space swiper-initialized swiper-horizontal swiper-pointer-events" data-clone-slides="false" data-loop="true" data-speed="1500" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="2500" data-item="4" data-item-xl="3" data-item-lg="3" data-item-md="2" data-item-sm="2" data-item-xs="1" data-item-mobile="1" data-margin="30">
+                                <div class="swiper-wrapper" id="swiper-wrapper-3639333a5a65dd10f" aria-live="off" style="transform: translate3d(-2826px, 0px, 0px); transition-duration: 1500ms;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1" role="group" aria-label="2 / 5" style="width: 284px; margin-right: 30px;">
+                                       
                                     </div>
-                                    <div class="swiper-slide">
-                                        <div class="rs-services-item">
-                                            <div class="rs-services-thumb">
-                                                <a href="services-details.html"><img src="assets/images/services/services-thumb-11.png" alt="image"></a>
+                                    <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="1 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/bussiness-maruti.webp" alt="image">
                                             </div>
-                                            <div class="rs-services-content">
-                                                <h5 class="rs-services-title"><a href="services-details.html"> Civil Engineering
-                                                    </a></h5>
-                                                <p class="descrip"> Project contracting involves various elements, including the
-                                                    selection. </p>
-                                                <div class="rs-services-number"></div>
-                                                <div class="rs-services-btn-wrapper">
-                                                    <div class="rs-services-text-btn underline has-theme-blue">
-                                                        <a class="rs-text-btn" href="services-details.html">View
-                                                            Details</a>
-                                                    </div>
-                                                    <a class="rs-square-btn has-icon has-light-bg" href="services-details.html">
-                                                        <span class="icon-box">
-                                             <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12"
-                                                height="10" viewBox="0 0 12 10" fill="none">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                   d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                   fill="#616161"></path>
-                                             </svg>
-                                             <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="12"
-                                                height="10" viewBox="0 0 12 10" fill="none">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                   d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                   fill="#616161"></path>
-                                             </svg>
-                                          </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="rs-services-item">
-                                            <div class="rs-services-thumb">
-                                                <a href="services-details.html"><img src="assets/images/services/services-thumb-12.png" alt="image"></a>
-                                            </div>
-                                            <div class="rs-services-content">
-                                                <h5 class="rs-services-title"><a href="services-details.html"> Pre-construction</a>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Maruti Suzuki</a>
                                                 </h5>
-                                                <p class="descrip">Consectetur project contracting involves various elements,
-                                                    including.</p>
-                                                <div class="rs-services-number"></div>
-                                                <div class="rs-services-btn-wrapper">
-                                                    <div class="rs-services-text-btn underline has-theme-blue">
-                                                        <a class="rs-text-btn" href="services-details.html">View
-                                                            Details</a>
-                                                    </div>
-                                                    <a class="rs-square-btn has-icon has-light-bg" href="services-details.html">
-                                                        <span class="icon-box">
-                                             <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12"
-                                                height="10" viewBox="0 0 12 10" fill="none">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                   d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                   fill="#616161"></path>
-                                             </svg>
-                                             <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="12"
-                                                height="10" viewBox="0 0 12 10" fill="none">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                   d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                   fill="#616161"></path>
-                                             </svg>
-                                          </span>
-                                                    </a>
-                                                </div>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
-                                        <div class="rs-services-item">
-                                            <div class="rs-services-thumb">
-                                                <a href="services-details.html"><img src="assets/images/services/services-thumb-13.png" alt="image"></a>
+                                    <div class="swiper-slide swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="2 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/company-jcb.webp" alt="image">
                                             </div>
-                                            <div class="rs-services-content">
-                                                <h5 class="rs-services-title"><a href="services-details.html">General
-                                                        Contracting</a></h5>
-                                                <p class="descrip">Project contracting involves various elements, including the
-                                                    selection. </p>
-                                                <div class="rs-services-number"></div>
-                                                <div class="rs-services-btn-wrapper">
-                                                    <div class="rs-services-text-btn underline has-theme-blue">
-                                                        <a class="rs-text-btn" href="services-details.html">View
-                                                            Details</a>
-                                                    </div>
-                                                    <a class="rs-square-btn has-icon has-light-bg" href="services-details.html">
-                                                        <span class="icon-box">
-                                             <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="12"
-                                                height="10" viewBox="0 0 12 10" fill="none">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                   d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                   fill="#616161"></path>
-                                             </svg>
-                                             <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="12"
-                                                height="10" viewBox="0 0 12 10" fill="none">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                   d="M0 5C0 4.60551 0.319797 4.28571 0.714286 4.28571L8.98985 4.28571L5.92349 1.21936C5.64455 0.940417 5.64455 0.488155 5.92349 0.209209C6.20244 -0.0697365 6.6547 -0.0697365 6.93365 0.209209L11.2194 4.49492C11.4983 4.77387 11.4983 5.22613 11.2194 5.50508L6.93365 9.79079C6.6547 10.0697 6.20244 10.0697 5.92349 9.79079C5.64455 9.51184 5.64455 9.05958 5.92349 8.78064L8.98985 5.71429L0.714286 5.71429C0.319797 5.71429 0 5.39449 0 5Z"
-                                                   fill="#616161"></path>
-                                             </svg>
-                                          </span>
-                                                    </a>
-                                                </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Varun JCB</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
+                                    <div class="swiper-slide" data-swiper-slide-index="2" role="group" aria-label="3 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/company-bharatbenz.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Varun Trucking</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide" data-swiper-slide-index="3" role="group" aria-label="4 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/company-bmw.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Varsha Autohaus</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4" role="group" aria-label="5 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/company-suzuki.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Padmaja Suzuki</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4" role="group" aria-label="6 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/company-hyundai.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Neon Hyundai</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4" role="group" aria-label="7 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/company-mg.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">MG Motors</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4" role="group" aria-label="8 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/company-bajaj.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Varun Bajaj</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                      <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4" role="group" aria-label="9 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/company-honda.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Green Honda</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                      <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4" role="group" aria-label="10 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/company-ktm.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Varun KTM</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                     <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4" role="group" aria-label="11 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/company-mahindra.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Neon Mahindra</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                      <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4" role="group" aria-label="12 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/company-chetak.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Varun Chetak</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                     <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4" role="group" aria-label="13 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/comapny-varunfinance.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Varun Finance</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                     <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4" role="group" aria-label="14 / 11" style="width: 284px; margin-right: 30px;">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                <img src="assets/images/home/company-lakshmifinance.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h5 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Lakshmi Finance</a>
+                                                </h5>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                                             <path d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                           </div>
+                              
+                            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- services area end -->
 
         <!-- text slider area start -->
         <div class="rs-text-slide-area rs-text-slide-two">
@@ -581,9 +789,8 @@
                                 <span class="rs-work-step-number"></span>
                                 <span class="rs-work-step-text">step</span>
                             </div>
-                            <h5 class="rs-work-step-title">Research</h5>
-                            <p class="descrip">Industry standard dummy text took since the when an unknown printer galley type
-                                scrambled. </p>
+                            <h5 class="rs-work-step-title">Understand the Need</h5>
+                            <p class="descrip"> Many people in rural areas didn’t have access to basic healthcare. We wanted to help the poor and underserved communities.</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
@@ -592,9 +799,18 @@
                                 <span class="rs-work-step-number"></span>
                                 <span class="rs-work-step-text">step</span>
                             </div>
-                            <h5 class="rs-work-step-title"> Brainstorming</h5>
-                            <p class="descrip"> Ority have suffered alteration in some randomised words which don't look even
-                                slightly believable. </p>
+                            <h5 class="rs-work-step-title"> Plan the Service</h5>
+                            <p class="descrip"> We set up affordable health centers for checkups, tests, and treatments. Our goal was to make healthcare easy to access and understand.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                        <div class="rs-work-step-item  wow fadeIn" data-wow-delay=".5s">
+                            <div class="rs-work-step-number-wrapper">
+                                <span class="rs-work-step-number"></span>
+                                <span class="rs-work-step-text">step</span>
+                            </div>
+                            <h5 class="rs-work-step-title"> Set Up Health Centers</h5>
+                            <p class="descrip">We built clinics in key places across Andhra Pradesh. Experienced doctors and basic medical facilities were made available.</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
@@ -603,20 +819,8 @@
                                 <span class="rs-work-step-number"></span>
                                 <span class="rs-work-step-text">step</span>
                             </div>
-                            <h5 class="rs-work-step-title"> Finalize</h5>
-                            <p class="descrip">All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks
-                                as necessary. </p>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                        <div class="rs-work-step-item  wow fadeIn" data-wow-delay=".7s">
-                            <div class="rs-work-step-number-wrapper">
-                                <span class="rs-work-step-number"></span>
-                                <span class="rs-work-step-text">step</span>
-                            </div>
-                            <h5 class="rs-work-step-title">Launch</h5>
-                            <p class="descrip"> Handful model sentence structures
-                                to generate which looks reasonable repeat generated. </p>
+                            <h5 class="rs-work-step-title"> Make a Difference</h5>
+                            <p class="descrip"> Since 2010, we’ve helped over 2 million people. We also conduct free health camps and awareness programs every year.</p>
                         </div>
                     </div>
                 </div>
@@ -631,7 +835,7 @@
                     <div class="col-lg-12">
                         <div class="rs-section-subtitle-wrapper">
                             <span class="rs-section-subtitle has-theme-light-blue justify-content-start">
-                        Work We Have Done
+                        Building Relationships
                      </span>
                             <div class="rs-section-border-line"></div>
                         </div>
@@ -640,8 +844,7 @@
                 <div class="row  g-5 section-title-space align-items-center">
                     <div class="col-xl-6 col-lg-6">
                         <div class="rs-section-title-wrapper">
-                            <h2 class="rs-section-title has-theme-light-blue rs-split-text-enable split-in-fade">Laboratory
-                                products of the highest class in the world </h2>
+                            <h2 class="rs-section-title has-theme-light-blue rs-split-text-enable split-in-fade">Bringing Quality, Trust & Service Together.</h2>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6">
@@ -667,30 +870,12 @@
                     <div class="col-xl-6 col-lg-12">
                         <div class="rs-portfolio-item">
                             <div class="rs-portfolio-thumb">
-                                <img src="assets/images/portfolio/portfolio-thumb-21.png" alt="image">
+                                <img src="assets/images/home/automobile.webp" alt="image">
                             </div>
                             <div class="rs-portfolio-content has-large">
-                                <h3 class="rs-portfolio-title has-big underline has-white"> <a href="portfolio-details.html">Electron
-                                        Microscope</a></h3>
+                                <h3 class="rs-portfolio-title has-big underline has-white"> <a href="portfolio-details.html">Automobile Dealership</a></h3>
                                 <div class="rs-portfolio-tag">
-                                    <a href="portfolio-details.html">Laboratory</a>
                                 </div>
-                            </div>
-                            <div class="rs-services-text-btn">
-                                <a class="rs-btn has-theme-light-blue has-icon has-bg" href="portfolio.html">See More Works
-                                    <span class="icon-box">
-                              <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                 <path
-                                    d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                 </path>
-                              </svg>
-                              <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                 <path
-                                    d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                 </path>
-                              </svg>
-                           </span>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -699,123 +884,45 @@
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="rs-portfolio-item">
                                     <div class="rs-portfolio-thumb">
-                                        <img src="assets/images/portfolio/portfolio-thumb-22.png" alt="image">
+                                        <img src="assets/images/home/auto-financing.webp" alt="image">
                                     </div>
                                     <div class="rs-portfolio-content">
-                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Electron
-                                                Microscope</a></h5>
+                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Auto Financing</a></h5>
                                         <div class="rs-portfolio-tag">
-                                            <a href="portfolio-details.html">Laboratory</a>
                                         </div>
-                                    </div>
-                                    <div class="rs-services-text-btn">
-                                        <a class="rs-btn has-theme-light-blue has-icon has-bg" href="portfolio.html">See More
-                                            Works
-                                            <span class="icon-box">
-                                    <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                    <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                 </span>
-                                        </a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="rs-portfolio-item">
                                     <div class="rs-portfolio-thumb">
-                                        <img src="assets/images/portfolio/portfolio-thumb-23.png" alt="image">
+                                        <img src="assets/images/home/infrastructure.webp" alt="image">
                                     </div>
                                     <div class="rs-portfolio-content">
-                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html"> Lab
-                                                Technicians</a></h5>
-                                        <div class="rs-portfolio-tag">
-                                            <a href="portfolio-details.html">Laboratory</a>
-                                        </div>
-                                    </div>
-                                    <div class="rs-services-text-btn">
-                                        <a class="rs-btn has-theme-light-blue has-icon has-bg" href="portfolio.html">See More
-                                            Works
-                                            <span class="icon-box">
-                                    <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                    <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                 </span>
-                                        </a>
+                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Infrastructure</a></h5>
+                                        
                                     </div>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="rs-portfolio-item">
                                     <div class="rs-portfolio-thumb">
-                                        <img src="assets/images/portfolio/portfolio-thumb-24.png" alt="image">
+                                        <img src="assets/images/home/hospitality.webp" alt="image">
                                     </div>
                                     <div class="rs-portfolio-content">
-                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Biotechnology </a></h5>
-                                        <div class="rs-portfolio-tag">
-                                            <a href="portfolio-details.html">Laboratory</a>
-                                        </div>
-                                    </div>
-                                    <div class="rs-services-text-btn">
-                                        <a class="rs-btn has-theme-light-blue has-icon has-bg" href="portfolio.html">See More
-                                            Works
-                                            <span class="icon-box">
-                                    <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                    <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                 </span>
-                                        </a>
+                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Hospitality </a></h5>
+                                        
                                     </div>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="rs-portfolio-item">
                                     <div class="rs-portfolio-thumb">
-                                        <img src="assets/images/portfolio/portfolio-thumb-25.png" alt="image">
+                                        <img src="assets/images/home/agriculture.webp" alt="image">
                                     </div>
                                     <div class="rs-portfolio-content">
-                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Vaccine
-                                                Reactions</a></h5>
-                                        <div class="rs-portfolio-tag">
-                                            <a href="portfolio-details.html">Laboratory</a>
-                                        </div>
-                                    </div>
-                                    <div class="rs-services-text-btn">
-                                        <a class="rs-btn has-theme-light-blue has-icon has-bg" href="portfolio.html">See More
-                                            Works
-                                            <span class="icon-box">
-                                    <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                    <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                 </span>
-                                        </a>
+                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Agriculture</a></h5>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -826,229 +933,312 @@
         </section>
         <!-- portfolio area end -->
 
-
-
-        <!-- testimonial area start -->
-        <section class="rs-testimonial-area section-space-bottom rs-testimonial-four rs-swiper">
-            <div class="container has-large">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="rs-section-subtitle-wrapper">
-                            <span class="rs-section-subtitle has-theme-light-blue justify-content-start">
-                        Testimonials
-                     </span>
-                            <div class="rs-section-border-line"></div>
-                        </div>
-                    </div>
-                </div>
+                <!-- services area start -->
+        <section class="rs-services-area section-space-top section-space-bottom rs-services-one primary-bg p-relative">
+            <div class="rs-services-shape">
+                <img src="assets/images/shape/wave-shape-01.png" alt="image">
+            </div>
+            <div class="container">
                 <div class="row  g-5 section-title-space align-items-center">
-                    <div class="col-xl-6 col-lg-6">
+                    <div class="col-xl-7 col-lg-7">
                         <div class="rs-section-title-wrapper">
-                            <h2 class="rs-section-title has-theme-light-blue rs-split-text-enable split-in-fade">What client
-                                say about industrie</h2>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="rs-testimonial-btn">
-                            <a class="rs-btn has-theme-light-blue has-icon has-bg" href="contact.html">View More Reviews
-                                <span class="icon-box">
-                           <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                              <path
-                                 d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                              </path>
-                           </svg>
-                           <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                              <path
-                                 d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                              </path>
-                           </svg>
-                        </span>
-                            </a>
+                            <span class="rs-section-subtitle has-theme-orange justify-content-start">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
+                           <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
+                           <path fill-rule="evenodd" clip-rule="evenodd"
+                              d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
+                              fill="#EA5501"></path>
+                        </svg>
+                        Core Values
+                     </span>
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Creative features from production industry</h2>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="rs-testimonial-slider-wrapper">
-                        <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="1500" data-autoplay="false" data-dots-dynamic="false" data-center-mode="true" data-hover-pause="true" data-effect="false" data-delay="1500" data-item="3" data-item-xl="3" data-item-lg="3" data-item-md="2" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="rs-testimonial-item">
-                                        <div class="rs-testimonial-quote">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="96" height="39" viewBox="0 0 96 39" fill="none">
-                                                <g opacity="0.06">
-                                                    <path d="M0 29.2815H21.4286L7.14275 0.190567H28.5713L42.8572 29.2815V72.918H0V29.2815Z" fill="#023B4A"></path>
-                                                    <path d="M52.8574 72.918V29.2815H74.286L60.0002 0.190567H81.4288L95.7146 29.2815V72.918H52.8574Z" fill="#023B4A"></path>
-                                                </g>
-                                            </svg>
-                                        </div>
-                                        <div class="rs-testimonial-content">
-                                            <div class="rs-testimonial-top">
-                                                <div class="rs-testimonial-avater-wrapper">
-                                                    <div class="rs-testimonial-avater-thumb">
-                                                        <img src="assets/images/user/user-thumb-01.png" alt="image">
-                                                    </div>
-                                                    <div class="rs-testimonial-avater-info">
-                                                        <h5 class="rs-testimonial-title">Best Company!</h5>
-                                                        <div class="rs-testimonial-rating">
-                                                            <div class="rs-rating">
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-half-line"></i></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                <div class="row g-5">
+                    <div class="col-xxl-3 col-xl-4 col-lg-4">
+                        <div class="rs-services-tab">
+                            <ul class="nav nav-pills" id="pills-tab" role="tablist">
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link active" id="pills-item-one-tab" data-bs-toggle="pill" data-bs-target="#pills-item-one" type="button" role="tab" aria-controls="pills-item-one" aria-selected="true">
+                                        Employees <span class="rs-services-icon"><svg
+                                    xmlns="http://www.w3.org/2000/svg" width="18" height="12" viewBox="0 0 18 12"
+                                    fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                       d="M0 6C0 5.66249 0.273604 5.38889 0.611111 5.38889L15.0246 5.38889L11.179 1.54323C10.9403 1.30458 10.9403 0.917645 11.179 0.678991C11.4176 0.440337 11.8046 0.440337 12.0432 0.678991L16.9321 5.56788C17.1708 5.80653 17.1708 6.19347 16.9321 6.43212L12.0432 11.321C11.8046 11.5597 11.4176 11.5597 11.179 11.321C10.9403 11.0824 10.9403 10.6954 11.179 10.4568L15.0246 6.61111L0.611111 6.61111C0.273604 6.61111 0 6.33751 0 6Z"
+                                       fill="white"></path>
+                                 </svg></span>
+                                    </button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="pills-item-two-tab" data-bs-toggle="pill" data-bs-target="#pills-item-two" type="button" role="tab" aria-controls="pills-item-two" aria-selected="false"> Customers <span class="rs-services-icon"><svg
+                                    xmlns="http://www.w3.org/2000/svg" width="18" height="12" viewBox="0 0 18 12"
+                                    fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                       d="M0 6C0 5.66249 0.273604 5.38889 0.611111 5.38889L15.0246 5.38889L11.179 1.54323C10.9403 1.30458 10.9403 0.917645 11.179 0.678991C11.4176 0.440337 11.8046 0.440337 12.0432 0.678991L16.9321 5.56788C17.1708 5.80653 17.1708 6.19347 16.9321 6.43212L12.0432 11.321C11.8046 11.5597 11.4176 11.5597 11.179 11.321C10.9403 11.0824 10.9403 10.6954 11.179 10.4568L15.0246 6.61111L0.611111 6.61111C0.273604 6.61111 0 6.33751 0 6Z"
+                                       fill="white"></path>
+                                 </svg></span>
+                                    </button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="pills-item-three-tab" data-bs-toggle="pill" data-bs-target="#pills-item-three" type="button" role="tab" aria-controls="pills-item-three" aria-selected="false">
+                                        Principles<span class="rs-services-icon"><svg xmlns="http://www.w3.org/2000/svg"
+                                    width="18" height="12" viewBox="0 0 18 12" fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                       d="M0 6C0 5.66249 0.273604 5.38889 0.611111 5.38889L15.0246 5.38889L11.179 1.54323C10.9403 1.30458 10.9403 0.917645 11.179 0.678991C11.4176 0.440337 11.8046 0.440337 12.0432 0.678991L16.9321 5.56788C17.1708 5.80653 17.1708 6.19347 16.9321 6.43212L12.0432 11.321C11.8046 11.5597 11.4176 11.5597 11.179 11.321C10.9403 11.0824 10.9403 10.6954 11.179 10.4568L15.0246 6.61111L0.611111 6.61111C0.273604 6.61111 0 6.33751 0 6Z"
+                                       fill="white"></path>
+                                 </svg></span>
+                                    </button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="pills-item-four-tab" data-bs-toggle="pill" data-bs-target="#pills-item-four" type="button" role="tab" aria-controls="pills-item-four" aria-selected="false">
+                                        Bankers<span class="rs-services-icon"><svg xmlns="http://www.w3.org/2000/svg"
+                                    width="18" height="12" viewBox="0 0 18 12" fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                       d="M0 6C0 5.66249 0.273604 5.38889 0.611111 5.38889L15.0246 5.38889L11.179 1.54323C10.9403 1.30458 10.9403 0.917645 11.179 0.678991C11.4176 0.440337 11.8046 0.440337 12.0432 0.678991L16.9321 5.56788C17.1708 5.80653 17.1708 6.19347 16.9321 6.43212L12.0432 11.321C11.8046 11.5597 11.4176 11.5597 11.179 11.321C10.9403 11.0824 10.9403 10.6954 11.179 10.4568L15.0246 6.61111L0.611111 6.61111C0.273604 6.61111 0 6.33751 0 6Z"
+                                       fill="white"></path>
+                                 </svg></span>
+                                    </button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="pills-item-five-tab" data-bs-toggle="pill" data-bs-target="#pills-item-five" type="button" role="tab" aria-controls="pills-item-five" aria-selected="false">
+                                        Government<span class="rs-services-icon"><svg
+                                    xmlns="http://www.w3.org/2000/svg" width="18" height="12" viewBox="0 0 18 12"
+                                    fill="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                       d="M0 6C0 5.66249 0.273604 5.38889 0.611111 5.38889L15.0246 5.38889L11.179 1.54323C10.9403 1.30458 10.9403 0.917645 11.179 0.678991C11.4176 0.440337 11.8046 0.440337 12.0432 0.678991L16.9321 5.56788C17.1708 5.80653 17.1708 6.19347 16.9321 6.43212L12.0432 11.321C11.8046 11.5597 11.4176 11.5597 11.179 11.321C10.9403 11.0824 10.9403 10.6954 11.179 10.4568L15.0246 6.61111L0.611111 6.61111C0.273604 6.61111 0 6.33751 0 6Z"
+                                       fill="white"></path>
+                                 </svg></span>
+                                    </button>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xxl-9 col-xl-8 col-lg-8">
+                        <div class="rs-services-tab-wrapper">
+                            <div class="tab-content rs-services-tab-anim" id="pills-tabContent">
+                                <div class="tab-pane fade show active" id="pills-item-one" role="tabpanel" aria-labelledby="pills-item-one-tab" tabindex="0">
+                                    <div class="rs-services-tab-content-wrapper p-relative">
+                                        <div class="row g-5 align-items-center">
+                                            <div class="col-xl-6 col-lg-6">
+                                                <div class="rs-services-tab-content-thumb">
+                                                    <img src="assets/images/home/employees.webp" alt="image">
                                                 </div>
                                             </div>
-                                            <div class="rs-testimonial-description">
-                                                <p> Hampden-Sydney College in Virginia, looked up one of the more obscure latin
-                                                    words consectetur.</p>
-                                            </div>
-                                            <div class="rs-testimonial-desig-info">
-                                                <h6 class="rs-testimonial-avater-title">Abdur Rashid</h6>
-                                                <div class="rs-testimonial-separator">/</div>
-                                                <span class="rs-testimonial-avater-designation">Founder &amp; CEO</span>
+                                            <div class="col-xl-6 col-lg-6">
+                                                <div class="rs-services-tab-content">
+                                                    <h3 class="rs-services-tab-title  has-theme-green">Our people are our greatest strength.</h3>
+                                                    <p>We nurture talent, value dedication, and create opportunities for continuous growth and success.</p>
+                                                    <div class="rs-services-tab-list">
+                                                        <ul>
+                                                            <li>Career Growth</li>
+                                                            <li>Safe Workplace</li>
+                                                            <li>Skill Development</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="swiper-slide">
-                                    <div class="rs-testimonial-item">
-                                        <div class="rs-testimonial-quote">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="96" height="39" viewBox="0 0 96 39" fill="none">
-                                                <g opacity="0.06">
-                                                    <path d="M0 29.2815H21.4286L7.14275 0.190567H28.5713L42.8572 29.2815V72.918H0V29.2815Z" fill="#023B4A"></path>
-                                                    <path d="M52.8574 72.918V29.2815H74.286L60.0002 0.190567H81.4288L95.7146 29.2815V72.918H52.8574Z" fill="#023B4A"></path>
-                                                </g>
-                                            </svg>
-                                        </div>
-                                        <div class="rs-testimonial-content">
-                                            <div class="rs-testimonial-top">
-                                                <div class="rs-testimonial-avater-wrapper">
-                                                    <div class="rs-testimonial-avater-thumb">
-                                                        <img src="assets/images/user/user-thumb-02.png" alt="image">
-                                                    </div>
-                                                    <div class="rs-testimonial-avater-info">
-                                                        <h5 class="rs-testimonial-title">Popular Industry! </h5>
-                                                        <div class="rs-testimonial-rating">
-                                                            <div class="rs-rating">
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-half-line"></i></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                <div class="tab-pane fade" id="pills-item-two" role="tabpanel" aria-labelledby="pills-item-two-tab" tabindex="0">
+                                    <div class="rs-services-tab-content-wrapper p-relative">
+                                        <div class="row g-5 align-items-center">
+                                            <div class="col-xl-6 col-lg-6">
+                                                <div class="rs-services-tab-content-thumb">
+                                                    <img src="assets/images/home/customers.webp" alt="image">
                                                 </div>
                                             </div>
-                                            <div class="rs-testimonial-description">
-                                                <p> Hampden-Sydney College in Virginia, looked up one of the more obscure latin
-                                                    words consectetur.</p>
-                                            </div>
-                                            <div class="rs-testimonial-desig-info">
-                                                <h6 class="rs-testimonial-avater-title">Christopher</h6>
-                                                <div class="rs-testimonial-separator">/</div>
-                                                <span class="rs-testimonial-avater-designation">Engineer</span>
+                                            <div class="col-xl-6 col-lg-6">
+                                                <div class="rs-services-tab-content">
+                                                    <h3 class="rs-services-tab-title  has-theme-green">Every customer is at the core of our journey.</h3>
+                                                    <p>We strive to deliver unmatched service, quality, and long-term satisfaction in everything we offer.</p>
+                                                    <div class="rs-services-tab-list">
+                                                        <ul>
+                                                            <li>Quality Service</li>
+                                                            <li>Long-Term Trust</li>
+                                                            <li>Customer First</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="swiper-slide">
-                                    <div class="rs-testimonial-item">
-                                        <div class="rs-testimonial-quote">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="96" height="39" viewBox="0 0 96 39" fill="none">
-                                                <g opacity="0.06">
-                                                    <path d="M0 29.2815H21.4286L7.14275 0.190567H28.5713L42.8572 29.2815V72.918H0V29.2815Z" fill="#023B4A"></path>
-                                                    <path d="M52.8574 72.918V29.2815H74.286L60.0002 0.190567H81.4288L95.7146 29.2815V72.918H52.8574Z" fill="#023B4A"></path>
-                                                </g>
-                                            </svg>
-                                        </div>
-                                        <div class="rs-testimonial-content">
-                                            <div class="rs-testimonial-top">
-                                                <div class="rs-testimonial-avater-wrapper">
-                                                    <div class="rs-testimonial-avater-thumb">
-                                                        <img src="assets/images/user/user-thumb-03.png" alt="image">
-                                                    </div>
-                                                    <div class="rs-testimonial-avater-info">
-                                                        <h5 class="rs-testimonial-title">Best Company!</h5>
-                                                        <div class="rs-testimonial-rating">
-                                                            <div class="rs-rating">
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-half-line"></i></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                <div class="tab-pane fade" id="pills-item-three" role="tabpanel" aria-labelledby="pills-item-three-tab" tabindex="0">
+                                    <div class="rs-services-tab-content-wrapper p-relative">
+                                        <div class="row g-5 align-items-center">
+                                            <div class="col-xl-6 col-lg-6">
+                                                <div class="rs-services-tab-content-thumb ">
+                                                    <img src="assets/images/home/principles.webp" alt="image">
                                                 </div>
                                             </div>
-                                            <div class="rs-testimonial-description">
-                                                <p> Hampden-Sydney College in Virginia, looked up one of the more obscure latin
-                                                    words consectetur.</p>
-                                            </div>
-                                            <div class="rs-testimonial-desig-info">
-                                                <h6 class="rs-testimonial-avater-title">Nayeem</h6>
-                                                <div class="rs-testimonial-separator">/</div>
-                                                <span class="rs-testimonial-avater-designation">Manager</span>
+                                            <div class="col-xl-6 col-lg-6">
+                                                <div class="rs-services-tab-content">
+                                                    <h3 class="rs-services-tab-title  has-theme-green">Our work is guided by strong ethical values.
+
+                                                    </h3>
+                                                    <p>Integrity, transparency, and fairness drive every decision and action we take.</p>
+                                                    <div class="rs-services-tab-list">
+                                                        <ul>
+                                                            <li>Ethics First</li>
+                                                            <li>Transparency</li>
+                                                            <li>Fair Practices</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="swiper-slide">
-                                    <div class="rs-testimonial-item">
-                                        <div class="rs-testimonial-quote">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="96" height="39" viewBox="0 0 96 39" fill="none">
-                                                <g opacity="0.06">
-                                                    <path d="M0 29.2815H21.4286L7.14275 0.190567H28.5713L42.8572 29.2815V72.918H0V29.2815Z" fill="#023B4A"></path>
-                                                    <path d="M52.8574 72.918V29.2815H74.286L60.0002 0.190567H81.4288L95.7146 29.2815V72.918H52.8574Z" fill="#023B4A"></path>
-                                                </g>
-                                            </svg>
-                                        </div>
-                                        <div class="rs-testimonial-content">
-                                            <div class="rs-testimonial-top">
-                                                <div class="rs-testimonial-avater-wrapper">
-                                                    <div class="rs-testimonial-avater-thumb">
-                                                        <img src="assets/images/user/user-thumb-04.png" alt="image">
-                                                    </div>
-                                                    <div class="rs-testimonial-avater-info">
-                                                        <h5 class="rs-testimonial-title">Best Company!</h5>
-                                                        <div class="rs-testimonial-rating">
-                                                            <div class="rs-rating">
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-fill"></i></span>
-                                                                <span><i class="ri-star-half-line"></i></span>
-                                                            </div>
-                                                        </div>
+                                <div class="tab-pane fade" id="pills-item-four" role="tabpanel" aria-labelledby="pills-item-four-tab" tabindex="0">
+                                    <div class="rs-services-tab-content-wrapper p-relative">
+                                        <div class="row g-5 align-items-center">
+                                            <div class="col-xl-6 col-lg-6">
+                                                <div class="rs-services-tab-content-thumb">
+                                                    <img src="assets/images/home/bankers.webp" alt="image">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-6">
+                                                <div class="rs-services-tab-content">
+                                                    <h3 class="rs-services-tab-title  has-theme-green">We value the trust our financial partners place in us.
+
+                                                    </h3>
+                                                    <p>With consistent performance and reliability, we maintain strong, long-term banking relationships.</p>
+                                                    <div class="rs-services-tab-list">
+                                                        <ul>
+                                                            <li>Financial Discipline</li>
+                                                            <li>Mutual Trust</li>
+                                                            <li>Timely Reporting</li>
+                                                        </ul>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="rs-testimonial-description">
-                                                <p> Hampden-Sydney College in Virginia, looked up one of the more obscure latin
-                                                    words consectetur.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="pills-item-five" role="tabpanel" aria-labelledby="pills-item-five-tab" tabindex="0">
+                                    <div class="rs-services-tab-content-wrapper p-relative">
+                                        <div class="row g-5 align-items-center">
+                                            <div class="col-xl-6 col-lg-6">
+                                                <div class="rs-services-tab-content-thumb">
+                                                    <img src="assets/images/home/government.webp" alt="image">
+                                                </div>
                                             </div>
-                                            <div class="rs-testimonial-desig-info">
-                                                <h6 class="rs-testimonial-avater-title">Joshua Pul</h6>
-                                                <div class="rs-testimonial-separator">/</div>
-                                                <span class="rs-testimonial-avater-designation">CEO Industry</span>
+                                            <div class="col-xl-6 col-lg-6">
+                                                <div class="rs-services-tab-content">
+                                                    <h3 class="rs-services-tab-title  has-theme-green">We work in alignment with government policies and priorities.</h3>
+                                                    <p>With full compliance and active support for public initiatives, we contribute to nation-building.</p>
+                                                    <div class="rs-services-tab-list">
+                                                        <ul>
+                                                            <li>Policy Support</li>
+                                                            <li>Compliance</li>
+                                                            <li>Social Impact</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- if we need pagination -->
-                        <div class="swiper-pagination rs-pagination"></div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- testimonial area start -->
-                <!-- why choose area start -->
+        <!-- services area end -->
+
+
+        <div class="rs-brand-area rs-brand-three section-space">
+            <div class="container">
+                <div class="row  g-5 section-title-space justify-content-center">
+                    <div class="col-xl-7 col-lg-8">
+                        <div class="rs-section-title-wrapper text-center">
+                            <span class="rs-section-subtitle has-theme-orange">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
+                           <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z" fill="#EA5501"></path>
+                        </svg>
+                        Our Partners
+                     </span>
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade " style="perspective: 400px;">
+                                Our Brands. Our Partners. Our People.
+
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                        <div class="col-xl-12">
+                            <div class="rs-brand-wrapper">
+                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".3s">
+                                    <div class="rs-brand-thumb">
+                                        <img src="assets/images/logo/marutisuzuki.png" alt="image">
+                                    </div>
+                                </div>
+                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".5s">
+                                    <div class="rs-brand-thumb">
+                                        <img src="assets/images/logo/jcb.png" alt="image">
+                                    </div>
+                                </div>
+                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".7s">
+                                    <div class="rs-brand-thumb">
+                                        <img src="assets/images/logo/ktm.png" alt="image">
+                                    </div>
+                                </div>
+                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".9s">
+                                    <div class="rs-brand-thumb">
+                                        <img src="assets/images/logo/mahindra.png" alt="image">
+                                    </div>
+                                </div>
+                                <div class="rs-brand-item wow fadeIn" data-wow-delay="1.1s">
+                                    <div class="rs-brand-thumb">
+                                        <img src="assets/images/logo/mg.png" alt="image">
+                                    </div>
+                                </div>
+                                <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
+                                    <div class="rs-brand-thumb">
+                                        <img src="assets/images/logo/bmw.png" alt="image">
+                                    </div>
+                                </div>
+                                <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
+                                    <div class="rs-brand-thumb">
+                                        <img src="assets/images/logo/bajaj.png" alt="image">
+                                    </div>
+                                </div>
+                                 <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
+                                    <div class="rs-brand-thumb">
+                                        <img src="assets/images/logo/chetak.png" alt="image">
+                                    </div>
+                                </div>
+                                 <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
+                                    <div class="rs-brand-thumb">
+                                        <img src="assets/images/logo/honda.png" alt="image">
+                                    </div>
+                                </div>
+                                 <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
+                                    <div class="rs-brand-thumb">
+                                        <img src="assets/images/logo/suzuki.png" alt="image">
+                                    </div>
+                                </div>
+                                 <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
+                                    <div class="rs-brand-thumb">
+                                        <img src="assets/images/logo/triumph.png" alt="image">
+                                    </div>
+                                </div>
+                                 <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
+                                    <div class="rs-brand-thumb">
+                                        <img src="assets/images/logo/tvs.png" alt="image">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+
+                        <!-- why choose area start -->
         <section class="rs-why-choose-area section-space rs-why-choose-one primary-bg">
             <div class="container">
                 <div class="row align-items-xl-center g-5">
@@ -1056,10 +1246,9 @@
                         <div class="rs-why-choose-content-wrapper">
                             <div class="rs-section-title-wrapper section-title-space">
                                 <span class="rs-section-subtitle has-theme-blue justify-content-start">
-                           Why Choose Us
+                           Life at Varun Group
                         </span>
-                                <h2 class="rs-section-title has-theme-blue rs-split-text-enable split-in-fade">Construction
-                                    Solutions For Industries and Factory</h2>
+                                <h2 class="rs-section-title has-theme-blue rs-split-text-enable split-in-fade">A Culture of Care, Growth & Purpose</h2>
                             </div>
                             <div class="rs-why-choose-item-wrapper">
                                 <div class="rs-why-choose-item">
@@ -1073,8 +1262,8 @@
                                         </svg>
                                     </div>
                                     <div class="rs-why-choose-content">
-                                        <h5 class="rs-why-choose-title">We're Certified Company</h5>
-                                        <p>All the Lorem Ipsum generators on the Internet tend. </p>
+                                        <h5 class="rs-why-choose-title"> People-Centric Culture</h5>
+                                        <p> We believe in empowering our employees through trust, respect, and opportunities to grow.</p>
                                     </div>
                                 </div>
                                 <div class="rs-why-choose-item">
@@ -1084,8 +1273,8 @@
                                         </svg>
                                     </div>
                                     <div class="rs-why-choose-content">
-                                        <h5 class="rs-why-choose-title">We're Certified Company</h5>
-                                        <p>All the Lorem Ipsum generators on the Internet tend. </p>
+                                        <h5 class="rs-why-choose-title">Learning & Growth</h5>
+                                        <p>Continuous development, upskilling, and mentorship are at the core <br>of our work environment.</p>
                                     </div>
                                 </div>
                                 <div class="rs-why-choose-item">
@@ -1099,20 +1288,8 @@
                                         </svg>
                                     </div>
                                     <div class="rs-why-choose-content">
-                                        <h5 class="rs-why-choose-title">Offer 24/7 Quick Support</h5>
-                                        <p>All the Lorem Ipsum generators on the Internet tend. </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="rs-why-choose-progress">
-                                <div class="single-progress">
-                                    <div class="progress-top">
-                                        <h6 class="progress-title">Providing Quality</h6>
-                                        <span class="progress-number">95%</span>
-                                    </div>
-                                    <div class="progress">
-                                        <div class="progress-bar wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay=".3s" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-                                        </div>
+                                        <h5 class="rs-why-choose-title">Work-Life Balance</h5>
+                                        <p> We promote a healthy balance through flexible support systems <br>and a positive workplace atmosphere.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1135,85 +1312,6 @@
             </div>
         </section>
         <!-- why choose area end -->
-        <!-- brand area start -->
-        <div class="rs-brand-area section-space-top rs-brand-two has-theme-light-blue">
-            <div class="rs-brand-shape-thumb rs-image scroll_reveal reveal_left reveal-active">
-                <img decoding="async" src="assets/images/bg/brand-bg-01.png" alt="image">
-            </div>
-            <div class="rs-brand-circle-shape">
-                <img src="assets/images/shape/circle-shape.png" alt="image">
-            </div>
-            <div class="container has-large">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="rs-section-subtitle-wrapper">
-                            <span class="rs-section-subtitle has-theme-light-blue justify-content-start">
-                        Company
-                     </span>
-                            <div class="rs-section-border-line"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row  g-5 section-title-space">
-                    <div class="col-12">
-                        <div class="rs-brand-wrapper">
-                            <div class="rs-section-title-wrapper">
-                                <h2 class="rs-section-title has-theme-light-blue rs-split-text-enable split-in-fade mb-20">Our
-                                    clients and partners
-                                </h2>
-                                <p class="descrip">Welcome to Industrie, a leading industry innovator with a rich history
-                                    empowering industries and driving progress.</p>
-                            </div>
-
-
-                            <div class="rs-brand-item-wrapper">
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".3s" data-wow-duration="1s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/brand/brand-thumb-21.png" alt="image">
-                                    </div>
-                                </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".4s" data-wow-duration="1s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/brand/brand-thumb-22.png" alt="image">
-                                    </div>
-                                </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".5s" data-wow-duration="1s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/brand/brand-thumb-23.png" alt="image">
-                                    </div>
-                                </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".6s" data-wow-duration="1s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/brand/brand-thumb-24.png" alt="image">
-                                    </div>
-                                </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".7s" data-wow-duration="1s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/brand/brand-thumb-25.png" alt="image">
-                                    </div>
-                                </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".8s" data-wow-duration="1s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/brand/brand-thumb-26.png" alt="image">
-                                    </div>
-                                </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".9s" data-wow-duration="1s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/brand/brand-thumb-27.png" alt="image">
-                                    </div>
-                                </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay="1s" data-wow-duration="1s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/brand/brand-thumb-28.png" alt="image">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- brand area end -->
                 <!-- testimonial area start -->
         <section class="rs-testimonial-area rs-testimonial-three rs-swiper has-bg-black">
             <div class="rs-testimonial-bg-thumb" data-background="assets/images/testimonial/testimonial-thumb-02.png">
@@ -1373,17 +1471,13 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
-                                <a href="team-details.html"><img src="assets/images/team/team-thumb-01.png" alt="image"></a>
-                                <div class="rs-theme-social rs-team-social has-transparent">
-                                    <a href="#"><i class="ri-twitter-x-line"></i></a>
-                                    <a href="#"><i class="ri-facebook-fill"></i></a>
-                                    <a href="#"><i class="ri-linkedin-fill"></i></a>
-                                </div>
+                                <a href="team-details.html"><img src="assets/images/home/team-prabhu.webp" alt="image"></a>
+                                
                             </div>
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
-                                    <h5 class="rs-team-title"><a href="team-details.html">Peter Hase</a></h5>
-                                    <span class="rs-team-designation">Sr. Engineer</span>
+                                    <h5 class="rs-team-title"><a href="team-details.html">V Prabhu Kishore</a></h5>
+                                    <span class="rs-team-designation">CHAIRMAN & FOUNDER</span>
                                 </div>
                             </div>
                         </div>
@@ -1391,17 +1485,12 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
-                                <a href="team-details.html"><img src="assets/images/team/team-thumb-02.png" alt="image"></a>
-                                <div class="rs-theme-social rs-team-social has-transparent">
-                                    <a href="#"><i class="ri-twitter-x-line"></i></a>
-                                    <a href="#"><i class="ri-facebook-fill"></i></a>
-                                    <a href="#"><i class="ri-linkedin-fill"></i></a>
-                                </div>
+                                <a href="team-details.html"><img src="assets/images/home/team-lakshmi.webp" alt="image"></a>
                             </div>
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
-                                    <h5 class="rs-team-title"><a href="team-details.html">Lawrence Peter</a></h5>
-                                    <span class="rs-team-designation">Four Man</span>
+                                    <h5 class="rs-team-title"><a href="team-details.html">V Lakshmi Kishore</a></h5>
+                                    <span class="rs-team-designation">DIRECTOR</span>
                                 </div>
                             </div>
                         </div>
@@ -1409,7 +1498,7 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
-                                <a href="team-details.html"><img src="assets/images/team/team-thumb-03.png" alt="image"></a>
+                                <a href="team-details.html"><img src="assets/images/home/team-varundev.webp" alt="image"></a>
                                 <div class="rs-theme-social rs-team-social has-transparent">
                                     <a href="#"><i class="ri-twitter-x-line"></i></a>
                                     <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -1418,8 +1507,8 @@
                             </div>
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
-                                    <h5 class="rs-team-title"><a href="team-details.html">Bradley Roy</a></h5>
-                                    <span class="rs-team-designation">Sr. Engineer</span>
+                                    <h5 class="rs-team-title"><a href="team-details.html">V Varun Dev</a></h5>
+                                    <span class="rs-team-designation">MANAGING DIRECTOR</span>
                                 </div>
                             </div>
                         </div>
@@ -1427,7 +1516,7 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
-                                <a href="team-details.html"><img src="assets/images/team/team-thumb-04.png" alt="image"></a>
+                                <a href="team-details.html"><img src="assets/images/home/team-varsha.webp" alt="image"></a>
                                 <div class="rs-theme-social rs-team-social has-transparent">
                                     <a href="#"><i class="ri-twitter-x-line"></i></a>
                                     <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -1436,8 +1525,8 @@
                             </div>
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
-                                    <h5 class="rs-team-title"><a href="team-details.html"> John Maxwell</a></h5>
-                                    <span class="rs-team-designation">Team Manager</span>
+                                    <h5 class="rs-team-title"><a href="team-details.html">V Varsha</a></h5>
+                                    <span class="rs-team-designation">DIRECTOR</span>
                                 </div>
                             </div>
                         </div>
