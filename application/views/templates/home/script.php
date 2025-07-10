@@ -27,3 +27,35 @@
     <script src="assets/js/vendor/purecounter.js"></script>
     <script src="assets/js/vendor/odometer.min.js"></script>
     <script src="assets/js/main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/odometer.js/0.4.8/odometer.min.js"></script>
+    <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const counters = document.querySelectorAll(".rs-counter-number");
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            counters.forEach((counter) => {
+              const count = counter.getAttribute("data-count");
+              counter.innerHTML = "0";
+
+              // Use Odometer.js or your preferred animation method here
+              setTimeout(() => {
+                counter.innerHTML = count;
+              }, 200); // Delay for animation smoothness
+            });
+          }
+        });
+      },
+      {
+        threshold: 0.6,
+      }
+    );
+
+    const counterSection = document.getElementById("counterSection");
+    if (counterSection) {
+      observer.observe(counterSection);
+    }
+  });
+</script>

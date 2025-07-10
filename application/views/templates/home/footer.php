@@ -193,7 +193,7 @@
                                             Ipsums.
                                         </p>
                                         <div class="rs-footer-widget-stroke-text">
-                                            <h3 class="rs-footer-stroke-text has-theme-blue">Since 2007</h3>
+                                            <h3 class="rs-footer-stroke-text has-theme-blue">Since 1950</h3>
                                         </div>
                                     </div>
                                 </div>

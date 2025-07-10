@@ -12,3 +12,4 @@
 <link rel="stylesheet" href="assets/css/vendor/spacing.css">
 <link rel="stylesheet" href="assets/css/vendor/remixicon.css">
 <link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/odometer.js/0.4.8/themes/odometer-theme-default.min.css">

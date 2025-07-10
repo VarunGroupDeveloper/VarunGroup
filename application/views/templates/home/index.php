@@ -13,9 +13,9 @@
                                             <div class="rs-banner-item">
                                                 <div class="rs-banner-content">
                                                     <span class="rs-banner-subtitle">
-                                          <img src="assets/images/shape/border-line.png" alt="image">
-                                          Welcome to our industrie
-                                       </span>
+                                                      <img src="assets/images/shape/border-line.png" alt="image">
+                                                      Welcome to our industrie
+                                                   </span>
                                                     <h1 class="rs-banner-title">Reliable <br>
                                                         <img class="rs-banner-shape" src="assets/images/shape/arrow-shape.png" alt="image">
                                                         <span class="rs-banner-stroke-text">Laboratory</span>
@@ -55,9 +55,9 @@
                                             <div class="rs-banner-item">
                                                 <div class="rs-banner-content">
                                                     <span class="rs-banner-subtitle">
-                                          <img src="assets/images/shape/border-line.png" alt="image">
-                                          Welcome to our industrie
-                                       </span>
+                                                      <img src="assets/images/shape/border-line.png" alt="image">
+                                                      Welcome to our industrie
+                                                   </span>
                                                     <h1 class="rs-banner-title">Innovate <br>
                                                         <img class="rs-banner-shape" src="assets/images/shape/arrow-shape.png" alt="image">
                                                         <span class="rs-banner-stroke-text">Laboratory</span>
@@ -104,7 +104,7 @@
         </section>
         <!-- banner area end -->
                 <!-- feature area start -->
-        <section class="rs-feature-area rs-feature-five section-space">
+        <section class="rs-feature-area rs-feature-five  section-space-top">
             <div class="container has-large">
                 <div class="row g-5">
                     <div class="col-xl-4 col-lg-4 col-md-6">
@@ -173,6 +173,13 @@
                             <div class="rs-about-wrapper-left">
                                 <div class="rs-section-title-wrapper section-title-space">
                                     <span class="rs-section-subtitle has-theme-orange justify-content-start">
+
+                                   <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
+                                       <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
+                                       <path fill-rule="evenodd" clip-rule="evenodd"
+                                          d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
+                                          fill="#EA5501"></path>
+                                    </svg>
                               ABOUT VARUN GROUP
                            </span>
                                     <h2 class="rs-section-title rs-split-text-enable split-in-fade" style="perspective: 400px;">INDIA'S LEADING BUSINESS CONGLOMERATE SINCE 1950</h2>
@@ -254,7 +261,7 @@
 
 
                 <!-- counter area start -->
-        <div class="rs-counter-area rs-counter-one section-space-top has-theme-blue section-space-bottom">
+        <div class="rs-counter-area rs-counter-one has-theme-blue section-space-bottom" id="counterSection">
             <div class="container ">
                 <div class="row g-5">
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -294,8 +301,8 @@
                         <div class="rs-counter-item">
                             <div class="rs-counter-inner">
                                 <div class="rs-counter-number-wrapper">
-                                    <span class="rs-counter-number odometer" data-count="21">00</span>
-                                    <span class="prefix">K+</span>
+                                    <span class="rs-counter-number odometer" data-count="21000">00</span>
+                                    <span class="prefix">+</span>
                                 </div>
                                 <span class="rs-counter-title">Employees</span>
                             </div>
@@ -307,7 +314,7 @@
         <!-- counter area end -->
 
         <section class="rs-portfolio-area rs-portfolio-eight rs-swiper">
-            <div class="container">
+            <div class="container ">
                 <div class="row align-items-center justify-content-between mb-4">
                     <div class="col-md-6 col-sm-12">
                         <div class="rs-section-title-wrapper section-title-space">
@@ -318,7 +325,7 @@
                         </svg>
                         Our Bussiness
                      </span>
-                            <h2 class="rs-section-title has-theme-green rs-split-text-enable split-in-fade" style="perspective: 400px;">Building Value Across Industries</h2>
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade" style="perspective: 400px;">Building Value Across Industries</h2>
                                 
                         </div>
                     </div>
@@ -752,8 +759,10 @@
             <div class="container has-large">
                 <div class="row">
                     <div class="col-lg-12">
+                        <div class="rs-video-overlay"></div> <!-- Black overlay -->
                         <div class="rs-video-bg-thumb-wrapper">
-                            <div class="rs-video-bg-thumb jarallax-img" data-background="assets/images/bg/video-bg-02.png">
+
+                            <div class="rs-video-bg-thumb jarallax-img" data-background="assets/images/home/home-vhc-banner.webp">
                             </div>
                         </div>
                     </div>
@@ -835,6 +844,10 @@
                     <div class="col-lg-12">
                         <div class="rs-section-subtitle-wrapper">
                             <span class="rs-section-subtitle has-theme-light-blue justify-content-start">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
+                           <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z" fill="#EA5501"></path>
+                        </svg>
                         Building Relationships
                      </span>
                             <div class="rs-section-border-line"></div>
@@ -1150,7 +1163,7 @@
         <!-- services area end -->
 
 
-        <div class="rs-brand-area rs-brand-three section-space">
+        <div class="rs-brand-area rs-brand-three section-space rs-swiper">
             <div class="container">
                 <div class="row  g-5 section-title-space justify-content-center">
                     <div class="col-xl-7 col-lg-8">
@@ -1167,6 +1180,17 @@
 
                             </h2>
                         </div>
+                    </div>
+                    <!-- Right: Navigation Arrows -->
+                    <div class="col-md-5 col-sm-12 text-md-end text-sm-start">
+                      <div class="rs-portfolio-navigation d-inline-flex gap-2">
+                        <button class="swiper-button-prev rs-swiper-btn has-bg-light rs-nav-prev-1" tabindex="0" aria-label="Previous slide">
+                          <i class="fa-regular fa-arrow-left"></i>
+                        </button>
+                        <button class="swiper-button-next rs-swiper-btn has-bg-light rs-nav-next-1" tabindex="0" aria-label="Next slide">
+                          <i class="fa-regular fa-arrow-right"></i>
+                        </button>
+                      </div>
                     </div>
                 </div>
                 <div class="row">
@@ -1246,6 +1270,10 @@
                         <div class="rs-why-choose-content-wrapper">
                             <div class="rs-section-title-wrapper section-title-space">
                                 <span class="rs-section-subtitle has-theme-blue justify-content-start">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
+                           <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z" fill="#EA5501"></path>
+                        </svg>
                            Life at Varun Group
                         </span>
                                 <h2 class="rs-section-title has-theme-blue rs-split-text-enable split-in-fade">A Culture of Care, Growth & Purpose</h2>
@@ -1298,13 +1326,11 @@
                     <div class="col-xl-5 col-lg-5">
                         <div class="rs-why-choose-thumb-wrapper">
                             <div class="rs-why-choose-thumb">
-                                <img src="assets/images/why-choose/why-choose-thumb-01.png" alt="image">
+                                <img src="assets/images/home/varun-group-culuture-vg.webp" alt="image">
                             </div>
                             <div class="rs-why-choose-small-thumb">
-                                <img src="assets/images/why-choose/why-choose-thumb-02.png" alt="image">
-                                <div class="rs-why-choose-btn">
-                                    <a href="https://www.youtube.com/watch?v=Yue48fUXuqI" class="rs-play-btn popup-video has-theme-blue"><i class="ri-play-fill"></i></a>
-                                </div>
+                                <img src="assets/images/home/varun-group-culuture-vg-1.webp" alt="image">
+                                
                             </div>
                         </div>
                     </div>
@@ -1312,11 +1338,12 @@
             </div>
         </section>
         <!-- why choose area end -->
-                <!-- testimonial area start -->
+        <!-- testimonial area start -->
         <section class="rs-testimonial-area rs-testimonial-three rs-swiper has-bg-black">
-            <div class="rs-testimonial-bg-thumb" data-background="assets/images/testimonial/testimonial-thumb-02.png">
+
+            <div class="rs-testimonial-bg-thumb swiper-slide" data-background="assets/images/home/testimonial-thumb-02.png">
             </div>
-            <div class="rs-testimonial-bg-thumb-two" data-background="assets/images/bg/testimonials-bg-06.png"> </div>
+            <div class="rs-testimonial-bg-thumb-two" data-background="assets/images/home/testimonials-bg-06.png"> </div>
             <div class="container">
                 <div class="row justify-content-end">
                     <div class="col-xxl-6 col-xl-7 col-lg-7">
@@ -1426,8 +1453,10 @@
                 </div>
             </div>
 
+        
         </section>
         <!-- testimonial area end -->
+
         <!-- team area start -->
         <section class="rs-team-area rs-team-one has-theme-light-blue section-space-top">
             <div class="container has-large">
@@ -1435,6 +1464,10 @@
                     <div class="col-lg-12">
                         <div class="rs-section-subtitle-wrapper">
                             <span class="rs-section-subtitle has-theme-light-blue justify-content-start">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
+                           <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z" fill="#EA5501"></path>
+                        </svg>
                         Our Engineer
                      </span>
                             <div class="rs-section-border-line"></div>
@@ -1499,11 +1532,6 @@
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/home/team-varundev.webp" alt="image"></a>
-                                <div class="rs-theme-social rs-team-social has-transparent">
-                                    <a href="#"><i class="ri-twitter-x-line"></i></a>
-                                    <a href="#"><i class="ri-facebook-fill"></i></a>
-                                    <a href="#"><i class="ri-linkedin-fill"></i></a>
-                                </div>
                             </div>
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
@@ -1517,11 +1545,7 @@
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/home/team-varsha.webp" alt="image"></a>
-                                <div class="rs-theme-social rs-team-social has-transparent">
-                                    <a href="#"><i class="ri-twitter-x-line"></i></a>
-                                    <a href="#"><i class="ri-facebook-fill"></i></a>
-                                    <a href="#"><i class="ri-linkedin-fill"></i></a>
-                                </div>
+                               
                             </div>
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
@@ -1543,6 +1567,10 @@
                     <div class="col-xl-7 col-lg-7">
                         <div class="rs-section-title-wrapper">
                             <span class="rs-section-subtitle justify-content-start has-theme-blue">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
+                           <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z" fill="#EA5501"></path>
+                        </svg>
                         Updates
                      </span>
                             <h2 class="rs-section-title has-theme-blue rs-split-text-enable split-in-fade">Articles & blog posts with useful information</h2>
@@ -1570,28 +1598,23 @@
                 <div class="row g-5">
                     <div class="col-xl-6 col-lg-6">
                         <div class="rs-blog-item has-thumb-height wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="1s">
-                            <div class="has-bg rs-blog-bg-thumb" data-background="assets/images/blog/blog-thumb-07.png">
+                            <div class="has-bg rs-blog-bg-thumb" data-background="assets/images/home/blog.webp">
                             </div>
                             <div class="rs-blog-content has-position">
                                 <div class="rs-blog-meta">
                                     <div class="rs-blog-meta-item has-white">
                                         <span>
                                  By
-                                 <a class="rs-blog-meta-author" href="#"> Nayeem</a>
+                                 <a class="rs-blog-meta-author" href="#"> Bhargavi</a>
                               </span>
                                     </div>
                                     <div class="rs-blog-meta-item has-white">
                                         <span>
-                                 Feb 8, 2024
+                                 April 2020
                               </span>
                                     </div>
                                 </div>
-                                <h3 class="rs-blog-title has-white has-big underline"> <a href="blog-details.html">Factories technologies in interactive and plants</a></h3>
-                                <p class="rs-blog-description has-white">Industry's standard dummy text ever since the 1500s,
-                                    when an unknown printer took a galley of type and...</p>
-                                <div class="rs-blog-tag has-white has-theme-blue">
-                                    <a href="blog-details.html">Manufacture </a>
-                                </div>
+                                <h3 class="rs-blog-title has-white has-big underline"> <a href="blog-details.html">Varun Group donates 2 cr in support of fight against COVID-19.</a></h3>
                             </div>
                         </div>
                     </div>
@@ -1604,26 +1627,20 @@
                                             <div class="rs-blog-meta-item">
                                                 <span>
                                        By
-                                       <a class="rs-blog-meta-author" href="#"> Nayeem</a>
+                                       <a class="rs-blog-meta-author" href="#"> Sravani</a>
                                     </span>
                                             </div>
                                             <div class="rs-blog-meta-item">
                                                 <span>
-                                       Feb 8, 2024
+                                       January 2019
                                     </span>
                                             </div>
                                         </div>
-                                        <h5 class="rs-blog-title underline has-theme-blue"> <a href="blog-details.html">Building
-                                                resilient supply
-                                                chains for</a></h5>
-                                        <p class="rs-blog-description">Industry's standard dummy text ever....</p>
-                                        <div class="rs-blog-tag has-theme-blue">
-                                            <a href="blog-details.html">Oil Factory</a>
-                                        </div>
+                                        <h5 class="rs-blog-title underline has-theme-blue"> <a href="blog-details.html">Secret of Prabhu Kishore’s inspiring success.</a></h5>
                                     </div>
                                     <div class="rs-blog-thumb order-0 order-sm-1">
                                         <a href="blog-details.html">
-                                            <img src="assets/images/blog/blog-thumb-08.png" alt="image">
+                                            <img src="assets/images/home/blog-1.webp" alt="image">
                                         </a>
                                     </div>
                                 </div>
@@ -1635,26 +1652,20 @@
                                             <div class="rs-blog-meta-item">
                                                 <span>
                                        By
-                                       <a class="rs-blog-meta-author" href="#"> Nayeem</a>
+                                       <a class="rs-blog-meta-author" href="#"> Vamsi</a>
                                     </span>
                                             </div>
                                             <div class="rs-blog-meta-item">
                                                 <span>
-                                       Feb 8, 2024
+                                       October 2018
                                     </span>
                                             </div>
                                         </div>
-                                        <h5 class="rs-blog-title underline has-theme-blue"> <a href="blog-details.html">Factories
-                                                technologies in
-                                                interactive and</a></h5>
-                                        <p class="rs-blog-description">Industry's standard dummy text ever....</p>
-                                        <div class="rs-blog-tag has-theme-blue">
-                                            <a href="blog-details.html">Manufacture</a>
-                                        </div>
+                                        <h5 class="rs-blog-title underline has-theme-blue"> <a href="blog-details.html">Varun Group acquires Taj Gateway Hotel.</a></h5>
                                     </div>
                                     <div class="rs-blog-thumb order-0 order-sm-1">
                                         <a href="blog-details.html">
-                                            <img src="assets/images/blog/blog-thumb-09.png" alt="image">
+                                            <img src="assets/images/home/blog-2.webp" alt="image">
                                         </a>
                                     </div>
                                 </div>
