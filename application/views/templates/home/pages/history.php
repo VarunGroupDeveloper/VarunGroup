@@ -84,7 +84,7 @@
                                 <img src="assets/images/shape/about-shape-06.png" alt="image">
                             </div>
                             <div class="rs-about-thumb">
-                                <img src="assets/images/about/about-thumb-18.png" alt="image">
+                                <img src="assets/images/about/varun-group-mission.webp" alt="image">
                             </div>
                             <div class="rs-about-content">
                                 <h6 class="rs-about-title">Our Mission</h6>
@@ -98,7 +98,7 @@
                                 <img src="assets/images/shape/about-shape-07.png" alt="image">
                             </div>
                             <div class="rs-about-thumb">
-                                <img src="assets/images/about/about-thumb-19.png" alt="image">
+                                <img src="assets/images/about/varun-group-vission.webp" alt="image">
                             </div>
                             <div class="rs-about-content">
                                 <h6 class="rs-about-title">Our Vision</h6>
@@ -114,7 +114,7 @@
 
         <!-- history area start -->
         <section class="rs-history-area section-space rs-history-one">
-            <div class="rs-history-bg-thumb" data-background="assets/images/bg/tab-bg-01.png"></div>
+            <div class="rs-history-bg-thumb" data-background="assets/images/bg/varun-group-history.webp"></div>
             <div class="container">
                 <div class="row  g-5 justify-content-center section-title-space align-items-center">
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
@@ -135,43 +135,38 @@
                 <div class="row justify-content-center">
                     <div class="col-xxl-9 col-xl-10">
                         <div class="rs-history-tab-wrapper">
-                            <div class="rs-history-tab">
-                                <ul class="nav nav-pills" id="pills-tab-two" role="tablist">
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link active" id="pills-item-four-tab" data-bs-toggle="pill" data-bs-target="#pills-item-four" type="button" role="tab" aria-controls="pills-item-four" aria-selected="true">
-                                            In 1990
-                                        </button>
-                                    </li>
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="pills-item-five-tab" data-bs-toggle="pill" data-bs-target="#pills-item-five" type="button" role="tab" aria-controls="pills-item-five" aria-selected="false"> In 2000
-                                        </button>
-                                    </li>
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="pills-item-six-tab" data-bs-toggle="pill" data-bs-target="#pills-item-six" type="button" role="tab" aria-controls="pills-item-six" aria-selected="false">
-                                            In 2007
-                                        </button>
-                                    </li>
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="pills-item-seven-tab" data-bs-toggle="pill" data-bs-target="#pills-item-seven" type="button" role="tab" aria-controls="pills-item-seven" aria-selected="false">
-                                            In 2018
-                                        </button>
-                                    </li>
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="pills-item-eight-tab" data-bs-toggle="pill" data-bs-target="#pills-item-eight" type="button" role="tab" aria-controls="pills-item-eight" aria-selected="false">
-                                            In 2024
-                                        </button>
-                                    </li>
-                                </ul>
-                            </div>
+                            <div class="tab-scroll-wrapper">
+ <div class="rs-history-tab position-relative modern-tabs">
+  <div class="tab-scroll-wrapper">
+    <ul class="nav nav-pills rs-history-tab-scroll" id="pills-tab-two" role="tablist">
+      <li class="nav-item"><button class="nav-link active" data-bs-toggle="pill" data-bs-target="#year-1982">1982</button></li>
+      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-1987">1987</button></li>
+      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-1992">1992</button></li>
+      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-1996">1996</button></li>
+      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2001">2001</button></li>
+      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2005">2005</button></li>
+      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2009">2009</button></li>
+      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2012">2012</button></li>
+      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2015">2015</button></li>
+      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2017">2017</button></li>
+      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2019">2019</button></li>
+      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2022">2022</button></li>
+      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2024">2024</button></li>
+    </ul>
+  </div>
+  <div class="scroll-fade-left"></div>
+  <div class="scroll-fade-right"></div>
+</div>
+
                             <div class="rs-history-tab-content-wrapper">
                                 <div class="tab-content rs-history-tab-anim" id="pills-tabContent-two">
                                     <div class="tab-pane fade show active" id="pills-item-four" role="tabpanel" aria-labelledby="pills-item-one-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-01.png" alt="image">
+                                                <img src="assets/images/history/varun-group-about-us-construction.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
+                                                <h5 class="rs-history-tab-title">Construction of Residential Apartments</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -194,10 +189,10 @@
                                     <div class="tab-pane fade" id="pills-item-five" role="tabpanel" aria-labelledby="pills-item-two-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-02.png" alt="image">
+                                                <img src="assets/images/history/varun-group-about-us-vf.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
+                                                <h5 class="rs-history-tab-title">Varun Finance</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -220,10 +215,10 @@
                                     <div class="tab-pane fade" id="pills-item-six" role="tabpanel" aria-labelledby="pills-item-three-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-03.png" alt="image">
+                                                <img src="assets/images/history/varun-group-about-us-bajaj.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
+                                                <h5 class="rs-history-tab-title">Varun Bajaj</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -246,10 +241,10 @@
                                     <div class="tab-pane fade" id="pills-item-seven" role="tabpanel" aria-labelledby="pills-item-four-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-04.png" alt="image">
+                                                <img src="assets/images/history/varun-group-about-us-maruti.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
+                                                <h5 class="rs-history-tab-title">Varun Maruti</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -272,10 +267,10 @@
                                     <div class="tab-pane fade" id="pills-item-eight" role="tabpanel" aria-labelledby="pills-item-five-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-05.png" alt="image">
+                                                <img src="assets/images/history/varun-group-about-us-jcb.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
+                                                <h5 class="rs-history-tab-title">Varun JCB</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -455,7 +450,7 @@
 
                 <!-- category area start -->
         <section class="rs-category-area section-space rs-category-one has-theme-orange">
-            <div class="rs-category-bg-thumb" data-background="assets/images/bg/category-bg-02.png"></div>
+            <div class="rs-category-bg-thumb" data-background="assets/images/bg/varun-group-benefits.webp"></div>
             <div class="container">
                 <div class="row g-5">
                     <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-8 col-sm-10">
@@ -983,7 +978,7 @@
                         <div class="swiper-slide">
                           <div class="rs-history-tab-item">
                             <div class="rs-history-tab-thumb">
-                              <img src="assets/images/history/history-thumb-01.png" alt="image">
+                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
                             </div>
                             <div class="rs-history-tab-content">
                               <h5 class="rs-history-tab-title">Journey Was Started</h5>
@@ -1163,3 +1158,73 @@
         </section>
         <!-- blog area end -->
 
+<style>
+    .modern-tabs {
+  margin-bottom: 30px;
+}
+
+.tab-scroll-wrapper {
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  padding: 10px 0;
+  position: relative;
+  mask-image: linear-gradient(to right, transparent 0, black 40px, black calc(100% - 40px), transparent 100%);
+}
+
+.rs-history-tab-scroll {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 12px;
+  padding: 0 12px;
+  margin: 0;
+}
+
+.rs-history-tab-scroll .nav-item {
+  flex: 0 0 auto;
+}
+
+.rs-history-tab-scroll .nav-link {
+  border-radius: 50px;
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 8px 20px;
+  font-weight: 500;
+  font-size: 14px;
+  transition: all 0.3s ease;
+  border: none;
+}
+
+.rs-history-tab-scroll .nav-link:hover {
+  background-color: #ea5501;
+  color: #fff;
+}
+
+.rs-history-tab-scroll .nav-link.active {
+  background-color: #ea5501;
+  color: #fff;
+}
+
+/* Fades */
+.scroll-fade-left,
+.scroll-fade-right {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 40px;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.scroll-fade-left {
+  left: 0;
+  background: linear-gradient(to right, rgba(255, 255, 255, 1), transparent);
+}
+
+.scroll-fade-right {
+  right: 0;
+  background: linear-gradient(to left, rgba(255, 255, 255, 1), transparent);
+}
+
+</style>

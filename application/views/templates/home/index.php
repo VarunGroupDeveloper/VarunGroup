@@ -1166,22 +1166,21 @@
         <div class="rs-brand-area rs-brand-three section-space rs-swiper">
             <div class="container">
                 <div class="row  g-5 section-title-space justify-content-center">
-                    <div class="col-xl-7 col-lg-8">
-                        <div class="rs-section-title-wrapper text-center">
-                            <span class="rs-section-subtitle has-theme-orange">
+                    <div class="col-xl-7 col-lg-7">
+                        <div class="rs-section-title-wrapper">
+                            <span class="rs-section-subtitle has-theme-orange justify-content-start">
                         <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
                            <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
-                           <path fill-rule="evenodd" clip-rule="evenodd" d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z" fill="#EA5501"></path>
+                           <path fill-rule="evenodd" clip-rule="evenodd"
+                              d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
+                              fill="#EA5501"></path>
                         </svg>
                         Our Partners
                      </span>
-                            <h2 class="rs-section-title rs-split-text-enable split-in-fade " style="perspective: 400px;">
-                                Our Brands. Our Partners. Our People.
-
-                            </h2>
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Our Brands. Our Partners.</h2>
                         </div>
                     </div>
-                    <!-- Right: Navigation Arrows -->
+                       <!-- Right: Navigation Arrows -->
                     <div class="col-md-5 col-sm-12 text-md-end text-sm-start">
                       <div class="rs-portfolio-navigation d-inline-flex gap-2">
                         <button class="swiper-button-prev rs-swiper-btn has-bg-light rs-nav-prev-1" tabindex="0" aria-label="Previous slide">
@@ -1339,122 +1338,97 @@
         </section>
         <!-- why choose area end -->
         <!-- testimonial area start -->
-        <section class="rs-testimonial-area rs-testimonial-three rs-swiper has-bg-black">
+       <section class="rs-testimonial-area rs-testimonial-three rs-swiper has-bg-black">
 
-            <div class="rs-testimonial-bg-thumb swiper-slide" data-background="assets/images/home/testimonial-thumb-02.png">
-            </div>
-            <div class="rs-testimonial-bg-thumb-two" data-background="assets/images/home/testimonials-bg-06.png"> </div>
-            <div class="container">
-                <div class="row justify-content-end">
-                    <div class="col-xxl-6 col-xl-7 col-lg-7">
-                        <div class="rs-testimonial-wrapper">
-                            <div class="rs-section-title-wrapper section-title-space">
-                                <span class="rs-section-subtitle has-theme-orange justify-content-start has-transparent">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
-                                    <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
-                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                       d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
-                                       fill="#EA5501"></path>
-                                 </svg>
-                                Reviews
-                              </span>
-                                <h2 class="rs-section-title rs-split-text-enable split-in-fade">what Client Say</h2>
-                            </div>
-                            <div class="rs-testimonial-slider-wrapper">
-                                <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="1500" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="2500" data-item="1" data-item-xl="1" data-item-lg="1" data-item-md="1" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30" data-margin-xl="30">
-                                    <div class="swiper-wrapper">
-                                        <div class="swiper-slide">
-                                            <div class="rs-testimonial-item">
-                                                <div class="rs-testimonial-avater-thumb">
-                                                    <div class="rs-testimonial-thumb">
-                                                        <img src="assets/images/user/user-thumb-01.png" alt="image">
-                                                    </div>
-                                                    <div class="rs-testimonial-icon">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="29" viewBox="0 0 40 29" fill="none">
-                                                            <path d="M2.85714 29H11.4286L17.1429 17.4V0H0V17.4H8.57143L2.85714 29ZM25.7143 29H34.2857L40 17.4V0H22.8571V17.4H31.4286L25.7143 29Z" fill="white" fill-opacity="0.4"></path>
-                                                        </svg>
-                                                    </div>
-                                                </div>
-                                                <div class="rs-testimonial-content">
-                                                    <h5 class="rs-testimonial-title">Best Company</h5>
-                                                    <div class="rs-testimonial-description">
-                                                        <p>Podcasting operational change management inside of workflows to establish a
-                                                            framework Taking seamless key performance indicators.</p>
-                                                    </div>
-                                                    <div class="rs-tesimonial-avater-info">
-                                                        <h6 class="rs-testimonial-avater-title">Nayeem</h6>
-                                                        <span class="rs-testimonial-avater-designation">Manager</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="rs-testimonial-item">
-                                                <div class="rs-testimonial-avater-thumb">
-                                                    <div class="rs-testimonial-thumb">
-                                                        <img src="assets/images/user/user-thumb-02.png" alt="image">
-                                                    </div>
-                                                    <div class="rs-testimonial-icon">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="29" viewBox="0 0 40 29" fill="none">
-                                                            <path d="M2.85714 29H11.4286L17.1429 17.4V0H0V17.4H8.57143L2.85714 29ZM25.7143 29H34.2857L40 17.4V0H22.8571V17.4H31.4286L25.7143 29Z" fill="white" fill-opacity="0.4"></path>
-                                                        </svg>
-                                                    </div>
-                                                </div>
-                                                <div class="rs-testimonial-content">
-                                                    <h5 class="rs-testimonial-title">Best Company</h5>
-                                                    <div class="rs-testimonial-description">
-                                                        <p>Podcasting operational change management inside of workflows to establish a
-                                                            framework Taking seamless key performance indicators.</p>
-                                                    </div>
-                                                    <div class="rs-tesimonial-avater-info">
-                                                        <h6 class="rs-testimonial-avater-title">Abdur Rashid</h6>
-                                                        <span class="rs-testimonial-avater-designation">Founder &amp; CEO</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="rs-testimonial-item">
-                                                <div class="rs-testimonial-avater-thumb">
-                                                    <div class="rs-testimonial-thumb">
-                                                        <img src="assets/images/user/user-thumb-03.png" alt="image">
-                                                    </div>
-                                                    <div class="rs-testimonial-icon">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="29" viewBox="0 0 40 29" fill="none">
-                                                            <path d="M2.85714 29H11.4286L17.1429 17.4V0H0V17.4H8.57143L2.85714 29ZM25.7143 29H34.2857L40 17.4V0H22.8571V17.4H31.4286L25.7143 29Z" fill="white" fill-opacity="0.4"></path>
-                                                        </svg>
-                                                    </div>
-                                                </div>
-                                                <div class="rs-testimonial-content">
-                                                    <h5 class="rs-testimonial-title">Best Company</h5>
-                                                    <div class="rs-testimonial-description">
-                                                        <p>Podcasting operational change management inside of workflows to establish a
-                                                            framework Taking seamless key performance indicators.</p>
-                                                    </div>
-                                                    <div class="rs-tesimonial-avater-info">
-                                                        <h6 class="rs-testimonial-avater-title">Tom Hanks</h6>
-                                                        <span class="rs-testimonial-avater-designation">Customer</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- If we need navigation buttons -->
-                                    <div class=" rs-testimonial-navigation">
-                                        <button class="swiper-button-prev rs-swiper-btn has-small hover-light-orange"><i
-                                          class="fa-regular fa-arrow-left"></i></button>
-                                        <button class="swiper-button-next rs-swiper-btn has-small hover-light-orange"><i
-                                          class="fa-regular fa-arrow-right"></i></button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+  <!-- Single dynamic background div -->
+  <div class="rs-testimonial-bg-thumb" id="testimonialBgThumb" style="background-image: url('assets/images/home/testimonial-thumb-02.png');"></div>
+  <div class="rs-testimonial-bg-thumb-two" data-background="assets/images/home/testimonials-bg-06.png"> </div>
+
+  <div class="container">
+    <div class="row justify-content-end">
+      <div class="col-xxl-6 col-xl-7 col-lg-7">
+        <div class="rs-testimonial-wrapper">
+          <div class="rs-section-title-wrapper section-title-space">
+            <span class="rs-section-subtitle has-theme-orange justify-content-start has-transparent">
+              <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
+                <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                  d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
+                  fill="#EA5501"></path>
+              </svg>
+              Reviews
+            </span>
+            <h2 class="rs-section-title rs-split-text-enable split-in-fade">What Client Say</h2>
+          </div>
+
+          <div class="rs-testimonial-slider-wrapper">
+            <div class="swiper">
+              <div class="swiper-wrapper">
+                <!-- Slide 1 -->
+                <div class="swiper-slide">
+                  <div class="rs-testimonial-item">
+                    
+                    <div class="rs-testimonial-content">
+                      <h5 class="rs-testimonial-title">Best Company</h5>
+                      <div class="rs-testimonial-description">
+                        <p>Podcasting operational change management inside of workflows to establish a framework Taking seamless key performance indicators.</p>
+                      </div>
+                      <div class="rs-tesimonial-avater-info">
+                        <h6 class="rs-testimonial-avater-title">Nayeem</h6>
+                        <span class="rs-testimonial-avater-designation">Manager</span>
+                      </div>
                     </div>
+                  </div>
                 </div>
-            </div>
 
-        
-        </section>
+                <!-- Slide 2 -->
+                <div class="swiper-slide">
+                  <div class="rs-testimonial-item">
+                    
+                    <div class="rs-testimonial-content">
+                      <h5 class="rs-testimonial-title">Amazing Team</h5>
+                      <div class="rs-testimonial-description">
+                        <p>Taking seamless key performance indicators offline to maximise the long tail.</p>
+                      </div>
+                      <div class="rs-tesimonial-avater-info">
+                        <h6 class="rs-testimonial-avater-title">Abdur Rashid</h6>
+                        <span class="rs-testimonial-avater-designation">Founder &amp; CEO</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Slide 3 -->
+                <div class="swiper-slide">
+                  <div class="rs-testimonial-item">
+                   
+                    <div class="rs-testimonial-content">
+                      <h5 class="rs-testimonial-title">Great Support</h5>
+                      <div class="rs-testimonial-description">
+                        <p>Completely synergize resource taxing relationships via premier niche markets.</p>
+                      </div>
+                      <div class="rs-tesimonial-avater-info">
+                        <h6 class="rs-testimonial-avater-title">Tom Hanks</h6>
+                        <span class="rs-testimonial-avater-designation">Customer</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Navigation -->
+              <div class="rs-testimonial-navigation">
+                <button class="swiper-button-prev rs-swiper-btn has-small hover-light-orange"><i class="fa-regular fa-arrow-left"></i></button>
+                <button class="swiper-button-next rs-swiper-btn has-small hover-light-orange"><i class="fa-regular fa-arrow-right"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
         <!-- testimonial area end -->
 
         <!-- team area start -->
@@ -1676,3 +1650,52 @@
             </div>
         </section>
         <!-- blog area end -->
+         
+<!-- Include Swiper -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const bgThumb = document.getElementById("testimonialBgThumb");
+  const bgImages = [
+    "assets/images/home/testimonial-thumb-02.png",
+    "assets/images/home/testimonial-thumb-03.png",
+    "assets/images/home/testimonial-thumb-02.png"
+  ];
+
+  const swiper = new Swiper('.rs-testimonial-slider-wrapper .swiper', {
+    loop: true,
+    speed: 1500,
+    autoplay: {
+      delay: 2500,
+      disableOnInteraction: false
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev"
+    },
+    on: {
+      slideChange: function () {
+        const realIndex = this.realIndex;
+        bgThumb.style.backgroundImage = `url('${bgImages[realIndex]}')`;
+      }
+    }
+  });
+});
+</script>
+
+         <style>
+          .rs-testimonial-bg-thumb {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  transition: background-image 0.5s ease-in-out;
+  z-index: 0;
+}
+
+         </style>
