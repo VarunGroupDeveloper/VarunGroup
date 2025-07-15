@@ -114,20 +114,20 @@
 
         <!-- history area start -->
         <section class="rs-history-area section-space rs-history-one">
-            <div class="rs-history-bg-thumb" data-background="assets/images/bg/varun-group-history.webp"></div>
+            <div class="rs-history-bg-thumb" data-background="assets/images/about/varun-group-history.webp"></div>
             <div class="container">
                 <div class="row  g-5 justify-content-center section-title-space align-items-center">
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="rs-section-title-wrapper text-center">
                             <span class="rs-section-subtitle has-theme-orange">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
-                           <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
-                           <path fill-rule="evenodd" clip-rule="evenodd"
-                              d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
-                              fill="#EA5501"></path>
-                        </svg>
-                        Our History
-                     </span>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
+                                   <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
+                                   <path fill-rule="evenodd" clip-rule="evenodd"
+                                      d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
+                                      fill="#EA5501"></path>
+                                </svg>
+                                Our History
+                            </span>
                             <h2 class="rs-section-title rs-split-text-enable split-in-fade">Company Journey</h2>
                         </div>
                     </div>
@@ -136,37 +136,59 @@
                     <div class="col-xxl-9 col-xl-10">
                         <div class="rs-history-tab-wrapper">
                             <div class="tab-scroll-wrapper">
- <div class="rs-history-tab position-relative modern-tabs">
-  <div class="tab-scroll-wrapper">
-    <ul class="nav nav-pills rs-history-tab-scroll" id="pills-tab-two" role="tablist">
-      <li class="nav-item"><button class="nav-link active" data-bs-toggle="pill" data-bs-target="#year-1982">1982</button></li>
-      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-1987">1987</button></li>
-      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-1992">1992</button></li>
-      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-1996">1996</button></li>
-      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2001">2001</button></li>
-      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2005">2005</button></li>
-      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2009">2009</button></li>
-      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2012">2012</button></li>
-      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2015">2015</button></li>
-      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2017">2017</button></li>
-      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2019">2019</button></li>
-      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2022">2022</button></li>
-      <li class="nav-item"><button class="nav-link" data-bs-toggle="pill" data-bs-target="#year-2024">2024</button></li>
-    </ul>
-  </div>
-  <div class="scroll-fade-left"></div>
-  <div class="scroll-fade-right"></div>
-</div>
+                             <div class="rs-history-tab years-carousel d-flex align-items-center justify-content-center position-relative">
+                                  <!-- Left Arrow -->
+                                  <button class="scroll-arrow scroll-left me-3" aria-label="Scroll left">
+                                    <i class="fa-sharp fa-regular fa-chevron-left" style="color: white;"></i>
+                                  </button>
+                                <div class="tab-scroll-wrapper"  id="tabScrollContainer">
+                                    <ul class="nav nav-pills d-flex flex-nowrap justify-content-start align-items-center gap-2" id="pills-tab" role="tablist">
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link" id="pills-item-one-tab" data-bs-toggle="pill" data-bs-target="#pills-item-one" type="button" role="tab" aria-controls="pills-item-one" aria-selected="false" tabindex="-1">
+                                                In 1990
+                                            </button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link" id="pills-item-two-tab" data-bs-toggle="pill" data-bs-target="#pills-item-two" type="button" role="tab" aria-controls="pills-item-two" aria-selected="false" tabindex="-1"> In 2000
+                                            </button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link" id="pills-item-three-tab" data-bs-toggle="pill" data-bs-target="#pills-item-three" type="button" role="tab" aria-controls="pills-item-three" aria-selected="false" tabindex="-1">
+                                                In 2007
+                                            </button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link" id="pills-item-four-tab" data-bs-toggle="pill" data-bs-target="#pills-item-four" type="button" role="tab" aria-controls="pills-item-three" aria-selected="false" tabindex="-1">
+                                                In 2018
+                                            </button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link" id="pills-item-five-tab" data-bs-toggle="pill" data-bs-target="#pills-item-five" type="button" role="tab" aria-controls="pills-item-three" aria-selected="true">
+                                                In 2024
+                                            </button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link" id="pills-item-six-tab" data-bs-toggle="pill" data-bs-target="#pills-item-six" type="button" role="tab" aria-controls="pills-item-three" aria-selected="true">
+                                                In 2025
+                                            </button>
+                                        </li>
+                                    </ul>
+                                </div>
+                                  <!-- Right Arrow -->
+                                  <button class="scroll-arrow scroll-right ms-3" aria-label="Scroll right">
+                                    <i class="fa-sharp fa-regular fa-chevron-right" style="color: white;"></i>
+                                  </button>
+                            </div>
 
                             <div class="rs-history-tab-content-wrapper">
-                                <div class="tab-content rs-history-tab-anim" id="pills-tabContent-two">
-                                    <div class="tab-pane fade show active" id="pills-item-four" role="tabpanel" aria-labelledby="pills-item-one-tab" tabindex="0">
+                                <div class="tab-content rs-history-tab-anim" id="pills-tabContent">
+                                    <div class="tab-pane fade show active" id="pills-item-one" role="tabpanel" aria-labelledby="pills-item-one-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-construction.webp" alt="image">
+                                                <img src="assets/images/history/history-thumb-01.png" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Construction of Residential Apartments</h5>
+                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -186,13 +208,13 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="pills-item-five" role="tabpanel" aria-labelledby="pills-item-two-tab" tabindex="0">
+                                    <div class="tab-pane fade" id="pills-item-two" role="tabpanel" aria-labelledby="pills-item-two-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-vf.webp" alt="image">
+                                                <img src="assets/images/history/history-thumb-02.png" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Varun Finance</h5>
+                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -212,13 +234,13 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="pills-item-six" role="tabpanel" aria-labelledby="pills-item-three-tab" tabindex="0">
+                                    <div class="tab-pane fade" id="pills-item-three" role="tabpanel" aria-labelledby="pills-item-three-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-bajaj.webp" alt="image">
+                                                <img src="assets/images/history/history-thumb-03.png" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Varun Bajaj</h5>
+                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -238,13 +260,13 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="pills-item-seven" role="tabpanel" aria-labelledby="pills-item-four-tab" tabindex="0">
+                                    <div class="tab-pane fade" id="pills-item-four" role="tabpanel" aria-labelledby="pills-item-four-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-maruti.webp" alt="image">
+                                                <img src="assets/images/history/history-thumb-04.png" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Varun Maruti</h5>
+                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -264,13 +286,13 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="pills-item-eight" role="tabpanel" aria-labelledby="pills-item-five-tab" tabindex="0">
+                                    <div class="tab-pane fade" id="pills-item-five" role="tabpanel" aria-labelledby="pills-item-five-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-jcb.webp" alt="image">
+                                                <img src="assets/images/history/history-thumb-05.png" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Varun JCB</h5>
+                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -304,7 +326,7 @@
         <section class="rs-progress-area rs-progress-two ">
             <div class="rs-progress-bg-thumb" data-background="assets/images/bg/progress-bg-1.png"></div>
             <div class="rs-progress-shape">
-                <img src="assets/images/shape/goal-shape.png" alt="image">
+                <img src="assets/images/about/shape.png" alt="image">
             </div>
             <div class="container">
                 <div class="row align-items-center g-5">
@@ -949,9 +971,9 @@
                         d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
                         fill="#EA5501"></path>
                     </svg>
-                    Our History
+                     Achievements
                   </span>
-                  <h2 class="rs-section-title rs-split-text-enable split-in-fade">Our Achievemnets</h2>
+                  <h2 class="rs-section-title rs-split-text-enable split-in-fade">Celebrating Our Achievements</h2>
                 </div>
 
                 <!-- Right-Aligned Arrows -->
@@ -981,33 +1003,108 @@
                               <img src="assets/images/history/varun-group-achievements.webp" alt="image">
                             </div>
                             <div class="rs-history-tab-content">
-                              <h5 class="rs-history-tab-title">Journey Was Started</h5>
-                              <p>Welcome to Industrie... driving progress.</p>
-                              <ul>
-                                <li>Quality Control System</li>
-                                <li>Building Quality Industrial</li>
+                              <h5 class="rs-history-tab-title">Maruti Suzuki - Varun Maruti</h5>
+                              <ul class="mt-4">
+                                <li>India’s No. 1 Maruti Suzuki Dealer for ‘Overall Excellence’ in FY 2013-14, 2016-17 and 2019-20.</li>
+                                <li>India’s No 1 Maruti Suzuki Dealer for ‘Retail and Wholesale’ in FY 2019-20 and 2020-21.</li>
+                                <li>17x ‘Maruti Royal Platinum Award’ recipient for impeccable results in performance parameters.</li>
+                                <li>Dealer with highest True Value (Used Car) sales in 2019.</li>
+                                <li>Dealer with the highest number of commercial outlets in 2019.</li>
                               </ul>
                             </div>
                           </div>
                         </div>
-
                         <!-- Slide 2 -->
                         <div class="swiper-slide">
                           <div class="rs-history-tab-item">
                             <div class="rs-history-tab-thumb">
-                              <img src="assets/images/history/history-thumb-02.png" alt="image">
+                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
                             </div>
                             <div class="rs-history-tab-content">
-                              <h5 class="rs-history-tab-title">Expansion Phase</h5>
-                              <p>We grew across borders and embraced modern methods...</p>
-                              <ul>
-                                <li>Innovation in Automation</li>
-                                <li>Customer-Centric Solutions</li>
+                              <h5 class="rs-history-tab-title">Bajaj Auto - Varun Bajaj</h5>
+                              <ul class="mt-4">
+                                <li>Award for TPM (Total Productive Maintenance) implementation, <br>increased profitability, quality and organizational culture change for customer satisfaction in 2020.</li>
+                                <li>Largest Channel Partner for Bajaj Auto in 2020.</li>
+                                <li>Multiple ‘Bajaj Star Dealer’ awards.</li>
                               </ul>
                             </div>
                           </div>
                         </div>
-
+                        <div class="swiper-slide">
+                          <div class="rs-history-tab-item">
+                            <div class="rs-history-tab-thumb">
+                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
+                            </div>
+                            <div class="rs-history-tab-content">
+                              <h5 class="rs-history-tab-title">JCB - Varun JCB</h5>
+                              <ul class="mt-4">
+                                <li>Best ‘Emerging JCB Dealer’ for FY- 2009-10.</li>
+                                <li>Best Dealer wards for ‘Overall Performance in Parts’ in 2014</li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                         <div class="swiper-slide">
+                          <div class="rs-history-tab-item">
+                            <div class="rs-history-tab-thumb">
+                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
+                            </div>
+                            <div class="rs-history-tab-content">
+                              <h5 class="rs-history-tab-title">BharatBenz - Varun Trucking</h5>
+                              <ul class="mt-4">
+                                <li>Highest BBF Insurance CY - 2018 & 2019</li>
+                                <li>Best Extended Warranty Penetration in CY 2018 & 2019.</li>
+                                <li>Varun Trucking ticked 108 trucks sales in 2015 which back them was highest amongst all the dealers across the country.</li>
+                                <li>Received 24x7 RSA Award in 2014 for putting repaired trucks back on road in record time.</li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="swiper-slide">
+                          <div class="rs-history-tab-item">
+                            <div class="rs-history-tab-thumb">
+                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
+                            </div>
+                            <div class="rs-history-tab-content">
+                              <h5 class="rs-history-tab-title">Suzuki - Padmaja Suzuki</h5>
+                              <ul class="mt-4">
+                                <li>India’s No. 1 Suzuki Dealer for FY 2018, 2019 and 2020</li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="swiper-slide">
+                          <div class="rs-history-tab-item">
+                            <div class="rs-history-tab-thumb">
+                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
+                            </div>
+                            <div class="rs-history-tab-content">
+                              <h5 class="rs-history-tab-title">Novotel </h5>
+                              <ul class="mt-4">
+                                <li>Tourism Award for Excellence in 2017 and 2019.</li>
+                                <li>Certificate of Excellence Tripadvisor in FY 2014-15 and 2019.</li>
+                                <li>Best Hotel Based Tourism Venue in FY 2018-19.</li>
+                                <li>Grade A rating for Sanitization and Cleanliness by GVMC in 2020.</li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="swiper-slide">
+                          <div class="rs-history-tab-item">
+                            <div class="rs-history-tab-thumb">
+                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
+                            </div>
+                            <div class="rs-history-tab-content">
+                              <h5 class="rs-history-tab-title">Government </h5>
+                              <ul class="mt-4">
+                                <li>‘Best Dealer’ award for payment of tax (VAT) for the FY 2001-02 and 2006-07 by Andhra Pradesh government.</li>
+                                <li>‘Best Employer’ award received in 2013 by the Labour Department, Andhra Pradesh Government.</li>
+                                <li>Decent ICRA rating of ‘BBB'.</li>
+                                <li>Zero defaulter track record.</li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
                       </div> <!-- swiper-wrapper -->
                     </div> <!-- swiper -->
                   </div>
@@ -1157,74 +1254,3 @@
             </div>
         </section>
         <!-- blog area end -->
-
-<style>
-    .modern-tabs {
-  margin-bottom: 30px;
-}
-
-.tab-scroll-wrapper {
-  overflow-x: auto;
-  overflow-y: hidden;
-  scroll-behavior: smooth;
-  -webkit-overflow-scrolling: touch;
-  padding: 10px 0;
-  position: relative;
-  mask-image: linear-gradient(to right, transparent 0, black 40px, black calc(100% - 40px), transparent 100%);
-}
-
-.rs-history-tab-scroll {
-  display: flex;
-  flex-wrap: nowrap;
-  gap: 12px;
-  padding: 0 12px;
-  margin: 0;
-}
-
-.rs-history-tab-scroll .nav-item {
-  flex: 0 0 auto;
-}
-
-.rs-history-tab-scroll .nav-link {
-  border-radius: 50px;
-  background-color: #f0f0f0;
-  color: #333;
-  padding: 8px 20px;
-  font-weight: 500;
-  font-size: 14px;
-  transition: all 0.3s ease;
-  border: none;
-}
-
-.rs-history-tab-scroll .nav-link:hover {
-  background-color: #ea5501;
-  color: #fff;
-}
-
-.rs-history-tab-scroll .nav-link.active {
-  background-color: #ea5501;
-  color: #fff;
-}
-
-/* Fades */
-.scroll-fade-left,
-.scroll-fade-right {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 40px;
-  z-index: 1;
-  pointer-events: none;
-}
-
-.scroll-fade-left {
-  left: 0;
-  background: linear-gradient(to right, rgba(255, 255, 255, 1), transparent);
-}
-
-.scroll-fade-right {
-  right: 0;
-  background: linear-gradient(to left, rgba(255, 255, 255, 1), transparent);
-}
-
-</style>

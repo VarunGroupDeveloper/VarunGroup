@@ -59,3 +59,17 @@
     }
   });
 </script>
+<script>
+  const container = document.getElementById('tabScrollContainer');
+  const scrollLeftBtn = document.querySelector('.scroll-left');
+  const scrollRightBtn = document.querySelector('.scroll-right');
+
+  scrollLeftBtn.addEventListener('click', () => {
+    container.scrollBy({ left: -200, behavior: 'smooth' });
+  });
+
+  scrollRightBtn.addEventListener('click', () => {
+    container.scrollBy({ left: 200, behavior: 'smooth' });
+  });
+</script>
+

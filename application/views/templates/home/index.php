@@ -24,7 +24,7 @@
                                                         <div class="rs-banner-btn">
                                                             <div class="rs-rotate-btn">
                                                                 <a href="contact.html" class="rs-play-btn popup-video has-transparent-btn"><i
-                                                      class="fa-light fa-arrow-right-long"></i></a>
+                                                                class="fa-light fa-arrow-right-long"></i></a>
                                                                 <div class="rs-circle-title gsap-rotate rs-text-circle-wrapper">
                                                                     <div class="rs-text-circle" data-rotate-degree="13.33">
                                                                         Explore More - Explore More -
@@ -103,8 +103,8 @@
             </div>
         </section>
         <!-- banner area end -->
-                <!-- feature area start -->
-        <section class="rs-feature-area rs-feature-five  section-space-top">
+        <!-- feature area start -->
+        <section class="rs-feature-area rs-feature-five section-space-top">
             <div class="container has-large">
                 <div class="row g-5">
                     <div class="col-xl-4 col-lg-4 col-md-6">
@@ -254,13 +254,7 @@
                 </div>
             </div>
         </section>
-
-
-
-
-
-
-                <!-- counter area start -->
+        <!-- counter area start -->
         <div class="rs-counter-area rs-counter-one has-theme-blue section-space-bottom" id="counterSection">
             <div class="container ">
                 <div class="row g-5">
@@ -946,7 +940,7 @@
         </section>
         <!-- portfolio area end -->
 
-                <!-- services area start -->
+        <!-- services area start -->
         <section class="rs-services-area section-space-top section-space-bottom rs-services-one primary-bg p-relative">
             <div class="rs-services-shape">
                 <img src="assets/images/shape/wave-shape-01.png" alt="image">
@@ -1162,7 +1156,6 @@
         </section>
         <!-- services area end -->
 
-
         <div class="rs-brand-area rs-brand-three section-space rs-swiper">
             <div class="container">
                 <div class="row  g-5 section-title-space justify-content-center">
@@ -1261,7 +1254,7 @@
             </div>
         </div>
 
-                        <!-- why choose area start -->
+        <!-- why choose area start -->
         <section class="rs-why-choose-area section-space rs-why-choose-one primary-bg">
             <div class="container">
                 <div class="row align-items-xl-center g-5">
@@ -1337,6 +1330,7 @@
             </div>
         </section>
         <!-- why choose area end -->
+        
         <!-- testimonial area start -->
        <section class="rs-testimonial-area rs-testimonial-three rs-swiper has-bg-black">
 
