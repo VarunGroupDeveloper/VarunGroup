@@ -144,32 +144,68 @@
                                 <div class="tab-scroll-wrapper"  id="tabScrollContainer">
                                     <ul class="nav nav-pills d-flex flex-nowrap justify-content-start align-items-center gap-2" id="pills-tab" role="tablist">
                                         <li class="nav-item" role="presentation">
-                                            <button class="nav-link" id="pills-item-one-tab" data-bs-toggle="pill" data-bs-target="#pills-item-one" type="button" role="tab" aria-controls="pills-item-one" aria-selected="false" tabindex="-1">
-                                                In 1990
+                                            <button class="nav-link" id="year-1982-tab" data-bs-toggle="pill" data-bs-target="#year-1982" type="button" role="tab" aria-selected="false" tabindex="-1">
+                                                In 1982
                                             </button>
                                         </li>
                                         <li class="nav-item" role="presentation">
-                                            <button class="nav-link" id="pills-item-two-tab" data-bs-toggle="pill" data-bs-target="#pills-item-two" type="button" role="tab" aria-controls="pills-item-two" aria-selected="false" tabindex="-1"> In 2000
+                                            <button class="nav-link"  id="year-1987-tab" data-bs-toggle="pill" data-bs-target="#year-1987" type="button" role="tab" aria-selected="false" tabindex="-1">
+                                                 In 1987
                                             </button>
                                         </li>
                                         <li class="nav-item" role="presentation">
-                                            <button class="nav-link" id="pills-item-three-tab" data-bs-toggle="pill" data-bs-target="#pills-item-three" type="button" role="tab" aria-controls="pills-item-three" aria-selected="false" tabindex="-1">
-                                                In 2007
+                                            <button class="nav-link"  id="year-1992-tab" data-bs-toggle="pill" data-bs-target="#year-1992" type="button" role="tab" aria-selected="false" tabindex="-1">
+                                                In 1992
                                             </button>
                                         </li>
                                         <li class="nav-item" role="presentation">
-                                            <button class="nav-link" id="pills-item-four-tab" data-bs-toggle="pill" data-bs-target="#pills-item-four" type="button" role="tab" aria-controls="pills-item-three" aria-selected="false" tabindex="-1">
-                                                In 2018
+                                            <button class="nav-link"  id="year-1996-tab" data-bs-toggle="pill" data-bs-target="#year-1996" type="button" role="tab" aria-selected="false" tabindex="-1">
+                                                In 1996
                                             </button>
                                         </li>
                                         <li class="nav-item" role="presentation">
-                                            <button class="nav-link" id="pills-item-five-tab" data-bs-toggle="pill" data-bs-target="#pills-item-five" type="button" role="tab" aria-controls="pills-item-three" aria-selected="true">
+                                            <button class="nav-link"  id="year-2009-tab" data-bs-toggle="pill" data-bs-target="#year-2009" type="button" role="tab" aria-selected="true">
+                                                In 2009
+                                            </button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-2010-tab" data-bs-toggle="pill" data-bs-target="#year-2010" type="button" role="tab" aria-selected="true">
+                                                In 2010
+                                            </button>
+                                        </li>
+                                         <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-2011-tab" data-bs-toggle="pill" data-bs-target="#year-2011" type="button" role="tab"  aria-selected="true">
+                                                In 2011
+                                            </button>
+                                        </li>
+                                         <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-2012-tab-1" data-bs-toggle="pill" data-bs-target="#year-2012-1" type="button" role="tab" aria-selected="true">
+                                                In 2012
+                                            </button>
+                                        </li>
+                                         <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-2012-tab-2" data-bs-toggle="pill" data-bs-target="#year-2012-2" type="button" role="tab" aria-selected="true">
+                                                In 2012
+                                            </button>
+                                        </li>
+                                         <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-2016-tab" data-bs-toggle="pill" data-bs-target="#year-2016" type="button" role="tab" aria-selected="true">
+                                                In 2016
+                                            </button>
+                                        </li>
+                                         <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-2021-tab" data-bs-toggle="pill" data-bs-target="#year-2021" type="button" role="tab" aria-selected="true">
+                                                In 2021
+                                            </button>
+                                        </li>
+                                         <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-2023-tab" data-bs-toggle="pill" data-bs-target="#year-2023" type="button" role="tab" aria-selected="true">
+                                                In 2023
+                                            </button>
+                                        </li>
+                                         <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-2024-tab" data-bs-toggle="pill" data-bs-target="#year-2024" type="button" role="tab" aria-selected="true">
                                                 In 2024
-                                            </button>
-                                        </li>
-                                        <li class="nav-item" role="presentation">
-                                            <button class="nav-link" id="pills-item-six-tab" data-bs-toggle="pill" data-bs-target="#pills-item-six" type="button" role="tab" aria-controls="pills-item-three" aria-selected="true">
-                                                In 2025
                                             </button>
                                         </li>
                                     </ul>
@@ -182,13 +218,13 @@
 
                             <div class="rs-history-tab-content-wrapper">
                                 <div class="tab-content rs-history-tab-anim" id="pills-tabContent">
-                                    <div class="tab-pane fade show active" id="pills-item-one" role="tabpanel" aria-labelledby="pills-item-one-tab" tabindex="0">
+                                    <div class="tab-pane fade show active" id="year-1982" role="tabpanel" aria-labelledby="year-1982-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-01.png" alt="image">
+                                                <img src="assets/images/history/varun-group-about-us-construction.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
+                                                <h5 class="rs-history-tab-title">Construction of Residential Apartments</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -208,13 +244,13 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="pills-item-two" role="tabpanel" aria-labelledby="pills-item-two-tab" tabindex="0">
+                                    <div class="tab-pane fade" id="year-1987" role="tabpanel" aria-labelledby="year-1987-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-02.png" alt="image">
+                                                <img src="assets/images/history/varun-group-about-us-vf.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
+                                                <h5 class="rs-history-tab-title">Varun Finance</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -234,13 +270,13 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="pills-item-three" role="tabpanel" aria-labelledby="pills-item-three-tab" tabindex="0">
+                                    <div class="tab-pane fade" id="year-1992" role="tabpanel" aria-labelledby="year-1992-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-03.png" alt="image">
+                                                <img src="assets/images/history/varun-group-about-us-bajaj.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
+                                                <h5 class="rs-history-tab-title">Varun Bajaj</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -260,13 +296,13 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="pills-item-four" role="tabpanel" aria-labelledby="pills-item-four-tab" tabindex="0">
+                                    <div class="tab-pane fade" id="year-1996" role="tabpanel" aria-labelledby="year-1996-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-04.png" alt="image">
+                                                <img src="assets/images/history/varun-group-about-us-maruti.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
+                                                <h5 class="rs-history-tab-title">Varun Maruti</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -286,13 +322,13 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="tab-pane fade" id="pills-item-five" role="tabpanel" aria-labelledby="pills-item-five-tab" tabindex="0">
+                                    <div class="tab-pane fade" id="year-2009" role="tabpanel" aria-labelledby="year-2009-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-05.png" alt="image">
+                                                <img src="assets/images/history/varun-group-about-us-jcb.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
+                                                <h5 class="rs-history-tab-title">Varun JCB</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -312,6 +348,215 @@
                                             </div>
                                         </div>
                                     </div>
+                                     <div class="tab-pane fade" id="year-2010" role="tabpanel" aria-labelledby="year-2010-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/history/varun-group-about-us-health-center.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title">Varun Health, Skill Development Centers & Honda</h5>
+                                                <p>
+                                                    Welcome to Industrie, a leading industry innovator with a rich history of
+                                                    excellence. With a passion for precision and a commitment to quality, we have
+                                                    been empowering industries and driving progress. </p>
+                                                <div class="rs-history-tab-list">
+                                                    <div class="rs-list-item">
+                                                        <ul>
+                                                            <li>
+                                                                Quality Control System
+                                                            </li>
+                                                            <li>
+                                                                Building Quality Industrial
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                     <div class="tab-pane fade" id="year-2011" role="tabpanel" aria-labelledby="year-2011-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/history/varun-group-about-us-novotel.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title">Varun Hospitality Novotel Hotels, Taj (2018) & INOX</h5>
+                                                <p>
+                                                    Welcome to Industrie, a leading industry innovator with a rich history of
+                                                    excellence. With a passion for precision and a commitment to quality, we have
+                                                    been empowering industries and driving progress. </p>
+                                                <div class="rs-history-tab-list">
+                                                    <div class="rs-list-item">
+                                                        <ul>
+                                                            <li>
+                                                                Quality Control System
+                                                            </li>
+                                                            <li>
+                                                                Building Quality Industrial
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                     <div class="tab-pane fade" id="year-2012-1" role="tabpanel" aria-labelledby="year-2012-tab-1" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/history/varun-group-about-us-bmw.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title">Varun Benz</h5>
+                                                <p>
+                                                    Welcome to Industrie, a leading industry innovator with a rich history of
+                                                    excellence. With a passion for precision and a commitment to quality, we have
+                                                    been empowering industries and driving progress. </p>
+                                                <div class="rs-history-tab-list">
+                                                    <div class="rs-list-item">
+                                                        <ul>
+                                                            <li>
+                                                                Quality Control System
+                                                            </li>
+                                                            <li>
+                                                                Building Quality Industrial
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                     <div class="tab-pane fade" id="year-2012-2" role="tabpanel" aria-labelledby="year-2012-tab-2" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/history/varun-group-about-us-mahindra.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title">Mahindra</h5>
+                                                <p>
+                                                    Welcome to Industrie, a leading industry innovator with a rich history of
+                                                    excellence. With a passion for precision and a commitment to quality, we have
+                                                    been empowering industries and driving progress. </p>
+                                                <div class="rs-history-tab-list">
+                                                    <div class="rs-list-item">
+                                                        <ul>
+                                                            <li>
+                                                                Quality Control System
+                                                            </li>
+                                                            <li>
+                                                                Building Quality Industrial
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                     <div class="tab-pane fade" id="year-2016" role="tabpanel" aria-labelledby="year-2016-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/history/varun-group-about-us-suzuki-tvs.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title">Suzuki & TVS 2Wheeler</h5>
+                                                <p>
+                                                    Welcome to Industrie, a leading industry innovator with a rich history of
+                                                    excellence. With a passion for precision and a commitment to quality, we have
+                                                    been empowering industries and driving progress. </p>
+                                                <div class="rs-history-tab-list">
+                                                    <div class="rs-list-item">
+                                                        <ul>
+                                                            <li>
+                                                                Quality Control System
+                                                            </li>
+                                                            <li>
+                                                                Building Quality Industrial
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                     <div class="tab-pane fade" id="year-2021" role="tabpanel" aria-labelledby="year-2021-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/history/varun-group-about-us-bmw.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title">BMW</h5>
+                                                <p>
+                                                    Welcome to Industrie, a leading industry innovator with a rich history of
+                                                    excellence. With a passion for precision and a commitment to quality, we have
+                                                    been empowering industries and driving progress. </p>
+                                                <div class="rs-history-tab-list">
+                                                    <div class="rs-list-item">
+                                                        <ul>
+                                                            <li>
+                                                                Quality Control System
+                                                            </li>
+                                                            <li>
+                                                                Building Quality Industrial
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                     <div class="tab-pane fade" id="year-2023" role="tabpanel" aria-labelledby="year-2023-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/history/varun-group-about-us-triump.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title">Triumph</h5>
+                                                <p>
+                                                    Welcome to Industrie, a leading industry innovator with a rich history of
+                                                    excellence. With a passion for precision and a commitment to quality, we have
+                                                    been empowering industries and driving progress. </p>
+                                                <div class="rs-history-tab-list">
+                                                    <div class="rs-list-item">
+                                                        <ul>
+                                                            <li>
+                                                                Quality Control System
+                                                            </li>
+                                                            <li>
+                                                                Building Quality Industrial
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                     <div class="tab-pane fade" id="year-2024" role="tabpanel" aria-labelledby="year-2024-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/history/varun-group-about-us-mg.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title">MG Motor</h5>
+                                                <p>
+                                                    Welcome to Industrie, a leading industry innovator with a rich history of
+                                                    excellence. With a passion for precision and a commitment to quality, we have
+                                                    been empowering industries and driving progress. </p>
+                                                <div class="rs-history-tab-list">
+                                                    <div class="rs-list-item">
+                                                        <ul>
+                                                            <li>
+                                                                Quality Control System
+                                                            </li>
+                                                            <li>
+                                                                Building Quality Industrial
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
