@@ -1201,7 +1201,7 @@
 
         <!-- history area start -->
         <section class="rs-history-area section-space rs-history-one rs-swiper">
-          <div class="rs-history-bg-thumb" data-background="assets/images/home/announcmenet.png"></div>
+          <div class="rs-history-bg-thumb" data-background="assets/images/about/announcmenet.webp"></div>
           <div class="container">
             
             <!-- Heading + Arrows Row -->
@@ -1243,111 +1243,173 @@
 
                         <!-- Slide 1 -->
                         <div class="swiper-slide">
-                          <div class="rs-history-tab-item">
-                            <div class="rs-history-tab-thumb">
-                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
+                          <div class="row align-items-center rs-history-tab-item">
+                            
+                            <!-- LEFT: Image -->
+                            <div class="col-xl-5">
+                              <div class="rs-history-tab-thumb">
+                                <img src="assets/images/history/varun-group-achievements.webp" alt="achievement" class="img-fluid" />
+                              </div>
                             </div>
-                            <div class="rs-history-tab-content">
-                              <h5 class="rs-history-tab-title">Maruti Suzuki - Varun Maruti</h5>
-                              <ul class="mt-4">
-                                <li>India’s No. 1 Maruti Suzuki Dealer for ‘Overall Excellence’ in FY 2013-14, 2016-17 and 2019-20.</li>
-                                <li>India’s No 1 Maruti Suzuki Dealer for ‘Retail and Wholesale’ in FY 2019-20 and 2020-21.</li>
-                                <li>17x ‘Maruti Royal Platinum Award’ recipient for impeccable results in performance parameters.</li>
-                                <li>Dealer with highest True Value (Used Car) sales in 2019.</li>
-                                <li>Dealer with the highest number of commercial outlets in 2019.</li>
-                              </ul>
+
+                            <!-- RIGHT: Content -->
+                            <div class="col-xl-6">
+                              <div class="rs-history-tab-content">
+                                <h5 class="rs-history-tab-title">Maruti Suzuki - Varun Maruti</h5>
+                                <ul class="mt-4">
+                                  <li>India’s No. 1 Maruti Suzuki Dealer for ‘Overall Excellence’ in FY 2013-14, 2016-17 and 2019-20.</li>
+                                  <li>India’s No 1 Maruti Suzuki Dealer for ‘Retail and Wholesale’ in FY 2019-20 and 2020-21.</li>
+                                  <li>17× ‘Maruti Royal Platinum Award’ recipient.</li>
+                                  <li>Dealer with highest True Value (Used Car) sales in 2019.</li>
+                                  <li>Dealer with the highest number of commercial outlets in 2019.</li>
+                                </ul>
+                              </div>
                             </div>
+
                           </div>
                         </div>
-                        <!-- Slide 2 -->
                         <div class="swiper-slide">
-                          <div class="rs-history-tab-item">
-                            <div class="rs-history-tab-thumb">
-                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
+                          <div class="row align-items-center rs-history-tab-item">
+                            
+                            <!-- LEFT: Image -->
+                            <div class="col-xl-5">
+                              <div class="rs-history-tab-thumb">
+                                <img src="assets/images/history/varun-group-achievements.webp" alt="achievement" class="img-fluid" />
+                              </div>
                             </div>
-                            <div class="rs-history-tab-content">
-                              <h5 class="rs-history-tab-title">Bajaj Auto - Varun Bajaj</h5>
-                              <ul class="mt-4">
-                                <li>Award for TPM (Total Productive Maintenance) implementation, <br>increased profitability, quality and organizational culture change for customer satisfaction in 2020.</li>
+
+                            <!-- RIGHT: Content -->
+                            <div class="col-xl-6">
+                              <div class="rs-history-tab-content">
+                                <h5 class="rs-history-tab-title">Bajaj Auto - Varun Bajaj</h5>
+                                <ul class="mt-4">
+                                     <li>Award for TPM (Total Productive Maintenance) implementation, <br>increased profitability, quality and organizational culture change for customer satisfaction in 2020.</li>
                                 <li>Largest Channel Partner for Bajaj Auto in 2020.</li>
                                 <li>Multiple ‘Bajaj Star Dealer’ awards.</li>
-                              </ul>
+                                </ul>
+                              </div>
                             </div>
+
                           </div>
                         </div>
                         <div class="swiper-slide">
-                          <div class="rs-history-tab-item">
-                            <div class="rs-history-tab-thumb">
-                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
+                          <div class="row align-items-center rs-history-tab-item">
+                            
+                            <!-- LEFT: Image -->
+                            <div class="col-xl-5">
+                              <div class="rs-history-tab-thumb">
+                                <img src="assets/images/history/varun-group-achievements.webp" alt="achievement" class="img-fluid" />
+                              </div>
                             </div>
-                            <div class="rs-history-tab-content">
-                              <h5 class="rs-history-tab-title">JCB - Varun JCB</h5>
-                              <ul class="mt-4">
-                                <li>Best ‘Emerging JCB Dealer’ for FY- 2009-10.</li>
+
+                            <!-- RIGHT: Content -->
+                            <div class="col-xl-6">
+                              <div class="rs-history-tab-content">
+                                <h5 class="rs-history-tab-title">JCB - Varun JCB</h5>
+                                <ul class="mt-4">
+                                   <li>Best ‘Emerging JCB Dealer’ for FY- 2009-10.</li>
                                 <li>Best Dealer wards for ‘Overall Performance in Parts’ in 2014</li>
-                              </ul>
+                                </ul>
+                              </div>
                             </div>
+
                           </div>
                         </div>
-                         <div class="swiper-slide">
-                          <div class="rs-history-tab-item">
-                            <div class="rs-history-tab-thumb">
-                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
+                        <div class="swiper-slide">
+                          <div class="row align-items-center rs-history-tab-item">
+                            
+                            <!-- LEFT: Image -->
+                            <div class="col-xl-5">
+                              <div class="rs-history-tab-thumb">
+                                <img src="assets/images/history/varun-group-achievements.webp" alt="achievement" class="img-fluid" />
+                              </div>
                             </div>
-                            <div class="rs-history-tab-content">
-                              <h5 class="rs-history-tab-title">BharatBenz - Varun Trucking</h5>
-                              <ul class="mt-4">
-                                <li>Highest BBF Insurance CY - 2018 & 2019</li>
+
+                            <!-- RIGHT: Content -->
+                            <div class="col-xl-6">
+                              <div class="rs-history-tab-content">
+                                <h5 class="rs-history-tab-title">BharatBenz - Varun Trucking</h5>
+                                <ul class="mt-4">
+                                  <li>Highest BBF Insurance CY - 2018 & 2019</li>
                                 <li>Best Extended Warranty Penetration in CY 2018 & 2019.</li>
                                 <li>Varun Trucking ticked 108 trucks sales in 2015 which back them was highest amongst all the dealers across the country.</li>
                                 <li>Received 24x7 RSA Award in 2014 for putting repaired trucks back on road in record time.</li>
-                              </ul>
+                                </ul>
+                              </div>
                             </div>
+
                           </div>
                         </div>
                         <div class="swiper-slide">
-                          <div class="rs-history-tab-item">
-                            <div class="rs-history-tab-thumb">
-                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
+                          <div class="row align-items-center rs-history-tab-item">
+                            
+                            <!-- LEFT: Image -->
+                            <div class="col-xl-5">
+                              <div class="rs-history-tab-thumb">
+                                <img src="assets/images/history/varun-group-achievements.webp" alt="achievement" class="img-fluid" />
+                              </div>
                             </div>
-                            <div class="rs-history-tab-content">
-                              <h5 class="rs-history-tab-title">Suzuki - Padmaja Suzuki</h5>
-                              <ul class="mt-4">
-                                <li>India’s No. 1 Suzuki Dealer for FY 2018, 2019 and 2020</li>
-                              </ul>
+
+                            <!-- RIGHT: Content -->
+                            <div class="col-xl-6">
+                              <div class="rs-history-tab-content">
+                                <h5 class="rs-history-tab-title">Suzuki - Padmaja Suzuki</h5>
+                                <ul class="mt-4">
+                                  <li>India’s No. 1 Suzuki Dealer for FY 2018, 2019 and 2020</li>
+                                </ul>
+                              </div>
                             </div>
+
                           </div>
                         </div>
                         <div class="swiper-slide">
-                          <div class="rs-history-tab-item">
-                            <div class="rs-history-tab-thumb">
-                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
+                          <div class="row align-items-center rs-history-tab-item">
+                            
+                            <!-- LEFT: Image -->
+                            <div class="col-xl-5">
+                              <div class="rs-history-tab-thumb">
+                                <img src="assets/images/history/varun-group-achievements.webp" alt="achievement" class="img-fluid" />
+                              </div>
                             </div>
-                            <div class="rs-history-tab-content">
-                              <h5 class="rs-history-tab-title">Novotel </h5>
-                              <ul class="mt-4">
-                                <li>Tourism Award for Excellence in 2017 and 2019.</li>
+
+                            <!-- RIGHT: Content -->
+                            <div class="col-xl-6">
+                              <div class="rs-history-tab-content">
+                                <h5 class="rs-history-tab-title">Novotel </h5>
+                                <ul class="mt-4">
+                                   <li>Tourism Award for Excellence in 2017 and 2019.</li>
                                 <li>Certificate of Excellence Tripadvisor in FY 2014-15 and 2019.</li>
                                 <li>Best Hotel Based Tourism Venue in FY 2018-19.</li>
                                 <li>Grade A rating for Sanitization and Cleanliness by GVMC in 2020.</li>
-                              </ul>
+                                </ul>
+                              </div>
                             </div>
+
                           </div>
                         </div>
                         <div class="swiper-slide">
-                          <div class="rs-history-tab-item">
-                            <div class="rs-history-tab-thumb">
-                              <img src="assets/images/history/varun-group-achievements.webp" alt="image">
+                          <div class="row align-items-center rs-history-tab-item">
+                            
+                            <!-- LEFT: Image -->
+                            <div class="col-xl-5">
+                              <div class="rs-history-tab-thumb">
+                                <img src="assets/images/history/varun-group-achievements.webp" alt="achievement" class="img-fluid" />
+                              </div>
                             </div>
-                            <div class="rs-history-tab-content">
-                              <h5 class="rs-history-tab-title">Government </h5>
-                              <ul class="mt-4">
-                                <li>‘Best Dealer’ award for payment of tax (VAT) for the FY 2001-02 and 2006-07 by Andhra Pradesh government.</li>
+
+                            <!-- RIGHT: Content -->
+                            <div class="col-xl-6">
+                              <div class="rs-history-tab-content">
+                                <h5 class="rs-history-tab-title">Government </h5>
+                                <ul class="mt-4">
+                                 <li>‘Best Dealer’ award for payment of tax (VAT) for the FY 2001-02 and 2006-07 by Andhra Pradesh government.</li>
                                 <li>‘Best Employer’ award received in 2013 by the Labour Department, Andhra Pradesh Government.</li>
                                 <li>Decent ICRA rating of ‘BBB'.</li>
                                 <li>Zero defaulter track record.</li>
-                              </ul>
+                                </ul>
+                              </div>
                             </div>
+
                           </div>
                         </div>
                       </div> <!-- swiper-wrapper -->

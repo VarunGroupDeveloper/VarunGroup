@@ -105,7 +105,7 @@
         <!-- banner area end -->
         <!-- feature area start -->
         <section class="rs-feature-area rs-feature-five section-space-top">
-            <div class="container has-large">
+            <div class="container">
                 <div class="row g-5">
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="rs-feature-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
@@ -766,7 +766,7 @@
                         <div class="rs-video-content">
                             <div class="rs-video-play-btn">
                                 <div class="rs-rotate-btn">
-                                    <a href="https://www.youtube.com/watch?v=Yue48fUXuqI" class="rs-play-btn popup-video"><i
+                                    <a href="assets/images/home/Varun-Health-Center.mp4" class="rs-play-btn popup-video"><i
                                  class="ri-play-fill"></i></a>
                                     <div class="rs-circle-title gsap-rotate rs-text-circle-wrapper">
                                         <div class="rs-text-circle" data-rotate-degree="13.33">
@@ -784,7 +784,7 @@
 
         <!-- work step area start -->
         <section class="rs-work-stpe-area section-space rs-work-step-three">
-            <div class="container has-large">
+            <div class="container">
                 <div class="row g-5 process-counts">
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                         <div class="rs-work-step-item  wow fadeIn" data-wow-delay=".3s">
@@ -792,8 +792,8 @@
                                 <span class="rs-work-step-number"></span>
                                 <span class="rs-work-step-text">step</span>
                             </div>
-                            <h5 class="rs-work-step-title">Understand the Need</h5>
-                            <p class="descrip"> Many people in rural areas didn’t have access to basic healthcare. We wanted to help the poor and underserved communities.</p>
+                            <h6 class="rs-work-step-title">Understand the Need</h6>
+                            <p class="descrip" style="font-size:16px; line-height: 27px; "> Many people in rural areas didn’t have access to basic healthcare. We wanted to help the poor and underserved communities.</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
@@ -802,8 +802,8 @@
                                 <span class="rs-work-step-number"></span>
                                 <span class="rs-work-step-text">step</span>
                             </div>
-                            <h5 class="rs-work-step-title"> Plan the Service</h5>
-                            <p class="descrip"> We set up affordable health centers for checkups, tests, and treatments. Our goal was to make healthcare easy to access and understand.</p>
+                            <h6 class="rs-work-step-title"> Plan the Service</h6>
+                            <p class="descrip" style="font-size:16px; line-height: 27px; "> We set up affordable health centers for checkups, tests, and treatments. Our goal was to make healthcare easy to access and understand.</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
@@ -812,8 +812,8 @@
                                 <span class="rs-work-step-number"></span>
                                 <span class="rs-work-step-text">step</span>
                             </div>
-                            <h5 class="rs-work-step-title"> Set Up Health Centers</h5>
-                            <p class="descrip">We built clinics in key places across Andhra Pradesh. Experienced doctors and basic medical facilities were made available.</p>
+                            <h6 class="rs-work-step-title"> Set Up Health Centers</h6>
+                            <p class="descrip" style="font-size:16px; line-height: 27px; ">We built clinics in key places across Andhra Pradesh. Experienced doctors and basic medical facilities were made available.</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
@@ -822,8 +822,8 @@
                                 <span class="rs-work-step-number"></span>
                                 <span class="rs-work-step-text">step</span>
                             </div>
-                            <h5 class="rs-work-step-title"> Make a Difference</h5>
-                            <p class="descrip"> Since 2010, we’ve helped over 2 million people. We also conduct free health camps and awareness programs every year.</p>
+                            <h6 class="rs-work-step-title"> Make a Difference</h6>
+                            <p class="descrip" style="font-size:16px; line-height: 27px; "> Since 2010, we’ve helped over 2 million people. We also conduct free health camps and awareness programs every year.</p>
                         </div>
                     </div>
                 </div>
@@ -833,7 +833,7 @@
 
         <!-- portfolio area start -->
         <section class="rs-portfolio-area section-space-bottom rs-portfolio-five">
-            <div class="container has-large">
+            <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="rs-section-subtitle-wrapper">
@@ -1156,103 +1156,213 @@
         </section>
         <!-- services area end -->
 
-        <div class="rs-brand-area rs-brand-three section-space rs-swiper">
+  <!-- brand area start -->
+        <div class="rs-brand-area rs-brand-one section-space  rs-swiper">
             <div class="container">
                 <div class="row  g-5 section-title-space justify-content-center">
-                    <div class="col-xl-7 col-lg-7">
-                        <div class="rs-section-title-wrapper">
-                            <span class="rs-section-subtitle has-theme-orange justify-content-start">
+                    <div class="col-xl-7 col-lg-8">
+                        <div class="rs-section-title-wrapper text-center">
+                            <span class="rs-section-subtitle has-theme-orange">
                         <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
                            <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
                            <path fill-rule="evenodd" clip-rule="evenodd"
                               d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
                               fill="#EA5501"></path>
                         </svg>
-                        Our Partners
+                        Bussiness
                      </span>
-                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Our Brands. Our Partners.</h2>
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Our Brands. Our Partners
+                            </h2>
                         </div>
-                    </div>
-                       <!-- Right: Navigation Arrows -->
-                    <div class="col-md-5 col-sm-12 text-md-end text-sm-start">
-                      <div class="rs-portfolio-navigation d-inline-flex gap-2">
-                        <button class="swiper-button-prev rs-swiper-btn has-bg-light rs-nav-prev-1" tabindex="0" aria-label="Previous slide">
-                          <i class="fa-regular fa-arrow-left"></i>
-                        </button>
-                        <button class="swiper-button-next rs-swiper-btn has-bg-light rs-nav-next-1" tabindex="0" aria-label="Next slide">
-                          <i class="fa-regular fa-arrow-right"></i>
-                        </button>
-                      </div>
                     </div>
                 </div>
                 <div class="row">
-                        <div class="col-xl-12">
-                            <div class="rs-brand-wrapper">
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".3s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/logo/marutisuzuki.png" alt="image">
+                    <div class="rs-brand-wrapper">
+                        <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="2000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="1000" data-item="6" data-item-xl="4" data-item-lg="4" data-item-md="3" data-item-sm="2" data-item-xs="2" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/marutisuzuki.png" alt="image">
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".5s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/logo/jcb.png" alt="image">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/jcb.png" alt="image">
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".7s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/logo/ktm.png" alt="image">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/ktm.png" alt="image">
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay=".9s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/logo/mahindra.png" alt="image">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/mahindra.png" alt="image">
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay="1.1s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/logo/mg.png" alt="image">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/mg.png" alt="image">
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/logo/bmw.png" alt="image">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/bmw.png" alt="image">
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/logo/bajaj.png" alt="image">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/bajaj.png" alt="image">
+                                        </div>
                                     </div>
                                 </div>
-                                 <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/logo/chetak.png" alt="image">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/chetak.png" alt="image">
+                                        </div>
                                     </div>
                                 </div>
-                                 <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/logo/honda.png" alt="image">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/honda.png" alt="image">
+                                        </div>
                                     </div>
                                 </div>
-                                 <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/logo/suzuki.png" alt="image">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/suzuki.png" alt="image">
+                                        </div>
                                     </div>
                                 </div>
-                                 <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/logo/triumph.png" alt="image">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/triumph.png" alt="image">
+                                        </div>
                                     </div>
                                 </div>
-                                 <div class="rs-brand-item wow fadeIn" data-wow-delay="1.3s">
-                                    <div class="rs-brand-thumb">
-                                        <img src="assets/images/logo/tvs.png" alt="image">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/tvs.png" alt="image">
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+                </div>
+                 <div class="row">
+                    <div class="rs-brand-wrapper">
+                        <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="2000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="1000" data-item="6" data-item-xl="4" data-item-lg="4" data-item-md="3" data-item-sm="2" data-item-xs="2" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/marutisuzuki.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/jcb.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/ktm.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/mahindra.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/mg.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/bmw.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/bajaj.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/chetak.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/honda.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/suzuki.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/triumph.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/tvs.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> 
             </div>
         </div>
+        <!-- brand area end -->
 
         <!-- why choose area start -->
         <section class="rs-why-choose-area section-space rs-why-choose-one primary-bg">
@@ -1427,7 +1537,7 @@
 
         <!-- team area start -->
         <section class="rs-team-area rs-team-one has-theme-light-blue section-space-top">
-            <div class="container has-large">
+            <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="rs-section-subtitle-wrapper">
@@ -1436,7 +1546,7 @@
                            <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
                            <path fill-rule="evenodd" clip-rule="evenodd" d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z" fill="#EA5501"></path>
                         </svg>
-                        Our Engineer
+                        Our Leaders
                      </span>
                             <div class="rs-section-border-line"></div>
                         </div>
@@ -1645,51 +1755,3 @@
         </section>
         <!-- blog area end -->
          
-<!-- Include Swiper -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
-<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const bgThumb = document.getElementById("testimonialBgThumb");
-  const bgImages = [
-    "assets/images/home/testimonial-thumb-02.png",
-    "assets/images/home/testimonial-thumb-03.png",
-    "assets/images/home/testimonial-thumb-02.png"
-  ];
-
-  const swiper = new Swiper('.rs-testimonial-slider-wrapper .swiper', {
-    loop: true,
-    speed: 1500,
-    autoplay: {
-      delay: 2500,
-      disableOnInteraction: false
-    },
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev"
-    },
-    on: {
-      slideChange: function () {
-        const realIndex = this.realIndex;
-        bgThumb.style.backgroundImage = `url('${bgImages[realIndex]}')`;
-      }
-    }
-  });
-});
-</script>
-
-         <style>
-          .rs-testimonial-bg-thumb {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 50%;
-  height: 100%;
-  background-size: cover;
-  background-position: center;
-  transition: background-image 0.5s ease-in-out;
-  z-index: 0;
-}
-
-         </style>
