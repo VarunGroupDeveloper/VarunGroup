@@ -3166,7 +3166,7 @@ input[type=checkbox] ~ label:hover {
   gap: 12px;
 }
 .rs-theme-social a {
-  color: rgba(255, 255, 255, 0.54);
+  color: #616161;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10754,7 +10754,7 @@ body.rtl .rs-theme-dir-slide {
   position: relative;
 }
 .rs-footer-widget-links ul li a {
-  color: #fff;
+  color: #616161;
   font-weight: 500;
   transition: 0.5s;
   position: relative;
@@ -11038,7 +11038,7 @@ body.rtl .rs-theme-dir-slide {
   color: var(--rs-theme-orange);
 }
 .rs-footer-two .rs-footer-widget-description {
-  color: #fff;
+  color:#616161;
   margin-bottom: 40px;
 }
 .rs-footer-two .descrip {
@@ -11083,11 +11083,11 @@ body.rtl .rs-theme-dir-slide {
   -webkit-text-fill-color: rgba(168, 17, 17, 0);
 }
 .rs-footer-two .rs-footer-widget-title {
-  color: var(--rs-white);
+  color: #0c3c61;
   margin-bottom: 25px;
 }
 .rs-footer-two .rs-footer-widget-meta p {
-  color: #fff;
+  color:#616161;
   margin: 0;
   margin-top: -18px;
 }
@@ -11099,13 +11099,13 @@ body.rtl .rs-theme-dir-slide {
   margin-top: -18px;
 }
 .rs-footer-two .rs-footer-widget-address a {
-  color: #fff;
+  color: #616161;
 }
 .rs-footer-two .rs-footer-widget-address a:hover {
   color: var(--rs-theme-red);
 }
 .rs-footer-two .rs-footer-widget-email a {
-  color: #fff;
+  color:#616161;
 }
 .rs-footer-two .rs-footer-widget-email a:hover {
   color: var(--rs-theme-red);
@@ -11120,7 +11120,7 @@ body.rtl .rs-theme-dir-slide {
   display: block;
 }
 .rs-footer-two .rs-footer-widget-number span a {
-  color: #fff;
+  color: #616161;
 }
 .rs-footer-two .rs-footer-widget-number span a:hover {
   color: var(--rs-theme-red);
@@ -11265,7 +11265,7 @@ body.rtl .rs-theme-dir-slide {
   content: "";
   width: 100%;
   height: 100%;
-  background: var(--rs-theme-blue);
+
   top: 0;
   inset-inline-start: 0;
   opacity: 0.6;
@@ -14393,7 +14393,7 @@ body.rtl .rs-theme-dir-slide {
   }
 }
 .rs-subscribe-one .rs-subscribe-text p {
-  color: #CBCCCD;
+  color: #616161;
 }
 .rs-subscribe-one .rs-subscribe-input {
   position: relative;
