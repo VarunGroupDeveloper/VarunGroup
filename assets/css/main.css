@@ -1,5 +1,5 @@
 /*---------------------------------
-	1.1 Theme SCSS
+  1.1 Theme SCSS
 ---------------------------------*/
 /*-----------------------------------------------------------------------------------
 
@@ -8,152 +8,152 @@
     Support: https://rstheme.com/support
     Description: Construction and Factory HTML Template
     Version: 1.0
-	Developer: Nayeem Ahmed
+  Developer: Nayeem Ahmed
 
 -----------------------------------------------------------------------------------
 
 /************ TABLE OF CONTENTS ***************
 
-	-----------------
+  -----------------
     01. THEME SCSS
-	-----------------
-		1.1 spacing
-		1.2 theme
-		1.3 typography
-		1.4 index
+  -----------------
+    1.1 spacing
+    1.2 theme
+    1.3 typography
+    1.4 index
 
-	-----------------
+  -----------------
     01. utils SCSS
-	-----------------
-		1.1 breakpoints
-		1.2 extends
-		1.3 mixins
-		1.4 root
-		1.5 index
-		1.6 main
+  -----------------
+    1.1 breakpoints
+    1.2 extends
+    1.3 mixins
+    1.4 root
+    1.5 index
+    1.6 main
 
-	-----------------
+  -----------------
     02. COMPONENTS SCSS
-	-----------------
-		2.1 accordion
-		2.2 animation
-		2.3 background
-		2.4 backtotop
-		2.5 brand
-		2.6 breadcrumb
-		2.7 buttons
-		2.8 color
-		2.9 counter
-		2.10 cursor
-		2.12 forms
-		2.13 lenis
-		2.14 navigation
-		2.15 offcanvas
-		2.16 pagination
-		2.17 preloader
-		2.18 progress-bar
-		2.19 scrollbar
-		2.20 section-title
-		2.21 settings
-		2.22 shortcodes
-		2.23 smooth-scroll
-		2.24 social
-		2.25 index
+  -----------------
+    2.1 accordion
+    2.2 animation
+    2.3 background
+    2.4 backtotop
+    2.5 brand
+    2.6 breadcrumb
+    2.7 buttons
+    2.8 color
+    2.9 counter
+    2.10 cursor
+    2.12 forms
+    2.13 lenis
+    2.14 navigation
+    2.15 offcanvas
+    2.16 pagination
+    2.17 preloader
+    2.18 progress-bar
+    2.19 scrollbar
+    2.20 section-title
+    2.21 settings
+    2.22 shortcodes
+    2.23 smooth-scroll
+    2.24 social
+    2.25 index
 
-	-----------------
+  -----------------
     03. layout
-	-----------------
-		-----------------
-		3.1.1 banner SCSS
-		-----------------
-			3.1.1 banner-1
-			3.1.2 banner-2
-			3.1.3 banner-3
-			3.1.4 banner-4
-			3.1.5 banner-5
-			3.1.6 banner-6
-			3.1.6 banner-7
-			3.1.6 banner-8
-			3.1.6 banner-9
-			3.1.6 banner-10
-			3.1.6 banner-11
-			3.1.6 banner-12
-			3.1.6 index
+  -----------------
+    -----------------
+    3.1.1 banner SCSS
+    -----------------
+      3.1.1 banner-1
+      3.1.2 banner-2
+      3.1.3 banner-3
+      3.1.4 banner-4
+      3.1.5 banner-5
+      3.1.6 banner-6
+      3.1.6 banner-7
+      3.1.6 banner-8
+      3.1.6 banner-9
+      3.1.6 banner-10
+      3.1.6 banner-11
+      3.1.6 banner-12
+      3.1.6 index
 
-		-----------------
-		3.1.2 blog SCSS
-		-----------------
-			3.2.1 blog-tag
-			3.2.2 blog
-			3.2.3 postbox
-			3.2.4 sidebar-tag
-			3.2.5 sidebar
-			3.2.6 index
+    -----------------
+    3.1.2 blog SCSS
+    -----------------
+      3.2.1 blog-tag
+      3.2.2 blog
+      3.2.3 postbox
+      3.2.4 sidebar-tag
+      3.2.5 sidebar
+      3.2.6 index
 
-		-----------------
-		3.1.3 ecommerce SCSS
-		-----------------
-			3.3.1 checkout
-			3.3.2 shop
-			3.3.3 index
+    -----------------
+    3.1.3 ecommerce SCSS
+    -----------------
+      3.3.1 checkout
+      3.3.2 shop
+      3.3.3 index
 
-		-----------------
-		3.1.4 footer SCSS
-		-----------------
-			3.3.1 footer
-			3.3.2 copyright
-			3.3.3 index
+    -----------------
+    3.1.4 footer SCSS
+    -----------------
+      3.3.1 footer
+      3.3.2 copyright
+      3.3.3 index
 
-		-----------------
-		3.1.5 header SCSS
-		-----------------
-			3.5.1 header-1
-			3.5.2 header-2
-			3.5.3 header-3
-			3.5.4 header-4
-			3.5.5 header-5
-			3.5.6 header-6
-			3.5.7 header-common
-			3.5.8 header-top
-			3.5.9 index
-		-----------------
-		3.1.6 menu SCSS
-		-----------------
-			3.6.1 memu
-			3.6.2 mobile-menu
-			3.5.3 index
+    -----------------
+    3.1.5 header SCSS
+    -----------------
+      3.5.1 header-1
+      3.5.2 header-2
+      3.5.3 header-3
+      3.5.4 header-4
+      3.5.5 header-5
+      3.5.6 header-6
+      3.5.7 header-common
+      3.5.8 header-top
+      3.5.9 index
+    -----------------
+    3.1.6 menu SCSS
+    -----------------
+      3.6.1 memu
+      3.6.2 mobile-menu
+      3.5.3 index
 
-	-----------------
+  -----------------
     04. Page SCSS
-	-----------------
-		4.1 about
-		4.2 award
-		4.3 contact
-		4.4 cta
-		4.5 category
-		4.6 contact
-		4.7 cta
-		4.8 experience
-		4.9 faq
-		4.10 feature
-		4.11 gallery
-		4.12 gsap
-		4.13 history
-		4.14 portfolio
-		4.15 pricing-range
-		4.16 pricing
-		4.17 progress
-		4.18 quantity
-		4.19 resume
-		4.20 slide-text
-		4.21 team
-		4.22 testimonial
-		4.23 video
-		4.24 why-choose
-		4.25 work-step
-		4.26 index
-		4.27 line
-		4.28 index
+  -----------------
+    4.1 about
+    4.2 award
+    4.3 contact
+    4.4 cta
+    4.5 category
+    4.6 contact
+    4.7 cta
+    4.8 experience
+    4.9 faq
+    4.10 feature
+    4.11 gallery
+    4.12 gsap
+    4.13 history
+    4.14 portfolio
+    4.15 pricing-range
+    4.16 pricing
+    4.17 progress
+    4.18 quantity
+    4.19 resume
+    4.20 slide-text
+    4.21 team
+    4.22 testimonial
+    4.23 video
+    4.24 why-choose
+    4.25 work-step
+    4.26 index
+    4.27 line
+    4.28 index
 
 /*----------------------------------------*/
 /*  1.1 Theme Default
@@ -573,7 +573,7 @@ i[class^=icon-] {
 }
 
 /*---------------------------------
-	1.2 Typography SCSS
+  1.2 Typography SCSS
 ---------------------------------*/
 * {
   margin: 0;
@@ -920,7 +920,7 @@ textarea:focus {
 }
 
 /*---------------------------------
-	1.3 Default Spacing SCSS
+  1.3 Default Spacing SCSS
 ---------------------------------*/
 .section-space {
   padding-top: 110px;
@@ -9485,7 +9485,7 @@ body.rtl .rs-theme-dir-slide {
   color: var(--rs-theme-blue);
 }
 .rs-blog-one.has-theme-blue .rs-blog-bg-thumb.has-bg::before {
-  background: linear-gradient(transparent, #005EB8), linear-gradient(transparent, #000000);
+  background: linear-gradient(transparent, #005eb878), linear-gradient(transparent, #00000057);
 }
 .rs-blog-one.has-theme-blue .rs-blog-thumb {
   position: relative;
@@ -9558,7 +9558,7 @@ body.rtl .rs-theme-dir-slide {
 }
 .rs-blog-two .rs-blog-content {
   position: relative;
-  background: var(--rs-bg-primary);
+  /*background: var(--rs-bg-primary);*/
   padding: 30px 30px 30px 30px;
 }
 @media only screen and (max-width: 1199px) {
@@ -15278,7 +15278,7 @@ body.rtl .rs-theme-dir-slide {
 }
 .rs-team-details .rs-team-details-bio {
   max-width: 620px;
-  margin-top: 55px;
+  margin-top: 28px;
 }
 @media only screen and (max-width: 991px) {
   .rs-team-details .rs-team-details-bio {
