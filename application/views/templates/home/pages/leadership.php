@@ -2,7 +2,7 @@
 
         <!-- breadcrumb area start -->
         <section class="rs-breadcrumb-area rs-breadcrumb-one p-relative">
-            <div class="rs-breadcrumb-bg" data-background="assets/images/bg/breadcrumb-bg-01.png"></div>
+            <div class="rs-breadcrumb-bg" data-background="assets/images/about/team-banner.webp"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-xxl-6 col-xl-8 col-lg-8">
@@ -13,7 +13,7 @@
                             <div class="rs-breadcrumb-menu">
                                 <nav>
                                     <ul>
-                                        <li><span><a href="index.html">Industrie</a></span></li>
+                                        <li><span><a href="./">Home</a></span></li>
                                         <li><span>Team</span></li>
                                     </ul>
                                 </nav>

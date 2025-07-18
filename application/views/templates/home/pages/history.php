@@ -221,7 +221,7 @@
                                     <div class="tab-pane fade show active" id="year-1982" role="tabpanel" aria-labelledby="year-1982-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-construction.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-construction.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Construction of Residential Apartments</h5>
@@ -247,7 +247,7 @@
                                     <div class="tab-pane fade" id="year-1987" role="tabpanel" aria-labelledby="year-1987-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-vf.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-vf.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Varun Finance</h5>
@@ -273,7 +273,7 @@
                                     <div class="tab-pane fade" id="year-1992" role="tabpanel" aria-labelledby="year-1992-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-bajaj.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-bajaj.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Varun Bajaj</h5>
@@ -299,7 +299,7 @@
                                     <div class="tab-pane fade" id="year-1996" role="tabpanel" aria-labelledby="year-1996-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-maruti.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-maruti.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Varun Maruti</h5>
@@ -325,7 +325,7 @@
                                     <div class="tab-pane fade" id="year-2009" role="tabpanel" aria-labelledby="year-2009-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-jcb.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-jcb.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Varun JCB</h5>
@@ -351,7 +351,7 @@
                                      <div class="tab-pane fade" id="year-2010" role="tabpanel" aria-labelledby="year-2010-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-health-center.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-health-center.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Varun Health, Skill Development Centers & Honda</h5>
@@ -377,7 +377,7 @@
                                      <div class="tab-pane fade" id="year-2011" role="tabpanel" aria-labelledby="year-2011-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-novotel.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-novotel.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Varun Hospitality Novotel Hotels, Taj (2018) & INOX</h5>
@@ -403,7 +403,7 @@
                                      <div class="tab-pane fade" id="year-2012-1" role="tabpanel" aria-labelledby="year-2012-tab-1" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-bmw.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-bmw.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Varun Benz</h5>
@@ -429,7 +429,7 @@
                                      <div class="tab-pane fade" id="year-2012-2" role="tabpanel" aria-labelledby="year-2012-tab-2" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-mahindra.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-mahindra.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Mahindra</h5>
@@ -455,7 +455,7 @@
                                      <div class="tab-pane fade" id="year-2016" role="tabpanel" aria-labelledby="year-2016-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-suzuki-tvs.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-suzuki-tvs.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Suzuki & TVS 2Wheeler</h5>
@@ -481,7 +481,7 @@
                                      <div class="tab-pane fade" id="year-2021" role="tabpanel" aria-labelledby="year-2021-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-bmw.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-bmw.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">BMW</h5>
@@ -507,7 +507,7 @@
                                      <div class="tab-pane fade" id="year-2023" role="tabpanel" aria-labelledby="year-2023-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-triump.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-triump.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Triumph</h5>
@@ -533,7 +533,7 @@
                                      <div class="tab-pane fade" id="year-2024" role="tabpanel" aria-labelledby="year-2024-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/varun-group-about-us-mg.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-mg.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">MG Motor</h5>
