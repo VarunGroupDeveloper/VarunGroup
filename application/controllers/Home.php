@@ -24,6 +24,11 @@ class Home extends CI_Controller
     $data['page'] = 'templates/home/pages/business';
     $this->load->view('templates/home/main', $data);
     }
+     public function automobile() {
+    $data['title'] = 'Automobile Dealership || Varun Group';
+    $data['page'] = 'templates/home/pages/automobile';
+    $this->load->view('templates/home/main', $data);
+    }
     public function news_and_updates() {
     $data['title'] = 'News & Updates || Varun Group';
     $data['page'] = 'templates/home/pages/news_and_updates';
