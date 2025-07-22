@@ -31,14 +31,14 @@
                   <li>
                     <div>
                      
-                      <a href="#" class="sliderLink">
+                      <a href="<?php echo base_url('automobile_dealership'); ?>" class="sliderLink">
                         <h2>Automobile Dealership</h2>
                       </a>
                     </div>
                   </li>
                   <li>
                     <div>
-                      <a href="#" class="sliderLink">
+                      <a href="<?php echo base_url('autofinance'); ?>" class="sliderLink">
                         <h2>Auto Finance</h2>
                         
                       </a>
@@ -46,29 +46,22 @@
                   </li>
                   <li>
                     <div>
-                      <a href="#" class="sliderLink">
+                      <a href="<?php echo base_url('infrastructure'); ?>" class="sliderLink">
                         <h2>Infrastructure</h2>
                       </a>
                     </div>
                   </li>
                   <li>
                     <div>
-                      <a href="#" class="sliderLink">
+                      <a href="<?php echo base_url('hospitality'); ?>" class="sliderLink">
                         <h2>Hospitality</h2>
                       </a>
                     </div>
                   </li>
                   <li>
                     <div>
-                      <a href="#" class="sliderLink">
+                      <a href="<?php echo base_url('agriculture'); ?>" class="sliderLink">
                         <h2>Agriculture</h2>
-                      </a>
-                    </div>
-                  </li>
-                  <li>
-                    <div>
-                      <a href="#" class="sliderLink">
-                        <h2>Nightlife</h2>
                       </a>
                     </div>
                   </li>

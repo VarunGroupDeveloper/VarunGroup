@@ -29,6 +29,26 @@ class Home extends CI_Controller
     $data['page'] = 'templates/home/pages/automobile';
     $this->load->view('templates/home/main', $data);
     }
+    public function autofinance() {
+    $data['title'] = 'Autofinance || Varun Group';
+    $data['page'] = 'templates/home/pages/autofinance';
+    $this->load->view('templates/home/main', $data);
+    }
+    public function infrastructure() {
+    $data['title'] = 'Infrastructure || Varun Group';
+    $data['page'] = 'templates/home/pages/infrastructure';
+    $this->load->view('templates/home/main', $data);
+    }
+    public function hospitality() {
+    $data['title'] = 'Hospitality || Varun Group';
+    $data['page'] = 'templates/home/pages/hospitality';
+    $this->load->view('templates/home/main', $data);
+    }
+    public function agriculture() {
+    $data['title'] = 'Agriculture || Varun Group';
+    $data['page'] = 'templates/home/pages/agriculture';
+    $this->load->view('templates/home/main', $data);
+    }
     public function news_and_updates() {
     $data['title'] = 'News & Updates || Varun Group';
     $data['page'] = 'templates/home/pages/news_and_updates';

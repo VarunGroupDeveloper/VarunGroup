@@ -16,3 +16,7 @@ $route['gallery'] = 'home/gallery';
 $route['community'] = 'home/community';
 $route['contact'] = 'home/contact';
 $route['automobile_dealership']='home/automobile';
+$route['autofinance']='home/autofinance';
+$route['infrastructure']='home/infrastructure';
+$route['hospitality']='home/hospitality';
+$route['agriculture']='home/agriculture';
