@@ -2095,6 +2095,7 @@ textarea:focus {
   padding-bottom: 25px;
   margin-bottom: 20px;
   border-bottom: 1px solid rgba(31, 31, 31, 0.16);
+  justify-content: center;
 }
 .rs-counter-one .rs-counter-title {
   font-size: 20px;

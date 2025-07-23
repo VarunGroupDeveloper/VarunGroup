@@ -260,7 +260,7 @@
                 <div class="row g-5">
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                         <div class="rs-counter-item">
-                            <div class="rs-counter-inner">
+                            <div class="rs-counter-inner text-center">
                                 <div class="rs-counter-number-wrapper">
                                     <span class="rs-counter-number odometer" data-count="240">00</span>
                                     <span class="prefix">+</span>
@@ -271,7 +271,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                         <div class="rs-counter-item">
-                            <div class="rs-counter-inner">
+                            <div class="rs-counter-inner text-center">
                                 <div class="rs-counter-number-wrapper">
                                     <span class="rs-counter-number odometer" data-count="220">00</span>
                                     <span class="prefix">+</span>
@@ -282,7 +282,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                         <div class="rs-counter-item">
-                            <div class="rs-counter-inner">
+                            <div class="rs-counter-inner text-center">
                                 <div class="rs-counter-number-wrapper">
                                     <span class="rs-counter-number odometer" data-count="540">00</span>
                                     <span class="prefix">+</span>
@@ -293,7 +293,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                         <div class="rs-counter-item">
-                            <div class="rs-counter-inner">
+                            <div class="rs-counter-inner text-center">
                                 <div class="rs-counter-number-wrapper">
                                     <span class="rs-counter-number odometer" data-count="21000">00</span>
                                     <span class="prefix">+</span>
