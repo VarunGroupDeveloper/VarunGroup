@@ -11,17 +11,7 @@
                                         <div class="row">
                                             <div class="col-xxl-6 col-xl-8 col-lg-8">
                                                 <div class="rs-breadcrumb-content-wrapper">
-                                                    <div class="rs-breadcrumb-title-wrapper">
-                                                        <h1 class="rs-breadcrumb-title">AutoFinance</h1>
-                                                    </div>
-                                                    <div class="rs-breadcrumb-menu">
-                                                        <nav>
-                                                            <ul>
-                                                                <li><span><a href="index.html">Home</a></span></li>
-                                                                <li><span>AutoFinance</span></li>
-                                                            </ul>
-                                                        </nav>
-                                                    </div>
+                                                   
                                                 </div>
                                             </div>
                                         </div>
@@ -36,17 +26,7 @@
                                         <div class="row">
                                             <div class="col-xxl-6 col-xl-8 col-lg-8">
                                                 <div class="rs-breadcrumb-content-wrapper">
-                                                    <div class="rs-breadcrumb-title-wrapper">
-                                                        <h1 class="rs-breadcrumb-title">AutoFinance</h1>
-                                                    </div>
-                                                    <div class="rs-breadcrumb-menu">
-                                                        <nav>
-                                                            <ul>
-                                                                <li><span><a href="index.html">Home</a></span></li>
-                                                                <li><span>AutoFinance</span></li>
-                                                            </ul>
-                                                        </nav>
-                                                    </div>
+                                                    
                                                 </div>
                                             </div>
                                         </div>
