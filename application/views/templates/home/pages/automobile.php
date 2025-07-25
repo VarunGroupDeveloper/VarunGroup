@@ -12,7 +12,7 @@
                         <nav>
                             <ul>
                                 <li>
-                                    <span><a href="index.html">Home</a></span>
+                                    <span><a href="./">Home</a></span>
                                 </li>
                                 <li><span>Automobile Dealership</span></li>
                             </ul>
@@ -53,7 +53,21 @@
                         <div class="rs-section-title-wrapper">
                             <h3 class="rs-section-title rs-split-text-enable split-in-fade automobile-title">Maruti Suzuki</h3>
                         </div>
-
+                        <div class="rs-about-tab">
+                            <ul class="nav nav-pills" id="pills-tab" role="tablist">
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link active" id="pills-item-one-tab" data-bs-toggle="pill" data-bs-target="#pills-item-one" type="button" role="tab" aria-controls="pills-item-one" aria-selected="true">
+                                        Arena
+                                    </button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="pills-item-two-tab" data-bs-toggle="pill" data-bs-target="#pills-item-two" type="button" role="tab" aria-controls="pills-item-two" aria-selected="false">Nexa</button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="pills-item-three-tab" data-bs-toggle="pill" data-bs-target="#pills-item-three" type="button" role="tab" aria-controls="pills-item-three" aria-selected="false">Commercial</button>
+                                </li>
+                            </ul>
+                        </div>
                         <div class="rs-aobut-tab-content-wrapper">
                             <div class="tab-content rs-about-tab-anim" id="pills-tabContent">
                                 <div class="tab-pane fade show active" id="pills-item-one" role="tabpanel" aria-labelledby="pills-item-one-tab" tabindex="0">
@@ -80,9 +94,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -278,9 +292,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -476,9 +490,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -663,7 +677,12 @@
                         <div class="rs-about-tab">
                             <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                 <li class="nav-item" role="presentation">
-                                    <button class="nav-link active" id="bajaj-item-one-tab" data-bs-toggle="pill" data-bs-target="#bajaj-item-one" type="button" role="tab" aria-controls="bajaj-item-one" aria-selected="true">
+                                    <button class="nav-link active" id="bajaj-item-five-tab" data-bs-toggle="pill" data-bs-target="#bajaj-item-five" type="button" role="tab" aria-controls="bajaj-item-five" aria-selected="false">
+                                        Motorcycle
+                                    </button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link " id="bajaj-item-one-tab" data-bs-toggle="pill" data-bs-target="#bajaj-item-one" type="button" role="tab" aria-controls="bajaj-item-one" aria-selected="true">
                                         KTM
                                     </button>
                                 </li>
@@ -680,11 +699,7 @@
                                         3 wheeler
                                     </button>
                                 </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="bajaj-item-five-tab" data-bs-toggle="pill" data-bs-target="#bajaj-item-five" type="button" role="tab" aria-controls="bajaj-item-five" aria-selected="false">
-                                        Motorcycle
-                                    </button>
-                                </li>
+                                
                             </ul>
                         </div>
 
@@ -714,9 +729,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -912,9 +927,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -1110,9 +1125,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -1307,9 +1322,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -1504,9 +1519,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -1729,9 +1744,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -1927,9 +1942,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -2115,14 +2130,14 @@
                             <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link active" id="Neon-item-one-tab" data-bs-toggle="pill" data-bs-target="#Neon-item-one" type="button" role="tab" aria-controls="Neon-item-one" aria-selected="true">
-                                        PV
+                                        Personal Vehicles
                                     </button>
                                 </li>
                                 <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="Neon-item-two-tab" data-bs-toggle="pill" data-bs-target="#Neon-item-two" type="button" role="tab" aria-controls="Neon-item-two" aria-selected="false">CV</button>
+                                    <button class="nav-link" id="Neon-item-two-tab" data-bs-toggle="pill" data-bs-target="#Neon-item-two" type="button" role="tab" aria-controls="Neon-item-two" aria-selected="false">Electric Vehicles</button>
                                 </li>
                                 <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="Neon-item-three-tab" data-bs-toggle="pill" data-bs-target="#Neon-item-three" type="button" role="tab" aria-controls="Neon-item-three" aria-selected="false">EV</button>
+                                    <button class="nav-link" id="Neon-item-three-tab" data-bs-toggle="pill" data-bs-target="#Neon-item-three" type="button" role="tab" aria-controls="Neon-item-three" aria-selected="false">Commercial Vehicles</button>
                                 </li>
                             </ul>
                         </div>
@@ -2153,9 +2168,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -2351,9 +2366,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -2549,9 +2564,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -2760,9 +2775,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -2971,9 +2986,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -3201,9 +3216,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -3398,9 +3413,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -3595,9 +3610,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -3783,7 +3798,12 @@
                             <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link active" id="Bharat-item-one-tab" data-bs-toggle="pill" data-bs-target="#Bharat-item-one" type="button" role="tab" aria-controls="Bharat-item-one" aria-selected="true">
-                                        PV
+                                        Trucks
+                                    </button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link " id="Bharat-item-two-tab" data-bs-toggle="pill" data-bs-target="#Bharat-item-two" type="button" role="tab" aria-controls="Bharat-item-two" aria-selected="true">
+                                        Buses
                                     </button>
                                 </li>
                             </ul>
@@ -3815,9 +3835,206 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
+                                                        data-item-md="2"
+                                                        data-item-sm="1"
+                                                        data-item-xs="1"
+                                                        data-item-mobile="1"
+                                                        data-margin="30"
+                                                        data-margin-xl="30"
+                                                        data-margin-lg="30"
+                                                        data-margin-md="30"
+                                                        data-margin-sm="30"
+                                                        data-margin-xs="30"
+                                                        data-margin-mobile="30"
+                                                    >
+                                                        <div class="swiper-wrapper">
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/portfolio/portfolio-thumb-16.png" alt="image" />
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/portfolio/portfolio-thumb-17.png" alt="image" />
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/portfolio/portfolio-thumb-18.png" alt="image" />
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/portfolio/portfolio-thumb-19.png" alt="image" />
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/portfolio/portfolio-thumb-20.png" alt="image" />
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
+                                </div>
+                                <div class="tab-pane fade " id="Bharat-item-two" role="tabpanel" aria-labelledby="Bharat-item-two-tab" tabindex="0">
+                                    <section class="rs-portfolio-area rs-portfolio-four rs-portfolio-tooltip rs-swiper">
+                                        <div class="container">
+                                            <div class="row g-5 section-title-space align-items-end">
+                                                <div class="col-xl-12 col-lg-12">
+                                                    <!-- If we need navigation buttons -->
+                                                    <div class="rs-portfolio-navigation">
+                                                        <button class="swiper-button-prev rs-swiper-btn has-bg-light"><i class="fa-regular fa-arrow-left"></i></button>
+                                                        <button class="swiper-button-next rs-swiper-btn has-bg-light"><i class="fa-regular fa-arrow-right"></i></button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row g-5 mb-30">
+                                                <div class="rs-portfolio-slider-wrapper">
+                                                    <div
+                                                        class="swiper"
+                                                        data-clone-slides="false"
+                                                        data-loop="true"
+                                                        data-speed="2000"
+                                                        data-autoplay="true"
+                                                        data-dots-dynamic="false"
+                                                        data-hover-pause="true"
+                                                        data-effect="false"
+                                                        data-delay="3000"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -4026,9 +4243,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -4251,9 +4468,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -4449,9 +4666,9 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
@@ -4633,7 +4850,18 @@
                         <div class="rs-section-title-wrapper">
                             <h3 class="rs-section-title rs-split-text-enable split-in-fade automobile-title">Morris Garages </h3>
                         </div>
-
+                         <div class="rs-about-tab">
+                            <ul class="nav nav-pills" id="pills-tab" role="tablist">
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link active" id="Morris-item-one-tab" data-bs-toggle="pill" data-bs-target="#Morris-item-one" type="button" role="tab" aria-controls="Morris-item-one" aria-selected="true">
+                                        Personal Vehicles
+                                    </button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="Morris-item-two-tab" data-bs-toggle="pill" data-bs-target="#Morris-item-two" type="button" role="tab" aria-controls="Morris-item-two" aria-selected="false">Electric Vehicles</button>
+                                </li>
+                            </ul>
+                        </div>
                         <div class="rs-aobut-tab-content-wrapper">
                             <div class="tab-content rs-about-tab-anim" id="pills-tabContent">
                                 <div class="tab-pane fade show active" id="Morris-item-one" role="tabpanel" aria-labelledby="Morris-item-one-tab" tabindex="0">
@@ -4660,9 +4888,206 @@
                                                         data-hover-pause="true"
                                                         data-effect="false"
                                                         data-delay="3000"
-                                                        data-item="3"
-                                                        data-item-xl="3"
-                                                        data-item-lg="3"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
+                                                        data-item-md="2"
+                                                        data-item-sm="1"
+                                                        data-item-xs="1"
+                                                        data-item-mobile="1"
+                                                        data-margin="30"
+                                                        data-margin-xl="30"
+                                                        data-margin-lg="30"
+                                                        data-margin-md="30"
+                                                        data-margin-sm="30"
+                                                        data-margin-xs="30"
+                                                        data-margin-mobile="30"
+                                                    >
+                                                        <div class="swiper-wrapper">
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/portfolio/portfolio-thumb-16.png" alt="image" />
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/portfolio/portfolio-thumb-17.png" alt="image" />
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/portfolio/portfolio-thumb-18.png" alt="image" />
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/portfolio/portfolio-thumb-19.png" alt="image" />
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/portfolio/portfolio-thumb-20.png" alt="image" />
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
+                                </div>
+                                 <div class="tab-pane fade " id="Morris-item-two" role="tabpanel" aria-labelledby="Morris-item-two-tab" tabindex="0">
+                                    <section class="rs-portfolio-area rs-portfolio-four rs-portfolio-tooltip rs-swiper">
+                                        <div class="container">
+                                            <div class="row g-5 section-title-space align-items-end">
+                                                <div class="col-xl-12 col-lg-12">
+                                                    <!-- If we need navigation buttons -->
+                                                    <div class="rs-portfolio-navigation">
+                                                        <button class="swiper-button-prev rs-swiper-btn has-bg-light"><i class="fa-regular fa-arrow-left"></i></button>
+                                                        <button class="swiper-button-next rs-swiper-btn has-bg-light"><i class="fa-regular fa-arrow-right"></i></button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row g-5 mb-30">
+                                                <div class="rs-portfolio-slider-wrapper">
+                                                    <div
+                                                        class="swiper"
+                                                        data-clone-slides="false"
+                                                        data-loop="true"
+                                                        data-speed="2000"
+                                                        data-autoplay="true"
+                                                        data-dots-dynamic="false"
+                                                        data-hover-pause="true"
+                                                        data-effect="false"
+                                                        data-delay="3000"
+                                                        data-item="4"
+                                                        data-item-xl="4"
+                                                        data-item-lg="4"
                                                         data-item-md="2"
                                                         data-item-sm="1"
                                                         data-item-xs="1"
