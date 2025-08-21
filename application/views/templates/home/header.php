@@ -12,10 +12,10 @@
                     </div>
                     <div class="rs-header-menu">
                         <div class="rs-theme-social has-transparent has-orange">
-                            <a href="#"><i class="ri-twitter-x-line"></i></a>
-                            <a href="#"><i class="ri-facebook-fill"></i></a>
-                            <a href="#"><i class="ri-linkedin-fill"></i></a>
-                            <a href="#"><i class="ri-instagram-line"></i></a>
+                            <a href="https://www.facebook.com/VarunGroupOfficial"><i class="ri-facebook-fill"></i></a>
+                            <a href="https://www.linkedin.com/company/varungroup/"><i class="ri-linkedin-fill"></i></a>
+                            <a href="https://www.instagram.com/varungroupofficial"><i class="ri-instagram-line"></i></a>
+                            <a href="https://www.youtube.com/@varungroup"><i class="ri-youtube-line"></i></a>
                         </div>
                         <nav id="mobile-menu" class="main-menu">
                             <ul class="multipage-menu">
@@ -61,20 +61,7 @@
                         </nav>
                     </div>
                     <div class="rs-header-right">
-                        <!-- search area start -->
-                        <div class="rs-header-search-wrapper">
-                            <div class="rs-header-search-icon">
-                                <i class="ri-close-fill has-close"></i>
-                                <i class="ri-search-line has-search"></i>
-                            </div>
-                            <form class="rs-header-search-inner rs-stickys-form" action="#">
-                                <div class="rs-header-search">
-                                    <input type="text" placeholder="Searching...">
-                                    <button type="submit"><i class="ri-search-line"></i></button>
-                                </div>
-                            </form>
-                        </div>
-                        <!-- search area end -->
+                       
                         <div class="rs-header-btn">
                             <a class="rs-btn has-theme-orange has-icon has-bg" href="contact.html">Get In Touch
                                 <span class="icon-box">
@@ -139,10 +126,10 @@
                     <div class="offcanvas-social">
                         <h4 class="offcanvas-title-meta">Subscribe & Follow</h4>
                         <ul>
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/VarunGroupOfficial"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="https://www.instagram.com/varungroupofficial"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="https://www.youtube.com/@varungroup"><i class="fab fa-youtube"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/varungroup/"><i class="fab fa-linkedin"></i></a></li>
                         </ul>
                     </div>
                 </div>
