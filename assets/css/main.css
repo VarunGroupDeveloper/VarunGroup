@@ -1330,8 +1330,8 @@ textarea:focus {
   background-color: rgba(4, 4, 35, 0.25);
 }
 .rs-btn.has-theme-yellow {
-  background: var(--rs-theme-yellow);
-  color: var(--rs-theme-green);
+background: #ffffff;
+    color: var(--rs-theme-green);
 }
 .rs-btn.has-theme-yellow:hover {
   background: #EBB40E;
@@ -19690,7 +19690,7 @@ body.rtl .rs-theme-dir-slide {
   position: relative;
   z-index: 2;
   padding: 40px 50px 50px 50px;
-  border-top: 4px solid var(--rs-theme-yellow);
+  border-top: 4px solid #ed1c24;
   border-radius: 3px 3px 3px 3px;
   background: var(--rs-theme-light-green);
 }
@@ -22470,6 +22470,14 @@ body.rtl .rs-theme-dir-slide {
   position: relative;
   border-radius: 4px;
 }
+.rs-category-one .rs-category-item-stats {
+  background: linear-gradient(90deg, rgb(0 96 175) 51%, #2e7cbd 100%);
+      padding: 18px 18px 19px;
+  display: flex;
+  gap: 15px 25px;
+  position: relative;
+  border-radius: 4px;
+}
 @media only screen and (max-width: 1199px) {
   .rs-category-one .rs-category-item {
     padding: 20px 20px 40px;
@@ -22488,7 +22496,7 @@ body.rtl .rs-theme-dir-slide {
   position: absolute;
   color: #E7E9EC;
   counter-increment: count;
-  content: "0" counter(count);
+  /*content: "0" counter(count);*/
   z-index: 1;
   font-size: 30px;
   font-weight: 700;
@@ -25985,4 +25993,78 @@ background-position: 50% 50%;
 
 .automobile-title{
   margin-bottom: 21px;
+}
+/* Sticky section */
+.sticky-marquee-section {
+  position: sticky;
+  top: 0; /* Stays at top */
+  z-index: 999;
+   background: #ed1c24;
+    padding: 5px 0px 5px 0px;
+  overflow: hidden;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+    width: 110%;
+    margin-inline-start: -50px;
+}
+
+
+
+/* Marquee container */
+.rs-gsap-slide-inner {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+/* Text that scrolls */
+.marquee-text p {
+  display: inline-block;
+  padding-left: 100%; /* Start off-screen */
+  font-size: 20px;
+  font-weight: 600;
+  animation: marqueeScroll 20s linear infinite;
+}
+
+@keyframes marqueeScroll {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+.grid-container {
+  columns: 5 200px;
+  column-gap: 1.5rem;
+  width: 90%;
+  margin: 0 auto;
+  div {
+    width: 150px;
+    margin: 0 1.5rem 1.5rem 0;
+    display: inline-block;
+    width: 100%;
+    border: solid 2px black;
+    padding: 5px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    border-radius: 5px;
+    transition: all .25s ease-in-out;
+    &:hover img {
+      filter: grayscale(0);
+    }
+    &:hover {
+      border-color: coral;
+    }
+    img {
+      width: 100%;
+      border-radius: 5px;
+      transition: all .25s ease-in-out;
+    }
+    p {
+      margin: 5px 0;
+      padding: 0;
+      text-align: center;
+      font-style: italic;
+    }
+  }
 }

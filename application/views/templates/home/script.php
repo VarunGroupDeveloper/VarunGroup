@@ -73,3 +73,41 @@
   });
 </script>
 
+<script>
+  gsap.to(".marquee-text p", {
+    xPercent: -100,
+    repeat: -1,
+    ease: "linear",
+    duration: 20
+  });
+</script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const links = document.querySelectorAll('.hotel-selector');
+    const allImages = document.querySelectorAll('.grid-item');
+
+    links.forEach(link => {
+      link.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        const target = document.querySelector('#gallerySection');
+        const selectedHotel = this.dataset.hotel;
+
+        // Scroll smoothly to gallery
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // Hide all images first
+        allImages.forEach(item => {
+          item.style.display = 'none';
+        });
+
+        // Show only images related to selected hotel
+        document.querySelectorAll(`.grid-item[data-hotel="${selectedHotel}"]`).forEach(item => {
+          item.style.display = 'block';
+        });
+      });
+    });
+  });
+</script>
