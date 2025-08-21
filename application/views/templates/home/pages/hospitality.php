@@ -22,54 +22,50 @@
             </div>
         </section>
         <!-- breadcrumb area end -->
-
-         <section class="section-space">
+        <section class="section-space">
             <div class="container">
-              <div class="accordion">
-                <ul>
-                  <li>
-                    <div>
-                     
-                      <a href="<?php echo base_url('automobile_dealership'); ?>" class="sliderLink">
-                        <h2>Novotel Visakhapatnam</h2>
-                      </a>
-                    </div>
-                  </li>
-                  <li>
-                    <div>
-                      <a href="<?php echo base_url('autofinance'); ?>" class="sliderLink">
-                        <h2>Novotel Vijayawada</h2>
-                        
-                      </a>
-                    </div>
-                  </li>
-                  <li>
-                    <div>
-                      <a href="<?php echo base_url('infrastructure'); ?>" class="sliderLink">
-                        <h2>Novotel Bheemili</h2>
-                      </a>
-                    </div>
-                  </li>
-                  <li>
-                    <div>
-                      <a href="<?php echo base_url('hospitality'); ?>" class="sliderLink">
-                        <h2>Ibis Hotel (Coming Soon)</h2>
-                      </a>
-                    </div>
-                  </li>
-                  <li>
-                    <div>
-                      <a href="#" class="sliderLink">
-                        <h2>Varun Bay Sands (Coming Soon)</h2>
-                      </a>
-                    </div>
-                  </li>
-                </ul>
-              </div>
-          </div>
+                <div class="accordion">
+                    <ul>
+                      <li>
+                        <div>
+                          <a href="#gallerySection" class="sliderLink">
+                            <h2 >Novotel Visakhapatnam</h2>
+                          </a>
+                        </div>
+                      </li>
+                      <li>
+                        <div>
+                          <a href="<?php echo base_url('autofinance'); ?>" class="sliderLink">
+                            <h2>Novotel Vijayawada</h2>
+                          </a>
+                        </div>
+                      </li>
+                      <li>
+                        <div>
+                          <a href="<?php echo base_url('infrastructure'); ?>" class="sliderLink">
+                            <h2>Novotel Bheemili</h2>
+                          </a>
+                        </div>
+                      </li>
+                      <li>
+                        <div>
+                          <a href="<?php echo base_url('hospitality'); ?>" class="sliderLink">
+                            <h2>Ibis Hotel (Coming Soon)</h2>
+                          </a>
+                        </div>
+                      </li>
+                      <li>
+                        <div>
+                          <a href="#" class="sliderLink">
+                            <h2>Varun Bay Sands (Coming Soon)</h2>
+                          </a>
+                        </div>
+                      </li>
+                    </ul>
+                </div>
+            </div>
         </section>
-
-          <!-- Services Tab Style 01 -->
+        <!-- Services Tab Style 01 -->
         <section class="rs-elements-portfolio-area section-space rs-services-one primary-bg p-relative">
             <div class="container">
                 <div class="row  g-5 justify-content-center section-title-space align-items-center">
@@ -394,8 +390,7 @@
             </div>
         </section>
         <!-- Services Tab Style 01 -->
-
-              <!-- tab style 01 -->
+        <!-- tab style 01 -->
         <section class="rs-elements-tab-area section-space rs-about-seven">
             <div class="container">
                 <div class="row  g-5 justify-content-center section-title-space align-items-center">
@@ -1025,7 +1020,7 @@
             </div>
         </section>
         <!-- tab style 01 -->
-           <!-- portfolio area start -->
+        <!-- portfolio area start -->
         <section class="rs-protfolio-area section-space rs-portfolio-six">
             <div class="rs-portfolio-bg-thumb" data-background="assets/images/bg/portfolio-bg.png"></div>
             <div class="container">
@@ -1130,7 +1125,7 @@
             </div>
         </section>
         <!-- portfolio area end -->
-          <!-- counter area start -->
+        <!-- counter area start -->
         <div class="rs-counter-area rs-counter-one has-theme-blue section-space" id="counterSection">
             <div class="container ">
                 <div class="row g-5">
@@ -1384,7 +1379,7 @@
             </div>
         </section>
         <!-- portfolio area end -->
-           <!-- portfolio area start -->
+        <!-- portfolio area start -->
         <section id="homeportfolio" class="rs-portfolio-area section-space-bottom rs-portfolio-five">
             <div class="container has-large">
                 <div class="row">
@@ -1570,7 +1565,7 @@
             </div>
         </section>
         <!-- portfolio area end -->
-           <!-- category area start -->
+        <!-- category area start -->
         <section class="rs-category-area section-space rs-category-one has-theme-orange">
             <div class="rs-category-bg-thumb" data-background="assets/images/bg/category-bg-02.png"></div>
             <div class="container">
@@ -1965,3 +1960,47 @@
             </div>
         </section>
         <!-- category area end -->
+        <section class="section-space" id="gallerySection">          
+            <div class="grid-container">
+              <div class="grid-item" data-hotel="visakhapatnam">
+                <img class='grid-item grid-item-1' src='https://images.unsplash.com/photo-1544568100-847a948585b9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+                <p>"I'm so happy today!"</p>
+              </div>
+              <div>
+                <img class='grid-item grid-item-2' src='https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+                <p>"I see those nugs."</p>
+              </div>
+              <div>
+                <img class='grid-item grid-item-3' src='https://images.unsplash.com/photo-1510771463146-e89e6e86560e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+                <p>"I love you so much!"</p>
+              </div>
+              <div>
+                <img class='grid-item grid-item-4' src='https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+                <p>"I'm the baby of the house!"</p>
+              </div>
+              <div>
+                <img class='grid-item grid-item-5' src='https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+                <p>"Are you gunna throw the ball?"</p>
+              </div>
+              <div>
+                <img class='grid-item grid-item-6' src='https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+                <p>"C'mon friend!"</p>
+              </div>
+              <div>
+                <img class='grid-item grid-item-7' src='https://images.unsplash.com/photo-1552053831-71594a27632d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+                <p>"A rose for mommy!"</p>
+              </div>
+              <div>
+                <img class='grid-item grid-item-8' src='https://images.unsplash.com/photo-1518717758536-85ae29035b6d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+                <p>"You gunna finish that?"</p>
+              </div>
+              <div>
+                <img class='grid-item grid-item-9' src='https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+                <p>"We can't afford a cat!"</p>
+              </div>
+              <div>
+                <img class='grid-item grid-item-10' src='https://images.unsplash.com/photo-1504595403659-9088ce801e29?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+                <p>"Dis my fren!"</p>
+              </div>
+            </div>
+        </section>
