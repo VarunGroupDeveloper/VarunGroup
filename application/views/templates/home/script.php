@@ -111,3 +111,32 @@
     });
   });
 </script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const bgThumb = document.getElementById("testimonialBgThumb");
+  const bgImages = [
+    "assets/images/home/testimonial-thumb-02.png",
+    "assets/images/home/testimonial-thumb-03.png",
+    "assets/images/home/testimonial-thumb-02.png"
+  ];
+
+  const swiper = new Swiper('.rs-testimonial-slider-wrapper .swiper', {
+    loop: true,
+    speed: 1500,
+    autoplay: {
+      delay: 2500,
+      disableOnInteraction: false
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev"
+    },
+    on: {
+      slideChange: function () {
+        const realIndex = this.realIndex;
+        bgThumb.style.backgroundImage = `url('${bgImages[realIndex]}')`;
+      }
+    }
+  });
+});
+</script>

@@ -1755,3 +1755,17 @@
         </section>
         <!-- blog area end -->
          
+         <style>
+          .rs-testimonial-bg-thumb {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  transition: background-image 0.5s ease-in-out;
+  z-index: 0;
+}
+
+         </style>
