@@ -15073,7 +15073,7 @@ body.rtl .rs-theme-dir-slide {
   color: var(--rs-theme-orange);
 }
 .rs-team-one .rs-team-designation {
-  font-size: 16px;
+  font-size: 15px;
 }
 .rs-team-one .rs-team-social {
   background: var(--rs-theme-orange);
@@ -19128,6 +19128,28 @@ body.rtl .rs-theme-dir-slide {
 .rs-portfolio-eight .rs-portfolio-thumb {
   position: relative;
   z-index: 1;
+}
+/* Blue angled gradient overlay (below text & buttons) */
+.rs-portfolio-thumb::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: transparent;
+  background-image: linear-gradient(164deg, #000 0%, rgba(2,59,74,0) 60%);
+  z-index: 2;
+  pointer-events: none;
+}
+.rs-portfolio-label h5.rs-portfolio-title {
+  font-family: var(--rs-ff-title);
+}
+
+/* Top-left label */
+.rs-portfolio-label {
+  position: absolute;
+  top: 12px;          /* adjust to taste */
+  left: 30px;         /* adjust to taste */
+  z-index: 3;         /* above gradient */
+  color: #fff !important;
 }
 .rs-portfolio-eight .rs-portfolio-thumb::before {
   position: absolute;

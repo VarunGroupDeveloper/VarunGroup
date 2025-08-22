@@ -115,9 +115,8 @@
 document.addEventListener("DOMContentLoaded", function () {
   const bgThumb = document.getElementById("testimonialBgThumb");
   const bgImages = [
-    "assets/images/home/testimonial-thumb-02.png",
-    "assets/images/home/testimonial-thumb-03.png",
-    "assets/images/home/testimonial-thumb-02.png"
+    "assets/images/home/varungroup_launching.webp",
+    "assets/images/home/varungroup_launching_ktm.webp",
   ];
 
   const swiper = new Swiper('.rs-testimonial-slider-wrapper .swiper', {

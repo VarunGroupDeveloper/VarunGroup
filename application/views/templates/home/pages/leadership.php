@@ -53,7 +53,7 @@
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="rs-team-details-content">
-                            <h2 class="rs-team-details-title">Mr. V Prabhu Kishore</h2>
+                            <h2 class="rs-team-details-title">Mr. V. Prabhu Kishore</h2>
                             <span class="rs-team-details-desig">Chairman & Founder</span>
                           
                             <div class="rs-team-details-bio">
@@ -100,7 +100,7 @@
                                 <a href="blog-details.html"> <img src="assets/images/home/team-lakshmi.webp" alt="image"></a>
                             </div>
                            <div class="rs-blog-content">
-                                <h4 class="rs-team-details-title">Mrs.V. Lakshmi Kishore</h4>
+                                <h4 class="rs-team-details-title">Mrs. V. Lakshmi Kishore</h4>
                                 <span class="rs-team-details-desig">Director</span>
                                 
                                 <p class="mt-4">Mrs. Lakshmi Kishore hails from a business family in Vijayawada, Andhra Pradesh. Educated with a degree in English Literature, she has been a pillar of support to the Varun Group. Balancing the family responsibility with hands-on approach to various aspects of the Group business, Mrs. Lakshmi Kishore is a business woman par excellence.</p>
@@ -147,6 +147,19 @@
                     </div>
                 </div>
                 <div class="row g-5">
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+                            <div class="rs-team-thumb">
+                                <a href="team-details.html"><img src="assets/images/about/harsha.webp" alt="image"></a>
+                            </div>
+                            <div class="rs-team-content-wrapper">
+                                <div class="rs-team-content-box">
+                                    <h6 class="rs-team-title"><a href="team-details.html">Mr. Harsha Hanumara</a></h6>
+                                    <span class="rs-team-designation">Joint Managing Director - Varun Group</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">

@@ -25,7 +25,7 @@
 </section>
 <!-- breadcrumb area end -->
 <!-- tab style 01 -->
-<section class="rs-elements-tab-area section-space rs-about-seven">
+<section class="rs-elements-tab-area section-space rs-about-seven ">
     <div class="container">
         <div class="row g-5 justify-content-center section-title-space align-items-center">
             <div class="col-xxl-8 col-xl-9 col-lg-9">
@@ -113,7 +113,13 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-16.png" alt="image" />
+                                                                        <img src="assets/images/automobile/altok10.webp" alt="image" />
+                                                                              <!-- Top-left label over image -->
+                                                                          <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Alto K10</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -143,7 +149,13 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-17.png" alt="image" />
+                                                                        <img src="assets/images/automobile/brezza.webp" alt="image" alt="image" />
+                                                                           <!-- Top-left label over image -->
+                                                                          <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Brezza</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -173,7 +185,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-18.png" alt="image" />
+                                                                        <img src="assets/images/automobile/celerio.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Celerio</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -203,7 +220,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-19.png" alt="image" />
+                                                                        <img src="assets/images/automobile/dzire.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Dzire</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -233,7 +255,117 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-20.png" alt="image" />
+                                                                        <img src="assets/images/automobile/ertiga.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Ertiga</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/spresso.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">S-Presso</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/swift.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Swift</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/wagonr.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">WagonR</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -311,7 +443,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-16.png" alt="image" />
+                                                                        <img src="assets/images/automobile/ciaz.webp" alt="image" />
+                                                                        <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Ciaz</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -341,7 +478,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-17.png" alt="image" />
+                                                                         <img src="assets/images/automobile/evitara.webp" alt="image" />
+                                                                            <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">E vitara</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -371,7 +513,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-18.png" alt="image" />
+                                                                        <img src="assets/images/automobile/fronx.webp" alt="image" />
+                                                                           <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Fronx</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -401,7 +548,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-19.png" alt="image" />
+                                                                        <img src="assets/images/automobile/grandvitara.webp" alt="image" />
+                                                                           <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Grand vitara</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -431,7 +583,117 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-20.png" alt="image" />
+                                                                        <img src="assets/images/automobile/invicto.webp" alt="image" />
+                                                                           <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Invicto</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/jimny.webp" alt="image" />
+                                                                           <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Jimny</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/xl6.webp" alt="image" />
+                                                                           <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">XL6</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/baleno.webp" alt="image" />
+                                                                           <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Baleno</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -509,7 +771,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-16.png" alt="image" />
+                                                                         <img src="assets/images/automobile/super_carry.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Super Carry</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -539,7 +806,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-17.png" alt="image" />
+                                                                          <img src="assets/images/automobile/tour_h1.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Tour H1</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -569,7 +841,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-18.png" alt="image" />
+                                                                          <img src="assets/images/automobile/tour_h3.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Tour H3</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -599,7 +876,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-19.png" alt="image" />
+                                                                          <img src="assets/images/automobile/tour_m.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Tour M</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -629,7 +911,47 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-20.png" alt="image" />
+                                                                          <img src="assets/images/automobile/tour_v.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Tour V</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                             <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                          <img src="assets/images/automobile/tours.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Tour S</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -1763,7 +2085,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-16.png" alt="image" />
+                                                                         <img src="assets/images/automobile/suzuki-access.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Suzuki Access</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -1793,7 +2120,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-17.png" alt="image" />
+                                                                        <img src="assets/images/automobile/suzuki-avnis.webp" alt="image" />
+                                                                        <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Suzuki Avenis</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -1823,7 +2155,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-18.png" alt="image" />
+                                                                        <img src="assets/images/automobile/suzuki-burgman.webp" alt="image" />
+                                                                        <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Suzuki Burgman</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -1853,37 +2190,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-19.png" alt="image" />
-                                                                        <div class="rs-portfolio-btn-wrapper">
-                                                                            <div class="rs-portfolio-icon-btn">
-                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
-                                                                                    <span class="icon-box">
-                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
-                                                                                            <path
-                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
-                                                                                                fill="white"
-                                                                                            ></path>
-                                                                                        </svg>
-                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
-                                                                                            <path
-                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
-                                                                                                fill="white"
-                                                                                            ></path>
-                                                                                        </svg>
-                                                                                    </span>
-                                                                                </a>
-                                                                            </div>
-                                                                            <div class="rs-portfolio-text-btn">
-                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="swiper-slide">
-                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
-                                                                    <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-20.png" alt="image" />
+                                                                        <img src="assets/images/automobile/suzuki-ev.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Suzuki EV</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -1961,7 +2273,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-16.png" alt="image" />
+                                                                        <img src="assets/images/automobile/gixeer_250.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Gixxer 250</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -1991,7 +2308,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-17.png" alt="image" />
+                                                                        <img src="assets/images/automobile/gixeer_sf.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Gixxer SF 250</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -2021,7 +2343,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-18.png" alt="image" />
+                                                                        <img src="assets/images/automobile/gixeer-150.webp" alt="image" />
+                                                                          <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Gixxer  150</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -2051,7 +2378,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-19.png" alt="image" />
+                                                                        <img src="assets/images/automobile/gixeer-sf-150.webp" alt="image" />
+                                                                          <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Gixeer SF 150</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -2081,7 +2413,47 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-20.png" alt="image" />
+                                                                        <img src="assets/images/automobile/gixeer_sf_ffv.webp" alt="image" />
+                                                                            <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Gixxer SF 250 FFV</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                             <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/v_strom.webp" alt="image" />
+                                                                            <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">V Strom</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">

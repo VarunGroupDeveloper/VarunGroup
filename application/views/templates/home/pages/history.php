@@ -144,7 +144,7 @@
                                 <div class="tab-scroll-wrapper"  id="tabScrollContainer">
                                     <ul class="nav nav-pills d-flex flex-nowrap justify-content-start align-items-center gap-2" id="pills-tab" role="tablist">
                                         <li class="nav-item" role="presentation">
-                                            <button class="nav-link" id="year-1982-tab" data-bs-toggle="pill" data-bs-target="#year-1982" type="button" role="tab" aria-selected="false" tabindex="-1">
+                                            <button class="nav-link active" id="year-1982-tab" data-bs-toggle="pill" data-bs-target="#year-1982" type="button" role="tab" aria-selected="false" tabindex="-1">
                                                 In 1982
                                             </button>
                                         </li>
@@ -717,7 +717,7 @@
 
                 <!-- category area start -->
         <section class="rs-category-area section-space rs-category-one has-theme-orange">
-            <div class="rs-category-bg-thumb" data-background="assets/images/bg/varun-group-benefits.webp"></div>
+            <div class="rs-category-bg-thumb" data-background="assets/images/about/varungroup_aboutus_banner.webp"></div>
             <div class="container">
                 <div class="row g-5">
                     <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-8 col-sm-10">
