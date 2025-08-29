@@ -1,5 +1,18 @@
+# public_html/.htaccess
+Options -Indexes -Multiviews
 RewriteEngine On
-RewriteBase /varungroup/
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ index.php/$1 [L]
+RewriteBase /
+
+# Serve real files/folders as-is
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Don't rewrite index.php to itself (avoid loops)
+RewriteCond %{REQUEST_URI} !^/index\.php$
+
+# Send everything else to index.php (CodeIgniter front controller)
+RewriteRule ^(.*)$ index.php?/$1 [L,QSA]
+
+# Optional: default document
+DirectoryIndex index.php index.html

@@ -994,22 +994,24 @@
                 <div class="rs-about-wrapper">
                     <div class="rs-about-content-wrapper">
                         <div class="rs-section-title-wrapper">
-                            <h3 class="rs-section-title rs-split-text-enable split-in-fade automobile-title">Varun bajaj</h3>
+                            <h3 class="rs-section-title rs-split-text-enable split-in-fade automobile-title">Varun Bajaj</h3>
                         </div>
                         <div class="rs-about-tab">
                             <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                 <li class="nav-item" role="presentation">
-                                    <button class="nav-link active" id="bajaj-item-five-tab" data-bs-toggle="pill" data-bs-target="#bajaj-item-five" type="button" role="tab" aria-controls="bajaj-item-five" aria-selected="false">
+                                    <button class="nav-link active" id="bajaj-item-five-tab" data-bs-toggle="pill" data-bs-target="#bajaj-item-five" type="button" role="tab" aria-controls="bajaj-item-five" aria-selected="true">
                                         Motorcycle
                                     </button>
                                 </li>
                                 <li class="nav-item" role="presentation">
-                                    <button class="nav-link " id="bajaj-item-one-tab" data-bs-toggle="pill" data-bs-target="#bajaj-item-one" type="button" role="tab" aria-controls="bajaj-item-one" aria-selected="true">
+                                    <button class="nav-link " id="bajaj-item-one-tab" data-bs-toggle="pill" data-bs-target="#bajaj-item-one" type="button" role="tab" aria-controls="bajaj-item-one" aria-selected="false">
                                         KTM
                                     </button>
                                 </li>
                                 <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="bajaj-item-two-tab" data-bs-toggle="pill" data-bs-target="#bajaj-item-two" type="button" role="tab" aria-controls="bajaj-item-two" aria-selected="false">Chetak</button>
+                                    <button class="nav-link" id="bajaj-item-two-tab" data-bs-toggle="pill" data-bs-target="#bajaj-item-two" type="button" role="tab" aria-controls="bajaj-item-two" aria-selected="false">
+                                        Chetak
+                                    </button>
                                 </li>
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link" id="bajaj-item-three-tab" data-bs-toggle="pill" data-bs-target="#bajaj-item-three" type="button" role="tab" aria-controls="bajaj-item-three" aria-selected="false">
@@ -1027,7 +1029,7 @@
 
                         <div class="rs-aobut-tab-content-wrapper">
                             <div class="tab-content rs-about-tab-anim" id="pills-tabContent">
-                                <div class="tab-pane fade show active" id="bajaj-item-one" role="tabpanel" aria-labelledby="bajaj-item-one-tab" tabindex="0">
+                                <div class="tab-pane fade" id="bajaj-item-one" role="tabpanel" aria-labelledby="bajaj-item-one-tab" tabindex="0">
                                     <section class="rs-portfolio-area rs-portfolio-four rs-portfolio-tooltip rs-swiper">
                                         <div class="container">
                                             <div class="row g-5 section-title-space align-items-end">
@@ -1224,7 +1226,6 @@
                                         </div>
                                     </section>
                                 </div>
-
                                 <div class="tab-pane fade" id="bajaj-item-two" role="tabpanel" aria-labelledby="bajaj-item-two-tab" tabindex="0">
                                     <section class="rs-portfolio-area rs-portfolio-four rs-portfolio-tooltip rs-swiper">
                                         <div class="container">
@@ -1413,7 +1414,6 @@
                                         </div>
                                     </section>
                                 </div>
-
                                 <div class="tab-pane fade" id="bajaj-item-three" role="tabpanel" aria-labelledby="bajaj-item-three-tab" tabindex="0">
                                     <section class="rs-portfolio-area rs-portfolio-four rs-portfolio-tooltip rs-swiper">
                                         <div class="container">
@@ -1457,7 +1457,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-16.png" alt="image" />
+                                                                        <img src="assets/images/automobile/triumph-all-new-daytona-660.webp" alt="image" />
+                                                                        <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Daytona 660</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -1487,7 +1492,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-17.png" alt="image" />
+                                                                        <img src="assets/images/automobile/triumph-bonneville-bobber.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Bonneville Bobber</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -1517,7 +1527,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-18.png" alt="image" />
+                                                                        <img src="assets/images/automobile/triumph-bonneville-speedmaster.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Bonneville Speedmaster</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -1547,7 +1562,12 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-19.png" alt="image" />
+                                                                        <img src="assets/images/automobile/triumph-bonneville-t100.webp" alt="image" />
+                                                                        <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Bonneville T100</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -1577,7 +1597,887 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
-                                                                        <img src="assets/images/portfolio/portfolio-thumb-20.png" alt="image" />
+                                                                        <img src="assets/images/automobile/triumph-bonneville-t120-black.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Bonneville T120</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                             <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-bonneville-t120-black.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Bonneville T120 Black</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                             <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-bonneville-t120.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Bonneville T120</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                             <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-new-speed-t4.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Speed T4</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                             <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-new-speed-triple-1200-rs.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Speed Triple 1200 RS</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                             <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-new-trident-660.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Trident 660</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                             <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-rocket-3-storm-gt.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Rocket 3 Storm GT</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                             <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-rocket-3-storm-r.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Rocket 3 Storm R</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                             <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-scrambler-400-x.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Scrambler 400 X</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                             <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-scrambler-400-xc.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Scrambler 400 XC</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-scrambler-400-xc.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Scrambler 400 XC</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-scrambler-900.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Scrambler 900</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-scrambler-1200-x.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Scrambler 1200 X</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-speed-400-2025.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Speed 400</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-speed-triple-1200-rs.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Speed Triple 1200 RS</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-speed-twin-900.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Speed Twin 900</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-speed-twin-1200-rs.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Speed Twin 1200 RS</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-street-triple-765-r.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Street Triple 765 R</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-street-triple-765-rs.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Street Triple 765 RS</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-thruxton-400.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Thruxton 400</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-tiger-900-gt.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Tiger 900 GT</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-tiger-900-rally-pro.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Tiger 900 Rally Pro</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-tiger-1200-gt-pro.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Tiger 1200 GT Pro</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-tiger-1200-rally-pro.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Tiger 1200 Rally Pro</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-tiger-Sport-660.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Tiger Sport 660</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                              <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
+                                                                        <img src="assets/images/automobile/triumph-triumph-speed-twin-1200.webp" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Speed Twin 1200</a>
+                                                                            </h5>
+                                                                          </div>
                                                                         <div class="rs-portfolio-btn-wrapper">
                                                                             <div class="rs-portfolio-icon-btn">
                                                                                 <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -1808,7 +2708,7 @@
                                         </div>
                                     </section>
                                 </div>
-                                <div class="tab-pane fade" id="bajaj-item-five" role="tabpanel" aria-labelledby="bajaj-item-five-tab" tabindex="0">
+                                <div class="tab-pane fade show active" id="bajaj-item-five" role="tabpanel" aria-labelledby="bajaj-item-five-tab" tabindex="0">
                                     <section class="rs-portfolio-area rs-portfolio-four rs-portfolio-tooltip rs-swiper">
                                         <div class="container">
                                             <div class="row g-5 section-title-space align-items-end">
@@ -6137,7 +7037,7 @@
                                             <div class="swiper-slide">
                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                     <div class="rs-portfolio-thumb">
-                                                            <img src="assets/images/automobile/bmw-the-bmw-z4-m40i.webp" alt="image" />
+                                                            <img src="assets/images/automobile/bmw-the-new-bmw-z4m4oi.webp" alt="image" />
                                                             <div class="rs-portfolio-label">
                                                                 <h5 class="rs-portfolio-title text-white underline has-white">
                                                                     <a href="portfolio-details.html">Z4 M40I</a>
