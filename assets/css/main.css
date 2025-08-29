@@ -19154,7 +19154,7 @@ body.rtl .rs-theme-dir-slide {
 .rs-portfolio-eight .rs-portfolio-thumb::before {
   position: absolute;
   content: "";
-  visibility: visible;  /* make it always visible */
+  visibility: visible;  
   opacity: 1;           /* always fully visible */
   width: 100%;
   height: 100%;         /* full height instead of 0 */
