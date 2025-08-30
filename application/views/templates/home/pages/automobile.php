@@ -4438,6 +4438,41 @@
                                                             <div class="swiper-slide">
                                                                 <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                     <div class="rs-portfolio-thumb">
+                                                                                 <img src="assets/images/automobile/hyundai-creta-n-line.webp" alt="image" alt="image" />
+                                                                         <div class="rs-portfolio-label">
+                                                                            <h5 class="rs-portfolio-title text-white underline has-white">
+                                                                              <a href="portfolio-details.html">Hyundai Creta n Line</a>
+                                                                            </h5>
+                                                                          </div>
+                                                                        <div class="rs-portfolio-btn-wrapper">
+                                                                            <div class="rs-portfolio-icon-btn">
+                                                                                <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                    <span class="icon-box">
+                                                                                        <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                        <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19" height="12" viewBox="0 0 19 12" fill="none">
+                                                                                            <path
+                                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                                fill="white"
+                                                                                            ></path>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="rs-portfolio-text-btn">
+                                                                                <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide">
+                                                                <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                    <div class="rs-portfolio-thumb">
                                                                                  <img src="assets/images/automobile/hyundai-creta.webp" alt="image" alt="image" />
                                                                          <div class="rs-portfolio-label">
                                                                             <h5 class="rs-portfolio-title text-white underline has-white">
