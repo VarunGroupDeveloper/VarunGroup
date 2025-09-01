@@ -77,7 +77,7 @@
             </div>
         </section>
 
-              <section class="rs-blog-area section-space rs-blog-two">
+        <section class="rs-blog-area section-space rs-blog-two">
             <div class="container">
                 <div class="row g-5">
                     <div class="col-xl-4 col-lg-4 col-md-6">
@@ -147,10 +147,10 @@
                     </div>
                 </div>
                 <div class="row g-5">
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="col-5ths">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
-                                <a href="team-details.html"><img src="assets/images/about/harsha.webp" alt="image"></a>
+                                <a href="team-details.html"><img src="assets/images/about/team-harsha.webp" alt="image"></a>
                             </div>
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
@@ -160,7 +160,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+
+                    <div class="col-5ths">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-bangraju.webp" alt="image"></a>
@@ -173,12 +174,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+
+                    <div class="col-5ths">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-rcraju.webp" alt="image"></a>
                             </div>
-                            <div class="rs-team-content-wrapper" >
+                            <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
                                     <h6 class="rs-team-title"><a href="team-details.html">Mr. R.C. Raju</a></h6>
                                     <span class="rs-team-designation">Executive Director - Varun Maruti</span>
@@ -186,7 +188,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+
+                    <div class="col-5ths">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-dkraju.webp" alt="image"></a>
@@ -199,7 +202,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+
+                    <div class="col-5ths">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-gvpr.webp" alt="image"></a>
@@ -212,20 +216,22 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+
+                    <div class="col-5ths">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-satyanarayana.webp" alt="image"></a>
                             </div>
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
-                                    <h6 class="rs-team-title" ><a href="team-details.html">Mr.P.V.Satyanarayana</a></h6>
+                                    <h6 class="rs-team-title"><a href="team-details.html">Mr.P.V.Satyanarayana</a></h6>
                                     <span class="rs-team-designation">Executive Director - Varun Bajaj</span>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+
+                    <div class="col-5ths">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-subbarao.webp" alt="image"></a>
@@ -238,7 +244,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+
+                    <div class="col-5ths">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-VINOD.webp" alt="image"></a>
@@ -246,6 +253,34 @@
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
                                     <h6 class="rs-team-title"><a href="team-details.html">Mr.T.Vinod Kumar</a></h6>
+                                    <span class="rs-team-designation">Executive Director - Varun JCB</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-5ths">
+                        <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+                            <div class="rs-team-thumb">
+                                <a href="team-details.html"><img src="assets/images/about/team-b-chandrasekhar.webp" alt="image"></a>
+                            </div>
+                            <div class="rs-team-content-wrapper">
+                                <div class="rs-team-content-box">
+                                    <h6 class="rs-team-title"><a href="team-details.html">Mr.B.Chandra Sekhar</a></h6>
+                                    <span class="rs-team-designation">Executive Director - Varun JCB</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-5ths">
+                        <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
+                            <div class="rs-team-thumb">
+                                <a href="team-details.html"><img src="assets/images/about/team-k-kapil.webp" alt="image"></a>
+                            </div>
+                            <div class="rs-team-content-wrapper">
+                                <div class="rs-team-content-box">
+                                    <h6 class="rs-team-title"><a href="team-details.html">Mr.K.Kapil</a></h6>
                                     <span class="rs-team-designation">Executive Director - Varun JCB</span>
                                 </div>
                             </div>

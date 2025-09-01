@@ -18641,7 +18641,7 @@ body.rtl .rs-theme-dir-slide {
   }
 }
 .rs-portfolio-four .rs-portfolio-title {
-  font-size: 30px;
+  font-size: 24px;
   margin-bottom: 10px;
 }
 @media only screen and (max-width: 1199px) {
@@ -25919,7 +25919,7 @@ a.ui-button:active {
 .accordion ul li div a h2 {
   font-family: var(--rs-ff-body);
   text-overflow: clip;
-  font-size: 24px;
+  font-size: 19px;
   text-transform: uppercase;
   margin-bottom: 2px;
   top: 240px;
@@ -25971,6 +25971,38 @@ background-position: 50% 50%;
 .accordion ul li:nth-child(6) { 
   background-image: url("http://res.cloudinary.com/simpleview/image/upload/v1525446371/clients/scottsdale/Talking_Stick_Sunset1_Cordwell_f5ba762b-f42a-4bf7-bf7d-bad5a841bf07.jpg"); 
   background-position: 70% 25%;
+}
+/* Base shared styles */
+.accordion ul li.hotel-card {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Per item overrides — more specific than :nth-child */
+.accordion ul li.hotel-card.novotel-vizag {
+  background-image: url("../images/hospitality/novotel-vizag.webp");
+  background-position: 70% 0%;
+}
+
+.accordion ul li.hotel-card.novotel-vijayawada {
+  background-image: url("../images/hospitality/novotel-vijayawada.webp");
+  background-position: 70% 0%;
+}
+
+.accordion ul li.hotel-card.novotel-bheemili {
+  background-image: url("../images/hospitality/novotel-bheemili.webp");
+  background-position: 50% 50%;
+}
+
+.accordion ul li.hotel-card.ibis-hotel {
+  background-image: url("../images/hospitality/ibis-hotel.webp");
+  background-position: 30% 40%;
+}
+
+.accordion ul li.hotel-card.varun-baysands {
+  background-image: url("../images/hospitality/varun-baysands.webp");
+  background-position: 60% 64%;
 }
 
 .accordion ul li { background-size: cover; }
@@ -26088,5 +26120,30 @@ background-position: 50% 50%;
       text-align: center;
       font-style: italic;
     }
+  }
+}
+.col-5ths {
+  flex: 0 0 20%;
+  max-width: 20%;
+}
+
+@media (max-width: 1200px) {
+  .col-5ths {
+    flex: 0 0 33.3333%; /* 3 per row on large screens */
+    max-width: 33.3333%;
+  }
+}
+
+@media (max-width: 768px) {
+  .col-5ths {
+    flex: 0 0 50%; /* 2 per row on tablets */
+    max-width: 50%;
+  }
+}
+
+@media (max-width: 576px) {
+  .col-5ths {
+    flex: 0 0 100%; /* 1 per row on mobile */
+    max-width: 100%;
   }
 }

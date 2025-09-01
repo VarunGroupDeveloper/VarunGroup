@@ -25,43 +25,24 @@
         <section class="section-space">
             <div class="container">
                 <div class="accordion">
-                    <ul>
-                      <li>
-                        <div>
-                          <a href="#gallerySection" class="sliderLink">
-                            <h2 >Novotel Visakhapatnam</h2>
-                          </a>
-                        </div>
+                    <ul class="accordion">
+                      <li class="hotel-card novotel-vizag">
+                        <div><a href="#gallerySection" class="sliderLink"><h2>Novotel Visakhapatnam</h2></a></div>
                       </li>
-                      <li>
-                        <div>
-                          <a href="<?php echo base_url('autofinance'); ?>" class="sliderLink">
-                            <h2>Novotel Vijayawada</h2>
-                          </a>
-                        </div>
+                      <li class="hotel-card novotel-vijayawada">
+                        <div><a href="<?= base_url('autofinance'); ?>" class="sliderLink"><h2>Novotel Vijayawada</h2></a></div>
                       </li>
-                      <li>
-                        <div>
-                          <a href="<?php echo base_url('infrastructure'); ?>" class="sliderLink">
-                            <h2>Novotel Bheemili</h2>
-                          </a>
-                        </div>
+                      <li class="hotel-card novotel-bheemili">
+                        <div><a href="<?= base_url('infrastructure'); ?>" class="sliderLink"><h2>Novotel Bheemili</h2></a></div>
                       </li>
-                      <li>
-                        <div>
-                          <a href="<?php echo base_url('hospitality'); ?>" class="sliderLink">
-                            <h2>Ibis Hotel (Coming Soon)</h2>
-                          </a>
-                        </div>
+                      <li class="hotel-card ibis-hotel">
+                        <div><a href="<?= base_url('hospitality'); ?>" class="sliderLink"><h2>Ibis Hotel (Coming Soon)</h2></a></div>
                       </li>
-                      <li>
-                        <div>
-                          <a href="#" class="sliderLink">
-                            <h2>Varun Bay Sands (Coming Soon)</h2>
-                          </a>
-                        </div>
+                      <li class="hotel-card varun-baysands">
+                        <div><a href="#" class="sliderLink"><h2>Varun Bay Sands (Coming Soon)</h2></a></div>
                       </li>
                     </ul>
+
                 </div>
             </div>
         </section>
