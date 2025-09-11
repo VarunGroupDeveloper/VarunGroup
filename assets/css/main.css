@@ -4748,7 +4748,7 @@ code {
   transform: scale(1.2);
 }
 .rs-brand-one .rs-brand-thumb img {
-  width: 115px;
+  width: 160px;
   transition: all 0.5s ease;
 }
 .rs-brand-one.has-theme-blue .rs-section-subtitle {
@@ -7397,10 +7397,22 @@ body.rtl .rs-theme-dir-slide {
 .rs-banner-five .rs-banner-subtitle {
   font-size: 16px;
   font-weight: 500;
-  color: var(--rs-theme-orange);
+  color: #fff;
   margin-bottom: 20px;
   display: inline-block;
   text-transform: uppercase;
+
+}
+/* underline */
+.rs-banner-five .rs-banner-subtitle::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;             /* make it 100% of text width; change to e.g. 64px for a short accent line */
+  height: 2px;             /* thickness of the underline */
+  background: #0060af;        /* underline color */
+  border-radius: 2px;      /* soft ends */
 }
 .rs-banner-five .rs-banner-title {
   color: var(--rs-white);
@@ -10763,7 +10775,7 @@ body.rtl .rs-theme-dir-slide {
 .rs-footer-widget-links ul {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
+  gap: 12px;
 }
 .rs-footer-widget-links ul li {
   list-style: none;
@@ -10776,7 +10788,7 @@ body.rtl .rs-theme-dir-slide {
   position: relative;
 }
 .footer-2-col-2 .rs-footer-widget-links ul {
-    margin-top: -18px;
+    margin-top: -2px;
     padding-bottom: 39px;
 }
 
@@ -13420,7 +13432,7 @@ body.rtl .rs-theme-dir-slide {
   }
 }
 .rs-about-thirteen .rs-about-thumb.has-small img {
-  width: 100%;
+  width: 80%;
 }
 .rs-about-thirteen .rs-about-content-wrapper .descrip {
   margin: 20px 0 40px;
@@ -19162,7 +19174,7 @@ body.rtl .rs-theme-dir-slide {
   left: 0;
   right: 0;
   background-color: transparent;
-  background-image: linear-gradient(164deg, #0060af 0%, rgba(2, 59, 74, 0) 70%);
+  background-image: linear-gradient(164deg, #313838 0%, rgba(2, 59, 74, 0) 70%);
   z-index: 2;
   transition: none;     /* no transition needed */
   
@@ -26004,6 +26016,28 @@ background-position: 50% 50%;
   background-image: url("../images/hospitality/varun-baysands.webp");
   background-position: 60% 64%;
 }
+/* Base shared styles */
+.accordion ul li.agriculture-card {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Per item overrides — more specific than :nth-child */
+.accordion ul li.agriculture-card.agriculture-strawberries {
+  background-image: url("../images/agriculture/varun-group-agriculture-strawberries.webp");
+  background-position: 70% 0%;
+}
+
+.accordion ul li.agriculture-card.agriculture-blueberries {
+  background-image: url("../images/agriculture/varun-group-agriculture-blueberries.webp");
+  background-position: 70% 0%;
+}
+
+.accordion ul li.agriculture-card.agriculture-raspberries {
+  background-image: url("../images/agriculture/varun-group-agriculture-raspberries.webp");
+  background-position: 50% 50%;
+}
 
 .accordion ul li { background-size: cover; }
 .accordion ul:hover li { width: 10%; }
@@ -26147,3 +26181,15 @@ background-position: 50% 50%;
     max-width: 100%;
   }
 }
+@media (max-width: 768px) {
+.rs-about-thirteen .rs-about-thumb.has-small img {
+    width: 100%;
+}
+}
+
+  .rs-shop-filter-wrapper .row{
+    display:flex; gap:12px; align-items:center; flex-wrap:wrap;
+  }
+  .rs-shop-filter-wrapper .rs-shorting-select{ flex:1 1 280px; }
+  .rs-shop-filter-wrapper .rs-shorting-select select{ width:100%; }
+

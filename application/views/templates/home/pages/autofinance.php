@@ -80,7 +80,7 @@
                 <div class="row g-5 process-counts">
                     <div class="col-xl-6 col-lg-6">
                         <div class="rs-portfolio-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                            <div class="rs-portfolio-thumb" data-background="assets/images/portfolio/portfolio-thumb-26.png">
+                            <div class="rs-portfolio-thumb" data-background="assets/images/autofinance/varun-group-varun-finance.webp">
                             </div>
                             <div class="rs-portfolio-content">
                                 <div class="rs-portfolio-number"></div>

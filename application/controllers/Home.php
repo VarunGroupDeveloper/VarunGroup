@@ -3,6 +3,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Home extends CI_Controller
 {
+    public function __construct()
+    {
+        parent::__construct();
+        $this->load->model('AdminModel');
+    }
 
     public function index() {
         $data['title'] = 'Home || Varun Group';
@@ -10,15 +15,25 @@ class Home extends CI_Controller
         $this->load->view('templates/home/main', $data);
     }
     public function history() {
+        $this->load->model('AdminModel');
         $data['title'] = 'History || Varun Group';
         $data['page'] = 'templates/home/pages/history';
+        $data['banners'] = $this->AdminModel->get_active_banners_by_page('history');
         $this->load->view('templates/home/main', $data);
     }
-    public function leadership() {
-    $data['title'] = 'Team || Varun Group';
-    $data['page'] = 'templates/home/pages/leadership';
-    $this->load->view('templates/home/main', $data);
+    public function leadership()
+    {
+        $this->load->model('AdminModel');
+        $data['title'] = 'Leadership || Varun Group';
+
+        $all = $this->AdminModel->get_active_banners_by_page('leadership'); // array
+        $data['banners'] = !empty($all) ? $all[0] : null;                     // <-- first one
+
+        $data['page']  = 'templates/home/pages/leadership';
+        $this->load->view('templates/home/main', $data);
     }
+
+
     public function business() {
     $data['title'] = 'Business || Varun Group';
     $data['page'] = 'templates/home/pages/business';

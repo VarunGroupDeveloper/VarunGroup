@@ -25,7 +25,7 @@
         <!-- breadcrumb area end -->
 
         <section class="section-space">
-            <div class="container">
+            <div class="container-fluid">
               <div class="accordion">
                 <ul>
                   <li>

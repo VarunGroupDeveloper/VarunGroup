@@ -1,6 +1,6 @@
         <!-- breadcrumb area start -->
         <section class="rs-breadcrumb-area rs-breadcrumb-one p-relative">
-            <div class="rs-breadcrumb-bg" data-background="assets/images/bg/breadcrumb-bg-01.png"></div>
+            <div class="rs-breadcrumb-bg" data-background="assets/images/agriculture/varun-group-agriculture-cover-page.webp"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-xxl-6 col-xl-8 col-lg-8">
@@ -26,25 +26,25 @@
             <div class="container">
               <div class="accordion">
                 <ul>
-                  <li>
+                  <li class="agriculture-card agriculture-strawberries">
                     <div>
                      
-                      <a href="<?php echo base_url('automobile_dealership'); ?>" class="sliderLink">
+                      <a href="#" class="sliderLink">
                         <h2>StrawBerries</h2>
                       </a>
                     </div>
                   </li>
-                  <li>
+                  <li class="agriculture-card agriculture-blueberries">
                     <div>
-                      <a href="<?php echo base_url('autofinance'); ?>" class="sliderLink">
+                      <a href="#" class="sliderLink">
                         <h2>BlueBerries</h2>
                         
                       </a>
                     </div>
                   </li>
-                  <li>
+                  <li class="agriculture-card agriculture-raspberries">
                     <div>
-                      <a href="<?php echo base_url('infrastructure'); ?>" class="sliderLink">
+                      <a href="#" class="sliderLink">
                         <h2>RaspBerries</h2>
                       </a>
                     </div>
@@ -135,10 +135,10 @@
                     <div class="col-xl-6 col-lg-5">
                         <div class="rs-about-thumb-wrapper">
                             <div class="rs-about-thumb has-large rs-image scroll_reveal reveal_left reveal-active">
-                                <img decoding="async" src="assets/images/about/about-thumb-20.png" alt="image">
+                                <img decoding="async" src="assets/images/agriculture/about-thumb-1.webp" alt="image">
                             </div>
                             <div class="rs-about-thumb has-small rs-image scroll_reveal reveal_right reveal-active">
-                                <img decoding="async" src="assets/images/about/about-thumb-21.png" alt="image">
+                                <img decoding="async" src="assets/images/agriculture/about-thumb-2.webp" alt="image">
                             </div>
                         </div>
                     </div>

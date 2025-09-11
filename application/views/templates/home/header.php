@@ -6,7 +6,7 @@
                     <div class="rs-header-left">
                         <div class="rs-header-logo-wrapper">
                             <div class="rs-header-logo">
-                                <a href="index.html"><img src="assets/images/logo/logo.png" alt="logo"></a>
+                                <a href="./"><img src="assets/images/logo/logo.png" alt="logo"></a>
                             </div>
                         </div>
                     </div>

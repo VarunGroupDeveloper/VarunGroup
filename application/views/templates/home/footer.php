@@ -219,46 +219,23 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                                <div class="rs-footer-widget footer-2-col-3">
-                                    <h5 class="rs-footer-widget-title">Office Address</h5>
+                           <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                                <div class="rs-footer-widget footer-2-col-2">
+                                    <h5 class="rs-footer-widget-title">Business</h5>
                                     <div class="rs-footer-widget-content">
-                                        <div class="rs-footer-widget-meta">
-                                            <div class="rs-footer-widget-address">
-                                                <a target="_blank" href="https://www.google.com/maps">42 Mamnoun Street, Saba Carpet
-                                                    and Antiques Store, UK</a>
-                                            </div>
-                                            <h5 class="rs-footer-widget-title">Email Address</h5>
-                                            <p> Interested in working with us?</p>
-                                            <div class="rs-footer-widget-email">
-                                                <a href="mailto:industrie@gmail.com">marketing@varungroup.com</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                                <div class="rs-footer-widget footer-2-col-4">
-                                    <h5 class="rs-footer-widget-title">Phone Number</h5>
-                                    <div class="rs-footer-widget-content">
-                                        <div class="rs-footer-widget-contact-info">
-                                            <div class="rs-footer-widget-number">
-                                                <span>
-                                       <a href="tel:971551579261">+971 551 579 261</a>
-                                    </span>
-                                                <span>
-                                       <a href="tel:971551579261">+97 155 596 1659</a>
-                                    </span>
-                                            </div>
-                                        </div>
-                                        <h5 class="rs-footer-widget-title">Follow Us</h5>
-                                        <div class="rs-footer-widget-social">
-                                            <div class="rs-theme-social has-theme-blue">
-                                                <a href="#"><i class="ri-youtube-fill"></i></a>
-                                                <a href="#"><i class="ri-facebook-fill"></i></a>
-                                                <a href="#"><i class="ri-linkedin-fill"></i></a>
-                                                <a href="#"><i class="ri-instagram-line"></i></a>
-                                            </div>
+                                        <div class="rs-footer-widget-links has-theme-blue">
+                                            <ul>
+                                                <li> <a href="#">Maruti Suzuki</a> </li>
+                                                <li><a href="#">Varun Bajaj</a></li>
+                                                <li><a href="#">Padmaja Suzuki</a></li>
+                                                <li><a href="#">Mahindra</a></li>
+                                                <li><a href="#">Hyundai</a></li>
+                                                <li><a href="#">Green Honda</a></li>
+                                                <li><a href="#">Varun JCB</a></li>
+                                                <li><a href="#">Bharat Benz</a></li>
+                                                <li><a href="#">BMW</a></li>
+                                                <li><a href="#">Olive TVS</a></li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>

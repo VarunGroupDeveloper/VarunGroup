@@ -765,16 +765,19 @@
                     <div class="col-xl-7 col-lg-8 col-md-10">
                         <div class="rs-video-content">
                             <div class="rs-video-play-btn">
-                                <div class="rs-rotate-btn">
-                                    <a href="assets/images/home/Varun-Health-Center.mp4" class="rs-play-btn popup-video"><i
-                                 class="ri-play-fill"></i></a>
-                                    <div class="rs-circle-title gsap-rotate rs-text-circle-wrapper">
-                                        <div class="rs-text-circle" data-rotate-degree="13.33">
-                                            Watch Video - Watch Video -
-                                        </div>
-                                    </div>
+                              <div class="rs-rotate-btn">
+                                <a href="https://www.youtube.com/watch?v=zf6G202MNzw"
+                                   class="rs-play-btn popup-video">
+                                  <i class="ri-play-fill"></i>
+                                </a>
+                                <div class="rs-circle-title gsap-rotate rs-text-circle-wrapper">
+                                  <div class="rs-text-circle" data-rotate-degree="13.33">
+                                    Watch Video - Watch Video -
+                                  </div>
                                 </div>
+                              </div>
                             </div>
+
                         </div>
                     </div>
                 </div>
@@ -1183,84 +1186,133 @@
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/marutisuzuki.png" alt="image">
+                                            <img src="assets/images/logo/maruti-suzuki-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/jcb.png" alt="image">
+                                            <img src="assets/images/logo/jcb-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/ktm.png" alt="image">
+                                            <img src="assets/images/logo/ktm-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/mahindra.png" alt="image">
+                                            <img src="assets/images/logo/mahindhra-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/mg.png" alt="image">
+                                            <img src="assets/images/logo/mg-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/bmw.png" alt="image">
+                                            <img src="assets/images/logo/bmw-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/bajaj.png" alt="image">
+                                            <img src="assets/images/logo/bajaj-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/chetak.png" alt="image">
+                                            <img src="assets/images/logo/chetak-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/honda.png" alt="image">
+                                            <img src="assets/images/logo/honda-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/suzuki.png" alt="image">
+                                            <img src="assets/images/logo/suzuki-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/triumph.png" alt="image">
+                                            <img src="assets/images/logo/triumph-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/tvs.png" alt="image">
+                                            <img src="assets/images/logo/tvs-logo.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/ayurbay-logo.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/bhartbenz-logo.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/calmspa-logo.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/hasqvarna-logo.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/hyundai-logo.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/lakshmi-finance-logo.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/novotel-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
@@ -1275,84 +1327,119 @@
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/marutisuzuki.png" alt="image">
+                                            <img src="assets/images/logo/varun-motors-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/jcb.png" alt="image">
+                                            <img src="assets/images/logo/varun-trucking-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/ktm.png" alt="image">
+                                            <img src="assets/images/logo/vhc-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/mahindra.png" alt="image">
+                                            <img src="assets/images/logo/v-promise-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/mg.png" alt="image">
+                                            <img src="assets/images/logo/neon-hyundai-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/bmw.png" alt="image">
+                                            <img src="assets/images/logo/neon-mahindhra-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/bajaj.png" alt="image">
+                                            <img src="assets/images/logo/olive-auto-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/chetak.png" alt="image">
+                                            <img src="assets/images/logo/padmaja-suzuki-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/honda.png" alt="image">
+                                            <img src="assets/images/logo/tap-the-sports-bar-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/suzuki.png" alt="image">
+                                            <img src="assets/images/logo/varsha-builders-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/triumph.png" alt="image">
+                                            <img src="assets/images/logo/varsha-marina-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
                                         <div class="rs-brand-thumb">
-                                            <img src="assets/images/logo/tvs.png" alt="image">
+                                            <img src="assets/images/logo/varun-eats-logo.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/olive-auto-logo.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/varun-fitness-logo.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/varun-hospitality-logo.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/varun-leasing-logo.png" alt="image">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="rs-brand-item">
+                                        <div class="rs-brand-thumb">
+                                            <img src="assets/images/logo/varun-training-logo.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
@@ -1660,7 +1747,7 @@
                 <div class="row g-5">
                     <div class="col-xl-6 col-lg-6">
                         <div class="rs-blog-item has-thumb-height wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="1s">
-                            <div class="has-bg rs-blog-bg-thumb" data-background="assets/images/home/blog.webp">
+                            <div class="has-bg rs-blog-bg-thumb" data-background="assets/images/home/varun-group-thumbanil.webp">
                             </div>
                             <div class="rs-blog-content has-position">
                                 <div class="rs-blog-meta">
@@ -1738,18 +1825,3 @@
             </div>
         </section>
         <!-- blog area end -->
-         
-         <style>
-          .rs-testimonial-bg-thumb {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 50%;
-  height: 100%;
-  background-size: cover;
-  background-position: center;
-  transition: background-image 0.5s ease-in-out;
-  z-index: 0;
-}
-
-         </style>

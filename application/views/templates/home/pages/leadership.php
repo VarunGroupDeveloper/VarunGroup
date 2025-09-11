@@ -1,29 +1,35 @@
 
 
-        <!-- breadcrumb area start -->
-        <section class="rs-breadcrumb-area rs-breadcrumb-one p-relative">
-            <div class="rs-breadcrumb-bg" data-background="assets/images/about/team-banner.webp"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xxl-6 col-xl-8 col-lg-8">
-                        <div class="rs-breadcrumb-content-wrapper">
-                            <div class="rs-breadcrumb-title-wrapper">
-                                <h1 class="rs-breadcrumb-title">Team</h1>
-                            </div>
-                            <div class="rs-breadcrumb-menu">
-                                <nav>
-                                    <ul>
-                                        <li><span><a href="./">Home</a></span></li>
-                                        <li><span>Team</span></li>
-                                    </ul>
-                                </nav>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+    <!-- breadcrumb area start -->
+    <section class="rs-breadcrumb-area rs-breadcrumb-one p-relative">
+      <?php
+        $img = isset($banners['image']) ? htmlspecialchars($banners['image'], ENT_QUOTES, 'UTF-8') : '';
+        $bg  = $img ? base_url('uploads/banners/'.$img) : base_url('assets/images/about/team-banner.webp');
+      ?>
+      <div class="rs-breadcrumb-bg" data-background="<?= $bg; ?>" style="background-image:url('<?= $bg; ?>')"></div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-xxl-6 col-xl-8 col-lg-8">
+            <div class="rs-breadcrumb-content-wrapper">
+              <div class="rs-breadcrumb-title-wrapper">
+                <h1 class="rs-breadcrumb-title">Team</h1>
+              </div>
+              <div class="rs-breadcrumb-menu">
+                <nav>
+                  <ul>
+                    <li><span><a href="<?= base_url(); ?>">Home</a></span></li>
+                    <li><span>Team</span></li>
+                  </ul>
+                </nav>
+              </div>
             </div>
-        </section>
-        <!-- breadcrumb area end -->
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- breadcrumb area end -->
+
 
                 <!-- team details area start -->
         <section class="rs-team-details-area section-space-top rs-team-details">

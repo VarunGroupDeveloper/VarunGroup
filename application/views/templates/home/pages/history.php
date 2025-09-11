@@ -1,58 +1,73 @@
+<?php
+// Helper to get dynamic image for a given slide index, else fallback
+function slide_img($banners, $i, $fallback) {
+    if (!empty($banners) && isset($banners[$i]['image']) && $banners[$i]['image'] !== '') {
+        return base_url('uploads/banners/'.$banners[$i]['image']);
+    }
+    return base_url($fallback); // fallback in /assets
+}
+
+// Precompute images for each slide position (add more if you have more slides)
+$img1 = slide_img(isset($banners)?$banners:[], 0, 'assets/images/about/about-us-banner.webp');
+$img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-banner1.webp');
+?>
 
         <!-- banner area start -->
         <section class="rs-banner-area rs-banner-five p-relative rs-swiper">
             <div class="rs-banner-slider-wrapper">
                 <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="1000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="fade" data-delay="2000" data-item="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide">
+                      <!-- Slide 1 (text stays static) -->
+                          <div class="swiper-slide">
                             <div class="rs-banner-item-wrapper">
-                                <div class="rs-banner-bg-thumb" data-background="assets/images/about/about-us-banner.webp">
-                                </div>
-                                <div class="container">
-                                    <div class="row g-5">
-                                        <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-9">
-                                            <div class="rs-banner-item">
-                                                <div class="rs-banner-content">
-                                                    <span class="rs-banner-subtitle">
-                                                      Love to build your dream
-                                                   </span>
-                                                    <h1 class="rs-banner-title">Building Relationships
-                                                    </h1>
-                                                    <div class="rs-banner-descrip">
-                                                        <p>The story of Varun Group is one of passion, disciplined hard work, and an undying hunger for growth. Driven by a compassionate business approach, the group today stands as one of the fastest-growing regional conglomerates in the country. Varun Group is always focused on generating economic prosperity for all our stakeholders based on relationships that last for a lifetime.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
+                              <div class="rs-banner-bg-thumb"
+                                   data-background="<?= $img1; ?>"
+                                   style="background-image:url('<?= $img1; ?>')">
+                              </div>
+                              <div class="container">
+                                <div class="row g-5">
+                                  <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-9">
+                                    <div class="rs-banner-item">
+                                      <div class="rs-banner-content">
+                                        <span class="rs-banner-subtitle">Love to build your dream</span>
+                                        <h1 class="rs-banner-title">Building Relationships</h1>
+                                        <div class="rs-banner-descrip">
+                                          <p>The story of Varun Group is one of passion, disciplined hard work, and an undying hunger for growth. Driven by a compassionate business approach, the group today stands as one of the fastest-growing regional conglomerates in the country. Varun Group is always focused on generating economic prosperity for all our stakeholders based on relationships that last for a lifetime.</p>
                                         </div>
+                                      </div>
                                     </div>
+                                  </div>
                                 </div>
+                              </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide">
+                          </div>
+
+                          <!-- Slide 2 (text stays static) -->
+                          <div class="swiper-slide">
                             <div class="rs-banner-item-wrapper">
-                                <div class="rs-banner-bg-thumb" data-background="assets/images/about/about-us-banner1.webp">
-                                </div>
-                                <div class="container">
-                                    <div class="row g-5">
-                                        <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-9">
-                                            <div class="rs-banner-item">
-                                                <div class="rs-banner-content">
-                                                    <span class="rs-banner-subtitle">
-                                                      Love to build your dream
-                                                   </span>
-                                                    <h1 class="rs-banner-title">Building Relationships
-                                                    </h1>
-                                                    <div class="rs-banner-descrip">
-                                                        <p>The story of Varun Group is one of passion, disciplined hard work, and an undying hunger for growth. Driven by a compassionate business approach, the group today stands as one of the fastest-growing regional conglomerates in the country. Varun Group is always focused on generating economic prosperity for all our stakeholders based on relationships that last for a lifetime.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
+                              <div class="rs-banner-bg-thumb"
+                                   data-background="<?= $img2; ?>"
+                                   style="background-image:url('<?= $img2; ?>')">
+                              </div>
+                              <div class="container">
+                                <div class="row g-5">
+                                  <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-9">
+                                    <div class="rs-banner-item">
+                                      <div class="rs-banner-content">
+                                        <span class="rs-banner-subtitle">Love to build your dream</span>
+                                        <h1 class="rs-banner-title">Building Relationships</h1>
+                                        <div class="rs-banner-descrip">
+                                          <p>The story of Varun Group is one of passion, disciplined hard work, and an undying hunger for growth. Driven by a compassionate business approach, the group today stands as one of the fastest-growing regional conglomerates in the country. Varun Group is always focused on generating economic prosperity for all our stakeholders based on relationships that last for a lifetime.</p>
                                         </div>
+                                      </div>
                                     </div>
+                                  </div>
                                 </div>
+                              </div>
                             </div>
-                        </div>
+                          </div>
                     </div>
+
                 </div>
             </div>
         </section>
@@ -61,7 +76,7 @@
         <!-- about area start -->
         <section class="rs-about-area section-space rs-about-twelve">
             <div class="container">
-                <div class="row  g-5 justify-content-center section-title-space align-items-center">
+                <div class="row g-5 justify-content-center section-title-space align-items-center">
                     <div class="col-xxl-8 col-xl-9 col-lg-9">
                         <div class="rs-section-title-wrapper text-center">
                             <span class="rs-section-subtitle has-theme-orange">
@@ -403,10 +418,10 @@
                                      <div class="tab-pane fade" id="year-2012-1" role="tabpanel" aria-labelledby="year-2012-tab-1" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/about/varun-group-about-us-bmw.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-bhartbenz.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Varun Benz</h5>
+                                                <h5 class="rs-history-tab-title">Bharat Benz</h5>
                                                 <p>
                                                     Welcome to Industrie, a leading industry innovator with a rich history of
                                                     excellence. With a passion for precision and a commitment to quality, we have
@@ -455,7 +470,7 @@
                                      <div class="tab-pane fade" id="year-2016" role="tabpanel" aria-labelledby="year-2016-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/about/varun-group-about-us-suzuki-tvs.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-suzuki.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Suzuki & TVS 2Wheeler</h5>
@@ -678,11 +693,7 @@
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/home/team-varundev.webp" alt="image"></a>
-                                <div class="rs-theme-social rs-team-social has-transparent">
-                                    <a href="#"><i class="ri-twitter-x-line"></i></a>
-                                    <a href="#"><i class="ri-facebook-fill"></i></a>
-                                    <a href="#"><i class="ri-linkedin-fill"></i></a>
-                                </div>
+                                
                             </div>
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
@@ -696,11 +707,7 @@
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".9s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/home/team-varsha.webp" alt="image"></a>
-                                <div class="rs-theme-social rs-team-social has-transparent">
-                                    <a href="#"><i class="ri-twitter-x-line"></i></a>
-                                    <a href="#"><i class="ri-facebook-fill"></i></a>
-                                    <a href="#"><i class="ri-linkedin-fill"></i></a>
-                                </div>
+                             
                             </div>
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">

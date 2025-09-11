@@ -1,6 +1,6 @@
         <!-- breadcrumb area start -->
         <section class="rs-breadcrumb-area rs-breadcrumb-one p-relative">
-            <div class="rs-breadcrumb-bg" data-background="assets/images/bg/breadcrumb-bg-01.png"></div>
+            <div class="rs-breadcrumb-bg" data-background="assets/images/hospitality/varun-group-hopitality-cover-page.webp"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-xxl-6 col-xl-8 col-lg-8">
@@ -149,8 +149,8 @@
                                     <div class="rs-services-tab-content-wrapper p-relative">
                                         <div class="row g-5 align-items-center">
                                             <div class="col-xl-6 col-lg-6">
-                                                <div class="rs-services-tab-content-thumb has-clip">
-                                                    <img src="assets/images/services/services-thumb-01.png" alt="image">
+                                                <div class="rs-services-tab-content-thumb">
+                                                    <img src="assets/images/hospitality/varun-group-hospitality-the-square.webp" alt="image">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6">
@@ -193,8 +193,8 @@
                                     <div class="rs-services-tab-content-wrapper p-relative">
                                         <div class="row g-5 align-items-center">
                                             <div class="col-xl-6 col-lg-6">
-                                                <div class="rs-services-tab-content-thumb has-clip">
-                                                    <img src="assets/images/services/services-thumb-02.png" alt="image">
+                                                <div class="rs-services-tab-content-thumb">
+                                                    <img src="assets/images/hospitality/varun-group-hospitality-harbour-vue.webp" alt="image">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6">
@@ -236,8 +236,8 @@
                                     <div class="rs-services-tab-content-wrapper p-relative">
                                         <div class="row g-5 align-items-center">
                                             <div class="col-xl-6 col-lg-6">
-                                                <div class="rs-services-tab-content-thumb has-clip">
-                                                    <img src="assets/images/services/services-thumb-03.png" alt="image">
+                                                <div class="rs-services-tab-content-thumb ">
+                                                    <img src="assets/images/hospitality/varun-group-hospitality-zaffran.webp" alt="image">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6">
@@ -280,8 +280,8 @@
                                     <div class="rs-services-tab-content-wrapper p-relative">
                                         <div class="row g-5 align-items-center">
                                             <div class="col-xl-6 col-lg-6">
-                                                <div class="rs-services-tab-content-thumb has-clip">
-                                                    <img src="assets/images/services/services-thumb-04.png" alt="image">
+                                                <div class="rs-services-tab-content-thumb ">
+                                                    <img src="assets/images/hospitality/varun-group-hospitality-red-bowl.webp" alt="image">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6">
@@ -324,8 +324,8 @@
                                     <div class="rs-services-tab-content-wrapper p-relative">
                                         <div class="row g-5 align-items-center">
                                             <div class="col-xl-6 col-lg-6">
-                                                <div class="rs-services-tab-content-thumb has-clip">
-                                                    <img src="assets/images/services/services-thumb-05.png" alt="image">
+                                                <div class="rs-services-tab-content-thumb">
+                                                    <img src="assets/images/hospitality/varun-group-hospitality-sugarr.webp" alt="image">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6">
@@ -425,7 +425,7 @@
                                     </li>
                                     <li class="nav-item" role="presentation">
                                         <button class="nav-link" id="pill-item-three-tab" data-bs-toggle="pill" data-bs-target="#pill-item-three" type="button" role="tab" aria-controls="pills-item-three" aria-selected="false">
-                                           Tap – Lounge bar and grill
+                                           Tap – Sports Bar
                                         </button>
                                     </li>
                                 </ul>
@@ -448,12 +448,12 @@
                                                 </div>
                                                 <div class="row g-5 mb-30">
                                                     <div class="rs-portfolio-slider-wrapper">
-                                                        <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="2000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="3000" data-item="3" data-item-xl="3" data-item-lg="3" data-item-md="2" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
+                                                        <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="2000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="3000" data-item="4" data-item-xl="4" data-item-lg="4" data-item-md="2" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
                                                             <div class="swiper-wrapper">
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-16.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-eats-rushikonda.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -484,7 +484,7 @@
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-17.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-eats-rushikonda-3.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -515,7 +515,7 @@
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-18.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-eats-rushikonda-1.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -546,7 +546,39 @@
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-19.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-eats-rushikonda-2.webp" alt="image">
+                                                                            <div class="rs-portfolio-btn-wrapper">
+                                                                                <div class="rs-portfolio-icon-btn">
+                                                                                    <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                        <span class="icon-box">
+                                                                            <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19"
+                                                                                height="12" viewBox="0 0 19 12" fill="none">
+                                                                                <path
+                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                fill="white"></path>
+                                                                            </svg>
+                                                                            <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19"
+                                                                                height="12" viewBox="0 0 19 12" fill="none">
+                                                                                <path
+                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                fill="white"></path>
+                                                                            </svg>
+                                                                        </span>
+                                                                                    </a>
+                                                                                </div>
+                                                                                <div class="rs-portfolio-text-btn">
+                                                                                    <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                                </div>
+                                                                            </div>
+                                                                        
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                
+                                                                <div class="swiper-slide">
+                                                                    <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                        <div class="rs-portfolio-thumb">
+                                                                            <img src="assets/images/hospitality/varun-eats-rushikonda-4.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -577,7 +609,38 @@
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-20.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-eats-rushikonda-5.webp" alt="image">
+                                                                            <div class="rs-portfolio-btn-wrapper">
+                                                                                <div class="rs-portfolio-icon-btn">
+                                                                                    <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                        <span class="icon-box">
+                                                                            <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19"
+                                                                                height="12" viewBox="0 0 19 12" fill="none">
+                                                                                <path
+                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                fill="white"></path>
+                                                                            </svg>
+                                                                            <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19"
+                                                                                height="12" viewBox="0 0 19 12" fill="none">
+                                                                                <path
+                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                fill="white"></path>
+                                                                            </svg>
+                                                                        </span>
+                                                                                    </a>
+                                                                                </div>
+                                                                                <div class="rs-portfolio-text-btn">
+                                                                                    <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                                </div>
+                                                                            </div>
+                                                                        
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="swiper-slide">
+                                                                    <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                        <div class="rs-portfolio-thumb">
+                                                                            <img src="assets/images/hospitality/varun-eats-rushikonda-7.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -628,12 +691,12 @@
                                                 </div>
                                                 <div class="row g-5 mb-30">
                                                     <div class="rs-portfolio-slider-wrapper">
-                                                        <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="2000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="3000" data-item="3" data-item-xl="3" data-item-lg="3" data-item-md="2" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
+                                                        <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="2000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="3000" data-item="4" data-item-xl="4" data-item-lg="4" data-item-md="2" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
                                                             <div class="swiper-wrapper">
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-16.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-eats-beach-2.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -664,7 +727,7 @@
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-17.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-eats-beach.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -695,7 +758,7 @@
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-18.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-eats-beach-7.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -726,7 +789,7 @@
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-19.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-eats-beach-3.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -757,7 +820,38 @@
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-20.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-eats-beach-1.webp" alt="image">
+                                                                            <div class="rs-portfolio-btn-wrapper">
+                                                                                <div class="rs-portfolio-icon-btn">
+                                                                                    <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                        <span class="icon-box">
+                                                                            <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19"
+                                                                                height="12" viewBox="0 0 19 12" fill="none">
+                                                                                <path
+                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                fill="white"></path>
+                                                                            </svg>
+                                                                            <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19"
+                                                                                height="12" viewBox="0 0 19 12" fill="none">
+                                                                                <path
+                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                fill="white"></path>
+                                                                            </svg>
+                                                                        </span>
+                                                                                    </a>
+                                                                                </div>
+                                                                                <div class="rs-portfolio-text-btn">
+                                                                                    <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                                </div>
+                                                                            </div>
+                                                                        
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="swiper-slide">
+                                                                    <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                        <div class="rs-portfolio-thumb">
+                                                                            <img src="assets/images/hospitality/varun-eats-beach-4.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -808,12 +902,12 @@
                                                 </div>
                                                 <div class="row g-5 mb-30">
                                                     <div class="rs-portfolio-slider-wrapper">
-                                                        <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="2000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="3000" data-item="3" data-item-xl="3" data-item-lg="3" data-item-md="2" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
+                                                        <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="2000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="3000" data-item="4" data-item-xl="4" data-item-lg="4" data-item-md="2" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
                                                             <div class="swiper-wrapper">
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-16.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-tap-the-sports-bar-4.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -844,7 +938,7 @@
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-17.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-tap-the-sports-bar-1.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -875,7 +969,7 @@
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-18.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-tap-the-sports-bar-2.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -906,7 +1000,7 @@
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-19.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-tap-the-sports-bar-3.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -937,7 +1031,38 @@
                                                                 <div class="swiper-slide">
                                                                     <div class="rs-portfolio-item rs-portfolio-tooltip-item">
                                                                         <div class="rs-portfolio-thumb">
-                                                                            <img src="assets/images/portfolio/portfolio-thumb-20.png" alt="image">
+                                                                            <img src="assets/images/hospitality/varun-tap-the-sports-bar-5.webp" alt="image">
+                                                                            <div class="rs-portfolio-btn-wrapper">
+                                                                                <div class="rs-portfolio-icon-btn">
+                                                                                    <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
+                                                                                        <span class="icon-box">
+                                                                            <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" width="19"
+                                                                                height="12" viewBox="0 0 19 12" fill="none">
+                                                                                <path
+                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                fill="white"></path>
+                                                                            </svg>
+                                                                            <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" width="19"
+                                                                                height="12" viewBox="0 0 19 12" fill="none">
+                                                                                <path
+                                                                                d="M18.5303 6.53033C18.8232 6.23744 18.8232 5.76256 18.5303 5.46967L13.7574 0.696698C13.4645 0.403805 12.9896 0.403805 12.6967 0.696698C12.4038 0.989591 12.4038 1.46447 12.6967 1.75736L16.9393 6L12.6967 10.2426C12.4038 10.5355 12.4038 11.0104 12.6967 11.3033C12.9896 11.5962 13.4645 11.5962 13.7574 11.3033L18.5303 6.53033ZM6.55671e-08 6.75L18 6.75L18 5.25L-6.55671e-08 5.25L6.55671e-08 6.75Z"
+                                                                                fill="white"></path>
+                                                                            </svg>
+                                                                        </span>
+                                                                                    </a>
+                                                                                </div>
+                                                                                <div class="rs-portfolio-text-btn">
+                                                                                    <a class="rs-btn has-theme-orange" href="portfolio-details.html">Read Details</a>
+                                                                                </div>
+                                                                            </div>
+                                                                        
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="swiper-slide">
+                                                                    <div class="rs-portfolio-item rs-portfolio-tooltip-item">
+                                                                        <div class="rs-portfolio-thumb">
+                                                                            <img src="assets/images/hospitality/varun-tap-the-sports-bar-6.webp" alt="image">
                                                                             <div class="rs-portfolio-btn-wrapper">
                                                                                 <div class="rs-portfolio-icon-btn">
                                                                                     <a class="rs-square-btn has-icon has-theme-orange" href="portfolio-details.html">
@@ -1025,12 +1150,11 @@
                 <div class="row g-5 process-counts">
                     <div class="col-xl-6 col-lg-6">
                         <div class="rs-portfolio-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                            <div class="rs-portfolio-thumb" data-background="assets/images/portfolio/portfolio-thumb-26.png">
+                            <div class="rs-portfolio-thumb" data-background="assets/images/hospitality/varun-group-calmspa.webp">
                             </div>
                             <div class="rs-portfolio-content">
-                                <div class="rs-portfolio-number"></div>
-                                <h5 class="rs-portfolio-title underline has-black"><a href="portfolio-details.html">Oil &amp;
-                                        Gas Industry</a></h5>
+                                <h5 class="rs-portfolio-title underline has-black"><a href="portfolio-details.html">Calm Spa &amp;
+                                        Salon</a></h5>
                                 <div class="rs-portfolio-tag">
                                     <a href="portfolio-details.html">Midstream</a>
                                 </div>
@@ -1061,12 +1185,10 @@
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="rs-portfolio-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
-                            <div class="rs-portfolio-thumb" data-background="assets/images/portfolio/portfolio-thumb-27.png">
+                            <div class="rs-portfolio-thumb" data-background="assets/images/hospitality/varun-group-ayurbay.webp">
                             </div>
                             <div class="rs-portfolio-content">
-                                <div class="rs-portfolio-number"></div>
-                                <h5 class="rs-portfolio-title underline has-black"><a href="portfolio-details.html">Metal
-                                        Industry</a></h5>
+                                <h5 class="rs-portfolio-title underline has-black"><a href="portfolio-details.html">Ayurbay Spa</a></h5>
                                 <div class="rs-portfolio-tag">
                                     <a href="portfolio-details.html">Innovative</a>
                                 </div>
@@ -1107,7 +1229,7 @@
         </section>
         <!-- portfolio area end -->
         <!-- counter area start -->
-        <div class="rs-counter-area rs-counter-one has-theme-blue section-space" id="counterSection">
+        <div class="rs-counter-area rs-counter-one has-theme-blue section-space-bottom" id="counterSection">
             <div class="container ">
                 <div class="row g-5">
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -1173,28 +1295,25 @@
                         </svg>
                         Our Portfolio
                      </span>
-                            <h2 class="rs-section-title has-theme-green rs-split-text-enable split-in-fade">Recently Complete
-                                Project</h2>
+                            <h2 class="rs-section-title has-theme-green rs-split-text-enable split-in-fade">
+                            Meetings and Events</h2>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
                         <div class="rs-portfolio-slider-wrapper">
-                            <div class="swiper has-space" data-clone-slides="false" data-loop="true" data-speed="1500" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="2500" data-item="4" data-item-xl="3" data-item-lg="3" data-item-md="2" data-item-sm="2" data-item-xs="1" data-item-mobile="1" data-margin="30">
+                            <div class="swiper has-space" data-clone-slides="false" data-loop="true" data-speed="1500" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="2500" data-item="5" data-item-xl="3" data-item-lg="3" data-item-md="2" data-item-sm="2" data-item-xs="1" data-item-mobile="1" data-margin="30">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <div class="rs-portfolio-item">
                                             <div class="rs-portfolio-thumb">
-                                                <img src="assets/images/portfolio/portfolio-thumb-36.png" alt="image">
+                                                <img src="assets/images/hospitality/novetal-amenities-v-convention-center.webp" alt="image">
                                             </div>
                                             <div class="rs-portfolio-content">
-                                                <h5 class="rs-portfolio-title underline has-white">
-                                                    <a href="portfolio-details.html">Oil &amp; Gas Industry</a>
-                                                </h5>
-                                                <div class="rs-portfolio-tag">
-                                                    <a href="portfolio-details.html"> Industry</a>
-                                                </div>
+                                                <h4 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">V-Convention Center</a>
+                                                </h4>
                                             </div>
                                             <div class="rs-portfolio-btn">
                                                 <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
@@ -1219,15 +1338,12 @@
                                     <div class="swiper-slide">
                                         <div class="rs-portfolio-item">
                                             <div class="rs-portfolio-thumb">
-                                                <img src="assets/images/portfolio/portfolio-thumb-37.png" alt="image">
+                                                <img src="assets/images/hospitality/novetal-amenities-pearl-2.webp" alt="image">
                                             </div>
                                             <div class="rs-portfolio-content">
-                                                <h5 class="rs-portfolio-title underline has-white">
-                                                    <a href="portfolio-details.html">Automated Industry</a>
-                                                </h5>
-                                                <div class="rs-portfolio-tag">
-                                                    <a href="portfolio-details.html"> Manufacturing</a>
-                                                </div>
+                                                <h4 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Pearl 2</a>
+                                                </h4>
                                             </div>
                                             <div class="rs-portfolio-btn">
                                                 <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
@@ -1252,15 +1368,12 @@
                                     <div class="swiper-slide">
                                         <div class="rs-portfolio-item">
                                             <div class="rs-portfolio-thumb">
-                                                <img src="assets/images/portfolio/portfolio-thumb-38.png" alt="image">
+                                                <img src="assets/images/hospitality/novetal-amenities-nautica.webp" alt="image">
                                             </div>
                                             <div class="rs-portfolio-content">
-                                                <h5 class="rs-portfolio-title underline has-white">
-                                                    <a href="portfolio-details.html">Factories &amp; plants</a>
-                                                </h5>
-                                                <div class="rs-portfolio-tag">
-                                                    <a href="portfolio-details.html"> Industry</a>
-                                                </div>
+                                                <h4 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Nautica</a>
+                                                </h4>
                                             </div>
                                             <div class="rs-portfolio-btn">
                                                 <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
@@ -1285,15 +1398,12 @@
                                     <div class="swiper-slide">
                                         <div class="rs-portfolio-item">
                                             <div class="rs-portfolio-thumb">
-                                                <img src="assets/images/portfolio/portfolio-thumb-39.png" alt="image">
+                                                <img src="assets/images/hospitality/novetal-amenities-summit.webp" alt="image">
                                             </div>
                                             <div class="rs-portfolio-content">
-                                                <h5 class="rs-portfolio-title underline has-white">
-                                                    <a href="portfolio-details.html">Oil &amp; Gas Industry</a>
-                                                </h5>
-                                                <div class="rs-portfolio-tag">
-                                                    <a href="portfolio-details.html"> Industry</a>
-                                                </div>
+                                                <h4 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Summit</a>
+                                                </h4>
                                             </div>
                                             <div class="rs-portfolio-btn">
                                                 <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
@@ -1318,15 +1428,72 @@
                                     <div class="swiper-slide">
                                         <div class="rs-portfolio-item">
                                             <div class="rs-portfolio-thumb">
-                                                <img src="assets/images/portfolio/portfolio-thumb-40.png" alt="image">
+                                                 <img src="assets/images/hospitality/novetal-amenities-avenue.webp" alt="image">
                                             </div>
                                             <div class="rs-portfolio-content">
-                                                <h5 class="rs-portfolio-title underline has-white">
-                                                    <a href="portfolio-details.html">Oil &amp; Gas Factory</a>
-                                                </h5>
-                                                <div class="rs-portfolio-tag">
-                                                    <a href="portfolio-details.html"> Industry</a>
-                                                </div>
+                                                <h4 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Avenue</a>
+                                                </h4>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg"
+                                             viewBox="0 0 32 32">
+                                             <path
+                                                d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg"
+                                             viewBox="0 0 32 32">
+                                             <path
+                                                d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                 <img src="assets/images/hospitality/novetal-amenities-coral.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h4 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Coral1,2, 3</a>
+                                                </h4>
+                                            </div>
+                                            <div class="rs-portfolio-btn">
+                                                <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
+                                                    <span class="icon-box">
+                                          <svg class="icon-first" xmlns="http://www.w3.org/2000/svg"
+                                             viewBox="0 0 32 32">
+                                             <path
+                                                d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                          <svg class="icon-second" xmlns="http://www.w3.org/2000/svg"
+                                             viewBox="0 0 32 32">
+                                             <path
+                                                d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
+                                             </path>
+                                          </svg>
+                                       </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="rs-portfolio-item">
+                                            <div class="rs-portfolio-thumb">
+                                                 <img src="assets/images/hospitality/novetal-amenities-eureka.webp" alt="image">
+                                            </div>
+                                            <div class="rs-portfolio-content">
+                                                <h4 class="rs-portfolio-title underline has-white">
+                                                    <a href="portfolio-details.html">Eureka</a>
+                                                </h4>
                                             </div>
                                             <div class="rs-portfolio-btn">
                                                 <a class="rs-btn has-theme-light-green has-circle has-icon" href="portfolio-details.html">
@@ -1403,14 +1570,11 @@
                     <div class="col-xl-6 col-lg-12">
                         <div class="rs-portfolio-item">
                             <div class="rs-portfolio-thumb">
-                                <img src="assets/images/portfolio/portfolio-thumb-21.png" alt="image">
+                                <img src="assets/images/hospitality/novotel-amenities.webp" alt="image">
                             </div>
                             <div class="rs-portfolio-content has-large">
-                                <h3 class="rs-portfolio-title has-big underline has-white"> <a href="portfolio-details.html">Electron
-                                        Microscope</a></h3>
-                                <div class="rs-portfolio-tag">
-                                    <a href="portfolio-details.html">Laboratory</a>
-                                </div>
+                                <h3 class="rs-portfolio-title has-big underline has-white"> <a href="portfolio-details.html">Infinity Rooftop Bar & Kitchen</a></h3>
+                              
                             </div>
                           
                         </div>
@@ -1420,123 +1584,44 @@
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="rs-portfolio-item">
                                     <div class="rs-portfolio-thumb">
-                                        <img src="assets/images/portfolio/portfolio-thumb-22.png" alt="image">
+                                        <img src="assets/images/hospitality/novotel-amenities-gym-overlooking-the-ocean.webp" alt="image">
                                     </div>
                                     <div class="rs-portfolio-content">
-                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Electron
-                                                Microscope</a></h5>
-                                        <div class="rs-portfolio-tag">
-                                            <a href="portfolio-details.html">Laboratory</a>
-                                        </div>
-                                    </div>
-                                    <div class="rs-services-text-btn">
-                                        <a class="rs-btn has-theme-light-blue has-icon has-bg" href="portfolio.html">See More
-                                            Works
-                                            <span class="icon-box">
-                                    <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                    <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                 </span>
-                                        </a>
+                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Gym Overlooking</a></h5>
+                                        
                                     </div>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="rs-portfolio-item">
                                     <div class="rs-portfolio-thumb">
-                                        <img src="assets/images/portfolio/portfolio-thumb-23.png" alt="image">
+                                        <img src="assets/images/hospitality/novotel-amenities-rooftop-jogging-track.webp" alt="image">
                                     </div>
                                     <div class="rs-portfolio-content">
-                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html"> Lab
-                                                Technicians</a></h5>
-                                        <div class="rs-portfolio-tag">
-                                            <a href="portfolio-details.html">Laboratory</a>
-                                        </div>
-                                    </div>
-                                    <div class="rs-services-text-btn">
-                                        <a class="rs-btn has-theme-light-blue has-icon has-bg" href="portfolio.html">See More
-                                            Works
-                                            <span class="icon-box">
-                                    <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                    <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                 </span>
-                                        </a>
+                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Rooftop Jogging Track</a></h5>
+                                        
                                     </div>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="rs-portfolio-item">
                                     <div class="rs-portfolio-thumb">
-                                        <img src="assets/images/portfolio/portfolio-thumb-24.png" alt="image">
+                                        <img src="assets/images/hospitality/novotel-amenities-indian-speciality-restaurant.webp" alt="image">
                                     </div>
                                     <div class="rs-portfolio-content">
-                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Biotechnology </a></h5>
-                                        <div class="rs-portfolio-tag">
-                                            <a href="portfolio-details.html">Laboratory</a>
-                                        </div>
-                                    </div>
-                                    <div class="rs-services-text-btn">
-                                        <a class="rs-btn has-theme-light-blue has-icon has-bg" href="portfolio.html">See More
-                                            Works
-                                            <span class="icon-box">
-                                    <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                    <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                 </span>
-                                        </a>
+                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Indian Speciality Restaurant </a></h5>
+                                        
                                     </div>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="rs-portfolio-item">
                                     <div class="rs-portfolio-thumb">
-                                        <img src="assets/images/portfolio/portfolio-thumb-25.png" alt="image">
+                                        <img src="assets/images/hospitality/novotel-amenities-square-all-day-dining.webp" alt="image">
                                     </div>
                                     <div class="rs-portfolio-content">
-                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Vaccine
-                                                Reactions</a></h5>
-                                        <div class="rs-portfolio-tag">
-                                            <a href="portfolio-details.html">Laboratory</a>
-                                        </div>
-                                    </div>
-                                    <div class="rs-services-text-btn">
-                                        <a class="rs-btn has-theme-light-blue has-icon has-bg" href="portfolio.html">See More
-                                            Works
-                                            <span class="icon-box">
-                                    <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                    <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                       <path
-                                          d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                       </path>
-                                    </svg>
-                                 </span>
-                                        </a>
+                                        <h5 class="rs-portfolio-title underline has-white"> <a href="portfolio-details.html">Square All Day Dining</a></h5>
+                                        
                                     </div>
                                 </div>
                             </div>
