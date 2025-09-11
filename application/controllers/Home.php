@@ -9,12 +9,14 @@ class Home extends CI_Controller
         $this->load->model('AdminModel');
     }
 
-    public function index() {
+    public function index() 
+    {
         $data['title'] = 'Home || Varun Group';
         $data['page'] = 'templates/home/index';
         $this->load->view('templates/home/main', $data);
     }
-    public function history() {
+    public function history() 
+    {
         $this->load->model('AdminModel');
         $data['title'] = 'History || Varun Group';
         $data['page'] = 'templates/home/pages/history';
@@ -25,24 +27,24 @@ class Home extends CI_Controller
     {
         $this->load->model('AdminModel');
         $data['title'] = 'Leadership || Varun Group';
-
         $all = $this->AdminModel->get_active_banners_by_page('leadership'); // array
         $data['banners'] = !empty($all) ? $all[0] : null;                     // <-- first one
-
         $data['page']  = 'templates/home/pages/leadership';
         $this->load->view('templates/home/main', $data);
     }
 
 
-    public function business() {
-    $data['title'] = 'Business || Varun Group';
-    $data['page'] = 'templates/home/pages/business';
-    $this->load->view('templates/home/main', $data);
+    public function business() 
+    {
+        $data['title'] = 'Business || Varun Group';
+        $data['page'] = 'templates/home/pages/business';
+        $this->load->view('templates/home/main', $data);
     }
-     public function automobile() {
-    $data['title'] = 'Automobile Dealership || Varun Group';
-    $data['page'] = 'templates/home/pages/automobile';
-    $this->load->view('templates/home/main', $data);
+    public function automobile() 
+    {
+        $data['title'] = 'Automobile Dealership || Varun Group';
+        $data['page'] = 'templates/home/pages/automobile';
+        $this->load->view('templates/home/main', $data);
     }
     public function autofinance() {
     $data['title'] = 'Autofinance || Varun Group';

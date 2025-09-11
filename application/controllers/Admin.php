@@ -4,7 +4,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 class Admin extends CI_Controller
 {
 
-        public function __construct()
+    public function __construct()
     {
         parent::__construct();
         $this->load->model('AdminModel');
@@ -16,78 +16,66 @@ class Admin extends CI_Controller
             redirect(base_url('admin/login'));
         }
     }
-
     // ✅ Admin Dashboard
     public function dashboard()
     {
         $this->load->model('AdminModel');
-
         $data['title']  = 'Dashboard - VarunBajaj';
         $data['page']   = 'templates/admin/dashboard';
-
-
-
         $this->load->view('templates/admin/main', $data);
     }
-public function login()
-{
-
-    $data['title'] = 'Login - VarunGroup';
-    $data['page']  = 'templates/admin/auth/login';
-    $this->load->view('templates/admin/auth/main', $data);
-}
-
-       // ✅ Authenticate Login
-// ✅ Authenticate Login (minimal)
-public function login_authenticate()
-{
-    // Expect POST from your form
-    $email    = $this->input->post('email');     // e.g., admin123@gmail.com
-    $password = $this->input->post('password');  // e.g., admin123
-
-    if (!$email || !$password) {
-        $this->session->set_flashdata('error', 'Email and Password are required.');
-        redirect('admin/login'); return;
+    public function login()
+    {
+        $data['title'] = 'Login - VarunGroup';
+        $data['page']  = 'templates/admin/auth/login';
+        $this->load->view('templates/admin/auth/main', $data);
     }
+    public function login_authenticate()
+    {
+        // Expect POST from your form
+        $email    = $this->input->post('email');     // e.g., admin123@gmail.com
+        $password = $this->input->post('password');  // e.g., admin123
 
-    // Get user by email
-    $admin = $this->AdminModel->get_admin_by_email($email);
+        if (!$email || !$password) {
+            $this->session->set_flashdata('error', 'Email and Password are required.');
+            redirect('admin/login'); return;
+        }
 
-    // Verify bcrypt hash and login
-    if ($admin && password_verify($password, $admin['password'])) {
-        $this->session->set_userdata([
-            'admin_id'   => (int)$admin['id'],
-            'admin_name' => $admin['name'],
-            'admin_role' => $admin['role'],
-            'logged_in'  => TRUE,
-        ]);
-        redirect('admin/dashboard'); return;
+        // Get user by email
+        $admin = $this->AdminModel->get_admin_by_email($email);
+
+        // Verify bcrypt hash and login
+        if ($admin && password_verify($password, $admin['password'])) {
+            $this->session->set_userdata([
+                'admin_id'   => (int)$admin['id'],
+                'admin_name' => $admin['name'],
+                'admin_role' => $admin['role'],
+                'logged_in'  => TRUE,
+            ]);
+            redirect('admin/dashboard'); return;
+        }
+
+        // Failed
+        $this->session->set_flashdata('error', 'Invalid email or password.');
+        redirect('admin/login');
     }
-
-    // Failed
-    $this->session->set_flashdata('error', 'Invalid email or password.');
-    redirect('admin/login');
-}
-
-        // ✅ Logout
+    // ✅ Logout
     public function logout()
     {
         $this->session->sess_destroy();
         redirect(base_url('admin'));
     }
-        // ✅ Manage Users (Super Admin Only)
+    // ✅ Manage Users (Super Admin Only)
     public function users()
     {
         if ($this->session->userdata('admin_role') !== 'superadmin') {
             redirect(base_url('admin/dashboard'));
         }
-
         $data['title'] = 'Manage Users - VarunGroup';
         $data['page'] = 'templates/admin/user/users';
         $data['users'] = $this->AdminModel->get_all_users();
         $this->load->view('templates/admin/main', $data);
     }
-
     // ✅ Add User (Super Admin Only)
     public function add_user()
     {
@@ -130,7 +118,6 @@ public function login_authenticate()
         $data['page'] = 'templates/admin/user/add_user';
         $this->load->view('templates/admin/main', $data);
     }
-
     // Edit User (Super Admin Only)
     public function edit_user($id)
     {
@@ -164,7 +151,6 @@ public function login_authenticate()
         $data['page'] = 'templates/admin/user/edit_user';
         $this->load->view('templates/admin/main', $data);
     }
-
     // ✅ Delete User (Super Admin Only)
     public function delete_user($id)
     {
@@ -180,26 +166,25 @@ public function login_authenticate()
 
         redirect(base_url('admin/users'));
     }
-        //banners
+    //banners
     public function banner()
     {
         $this->load->model('AdminModel');
         $page = $this->input->get('page'); // e.g., ?page=home
         $data['title']   = 'Manage Banners - VarunBajaj';
         $data['page']    = 'templates/admin/banners/banner';
-         $data['pages']         = $this->pages;   
+        $data['pages']   = $this->pages;   
         $data['selected_page'] = $page ?: 'all';
         $data['banners'] = $this->AdminModel->get_banners($data['selected_page']);
         $this->load->view('templates/admin/main', $data);
     }
-
-private $pages = [
-  'home'       => 'Home',
-  'about'      => 'About',
-  'history'    => 'History',
-  'business'   => 'Business',
-  'leadership' => 'Leadership',   // ⬅️ new
-];
+    private $pages = [
+      'home'       => 'Home',
+      'about'      => 'About',
+      'history'    => 'History',
+      'business'   => 'Business',
+      'leadership' => 'Leadership',  
+    ];
     // ✅ Add New Banner
     public function add_banner()
     {
@@ -235,7 +220,6 @@ private $pages = [
             redirect(base_url('admin/banners'));
         }
     }
-
     // ✅ Delete Banner
     public function delete_banner($id)
     {
@@ -260,8 +244,6 @@ private $pages = [
 
         redirect(base_url('admin/banners'));
     }
-
-
     // ✅ Edit Banner
     public function edit_banner($id)
     {
