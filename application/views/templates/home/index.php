@@ -1,108 +1,110 @@
-        <!-- banner area start -->
-        <section class="rs-banner-area rs-banner-six p-relative rs-swiper">
-            <div class="rs-banner-slider-wrapper">
-                <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="2000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="fade" data-delay="1000" data-item="1" data-item-xl="1" data-item-lg="1" data-item-md="1" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="rs-banner-item-wrapper">
-                                <div class="rs-banner-bg-thumb" data-background="assets/images/bg/banner-bg-09.png">
-                                </div>
-                                <div class="container-fluid">
-                                    <div class="row g-5">
-                                        <div class="col-xl-7 col-lg-7">
-                                            <div class="rs-banner-item">
-                                                <div class="rs-banner-content">
-                                                    <span class="rs-banner-subtitle">
-                                                      <img src="assets/images/shape/border-line.png" alt="image">
-                                                      Welcome to our industrie
-                                                   </span>
-                                                    <h1 class="rs-banner-title">Reliable <br>
-                                                        <img class="rs-banner-shape" src="assets/images/shape/arrow-shape.png" alt="image">
-                                                        <span class="rs-banner-stroke-text">Laboratory</span>
-                                                    </h1>
-                                                    <div class="rs-banner-info">
-                                                        <div class="rs-banner-btn">
-                                                            <div class="rs-rotate-btn">
-                                                                <a href="contact.html" class="rs-play-btn popup-video has-transparent-btn"><i
-                                                                class="fa-light fa-arrow-right-long"></i></a>
-                                                                <div class="rs-circle-title gsap-rotate rs-text-circle-wrapper">
-                                                                    <div class="rs-text-circle" data-rotate-degree="13.33">
-                                                                        Explore More - Explore More -
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="rs-banner-descrip">
-                                                            <p>Welcome to Industrie, a leading industry innovator with a rich history
-                                                                of excellence. With a passion for precision and a commitment to
-                                                                quality...</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="rs-banner-item-wrapper">
-                                <div class="rs-banner-bg-thumb" data-background="assets/images/bg/banner-bg-10.png">
-                                </div>
-                                <div class="container-fluid">
-                                    <div class="row g-5">
-                                        <div class="col-xl-7 col-lg-7">
-                                            <div class="rs-banner-item">
-                                                <div class="rs-banner-content">
-                                                    <span class="rs-banner-subtitle">
-                                                      <img src="assets/images/shape/border-line.png" alt="image">
-                                                      Welcome to our industrie
-                                                   </span>
-                                                    <h1 class="rs-banner-title">Innovate <br>
-                                                        <img class="rs-banner-shape" src="assets/images/shape/arrow-shape.png" alt="image">
-                                                        <span class="rs-banner-stroke-text">Laboratory</span>
-                                                    </h1>
-                                                    <div class="rs-banner-info">
-                                                        <div class="rs-banner-btn">
-                                                            <div class="rs-rotate-btn">
-                                                                <a href="https://www.youtube.com/watch?v=Yue48fUXuqI" class="rs-play-btn popup-video has-transparent-btn"><i
-                                                      class="fa-light fa-arrow-right-long"></i></a>
-                                                                <div class="rs_circle_title gsap-rotate rs-text-circle-wrapper">
-                                                                    <div class="rs-text-circle" data-rotate-degree="13.33">
-                                                                        Explore More - Explore More -
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="rs-banner-descrip">
-                                                            <p>Welcome to Industrie, a leading industry innovator with a rich history
-                                                                of excellence. With a passion for precision and a commitment to
-                                                                quality...</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+<!-- banner area start -->
+<section class="rs-banner-area rs-banner-six p-relative rs-swiper home-video-banner">
+  <div class="rs-banner-slider-wrapper">
+    <div class="swiper"
+         data-clone-slides="false"
+         data-loop="true"
+         data-speed="2000"
+         data-autoplay="true"
+         data-dots-dynamic="false"
+         data-hover-pause="true"
+         data-effect="fade"
+         data-delay="1000"
+         data-item="1">
+
+      <div class="swiper-wrapper">
+
+        <!-- Slide 1 -->
+        <div class="swiper-slide">
+          <div class="rs-banner-item-wrapper position-relative">
+
+            <!-- ✅ Background Video -->
+            <video class="rs-banner-bg-video" autoplay muted loop playsinline>
+              <source src="assets/images/videos/automobiles.mp4" type="video/mp4">
+            </video>
+
+            <!-- optional dark overlay -->
+            <div class="rs-banner-overlay"></div>
+
+            <div class="container-fluid">
+              <div class="row g-5">
+                <div class="col-xl-7 col-lg-7">
+                  <div class="rs-banner-item">
+                    <div class="rs-banner-content">
+                    <!--   <span class="rs-banner-subtitle">
+                        <img src="assets/images/shape/border-line.png" alt="image">
+                        Automobile Dealership 
+                      </span> -->
+                      <h1 class="rs-banner-title">AUTOMOBILE DEALERSHIP</h1>
+             
                     </div>
-                    <!-- If we need navigation buttons -->
-                    <div class="rs-banner-navigation">
-                        <button class="swiper-button-prev rs-swiper-btn has-theme-light-blue"><i
-                        class="fa-regular fa-arrow-left"></i></button>
-                        <button class="swiper-button-next rs-swiper-btn has-theme-light-blue"><i
-                        class="fa-regular fa-arrow-right"></i></button>
-                    </div>
-                    <!-- if we need pagination -->
-                    <div class="rs-banner-pagination d-block d-sm-none">
-                        <div class="swiper-pagination rs-pagination"></div>
-                    </div>
+                  </div>
                 </div>
+              </div>
             </div>
-        </section>
-        <!-- banner area end -->
+
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="swiper-slide">
+          <div class="rs-banner-item-wrapper position-relative">
+
+            <video class="rs-banner-bg-video" autoplay muted loop playsinline>
+              <source src="assets/images/videos/Hospitality1.mp4" type="video/mp4">
+            </video>
+
+            <div class="rs-banner-overlay"></div>
+
+            <div class="container-fluid">
+              <div class="row g-5">
+                <div class="col-xl-7 col-lg-7">
+                  <div class="rs-banner-item">
+                    <div class="rs-banner-content">
+                    
+                       <h1 class="rs-banner-title">HOSPITALITY</h1>
+                     
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+                <!-- Slide 3 -->
+        <div class="swiper-slide">
+          <div class="rs-banner-item-wrapper position-relative">
+
+            <video class="rs-banner-bg-video" autoplay muted loop playsinline>
+              <source src="assets/images/videos/Agriculture.mp4" type="video/mp4">
+            </video>
+
+            <div class="rs-banner-overlay"></div>
+
+            <div class="container-fluid">
+              <div class="row g-5">
+                <div class="col-xl-7 col-lg-7">
+                  <div class="rs-banner-item">
+                    <div class="rs-banner-content">
+                    
+                       <h1 class="rs-banner-title">AGRICULTURE</h1>
+                     
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+
+    </div>
+  </div>
+</section>
         <!-- feature area start -->
         <section class="rs-feature-area rs-feature-five section-space-top">
             <div class="container">
@@ -722,23 +724,23 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="rs-text-slide-wrapper">
-                            <div class="gsap-marquee right speed-5 move-to-500">
+                            <div class="gsap-marquee left speed-5 move-to-500">
                                 <div class="rs-text-slide-inner">
                                     <div class="rs-text-slide-item">
                                         <h2 class="rs-text-slide-title">Varun Group</h2>
                                     </div>
                                     <div class="rs-text-slide-item">
-                                        <h2 class="rs-text-slide-title"> Corporate Social Responsibility</h2>
-                                    </div>
-                                  <!--   <div class="rs-text-slide-item">
-                                        <h2 class="rs-text-slide-title">&amp; Development Training Quality Assurance</h2>
+                                        <h2 class="rs-text-slide-title"> Legacy 1950</h2>
                                     </div>
                                     <div class="rs-text-slide-item">
-                                        <h2 class="rs-text-slide-title">&amp; Testing Product Design</h2>
+                                        <h2 class="rs-text-slide-title">Varun Group</h2>
                                     </div>
                                     <div class="rs-text-slide-item">
-                                        <h2 class="rs-text-slide-title">&amp; Development Training</h2>
-                                    </div> -->
+                                        <h2 class="rs-text-slide-title">Legacy 1950</h2>
+                                    </div>
+                                    <div class="rs-text-slide-item">
+                                        <h2 class="rs-text-slide-title"> Varun Group Legacy 1950</h2>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -756,7 +758,7 @@
                         <div class="rs-video-overlay"></div> <!-- Black overlay -->
                         <div class="rs-video-bg-thumb-wrapper">
 
-                            <div class="rs-video-bg-thumb jarallax-img" data-background="assets/images/home/home-vhc-banner.webp">
+                            <div class="rs-video-bg-thumb jarallax-img" data-background="assets/images/home/vg-legacy-thumbnail.webp">
                             </div>
                         </div>
                     </div>
@@ -766,10 +768,10 @@
                         <div class="rs-video-content">
                             <div class="rs-video-play-btn">
                               <div class="rs-rotate-btn">
-                                <a href="https://www.youtube.com/watch?v=zf6G202MNzw"
-                                   class="rs-play-btn popup-video">
+                                <a href="https://www.youtube.com/watch?v=-aXiaCiwK6Y" class="rs-play-btn popup-video">
                                   <i class="ri-play-fill"></i>
                                 </a>
+
                                 <div class="rs-circle-title gsap-rotate rs-text-circle-wrapper">
                                   <div class="rs-text-circle" data-rotate-degree="13.33">
                                     Watch Video - Watch Video -
@@ -786,7 +788,7 @@
         <!-- video area end -->
 
         <!-- work step area start -->
-        <section class="rs-work-stpe-area section-space rs-work-step-three">
+    <!--     <section class="rs-work-stpe-area section-space rs-work-step-three">
             <div class="container">
                 <div class="row g-5 process-counts">
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
@@ -831,11 +833,11 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- working step area end -->
 
         <!-- portfolio area start -->
-        <section class="rs-portfolio-area section-space-bottom rs-portfolio-five">
+        <section class="rs-portfolio-area section-space rs-portfolio-five">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -1179,7 +1181,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row mb-10">
                     <div class="rs-brand-wrapper">
                         <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="2000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="false" data-delay="1000" data-item="6" data-item-xl="4" data-item-lg="4" data-item-md="3" data-item-sm="2" data-item-xs="2" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
                             <div class="swiper-wrapper">
@@ -1529,80 +1531,90 @@
         <!-- why choose area end -->
         
         <!-- testimonial area start -->
-       <section class="rs-testimonial-area rs-testimonial-three rs-swiper has-bg-black">
+        <section class="rs-testimonial-area rs-testimonial-three rs-swiper has-bg-black">
 
-  <!-- Single dynamic background div -->
-  <div class="rs-testimonial-bg-thumb" id="testimonialBgThumb"></div>
+          <!-- Single dynamic background div -->
+          <div class="rs-testimonial-bg-thumb" id="testimonialBgThumb"></div>
 
-  <div class="container">
-    <div class="row justify-content-end">
-      <div class="col-xxl-6 col-xl-7 col-lg-7">
-        <div class="rs-testimonial-wrapper">
-          <div class="rs-section-title-wrapper section-title-space">
-            <span class="rs-section-subtitle has-theme-orange justify-content-start has-transparent">
-              <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
-                <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
-                <path fill-rule="evenodd" clip-rule="evenodd"
-                  d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
-                  fill="#EA5501"></path>
-              </svg>
-              Reviews
-            </span>
-            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Announcements</h2>
-          </div>
+          <div class="container">
+            <div class="row justify-content-end">
+              <div class="col-xxl-6 col-xl-7 col-lg-7">
+                <div class="rs-testimonial-wrapper">
+                  <div class="rs-section-title-wrapper section-title-space">
+                    <span class="rs-section-subtitle has-theme-orange justify-content-start has-transparent">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
+                        <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
+                          fill="#EA5501"></path>
+                      </svg>
+                      Reviews
+                    </span>
+                    <h2 class="rs-section-title rs-split-text-enable split-in-fade">Announcements</h2>
+                  </div>
 
-          <div class="rs-testimonial-slider-wrapper">
-            <div class="swiper">
-              <div class="swiper-wrapper">
-                <!-- Slide 1 -->
-                <div class="swiper-slide">
-                  <div class="rs-testimonial-item">
-                    
-                    <div class="rs-testimonial-content">
-                      <h5 class="rs-testimonial-title">Best Company</h5>
-                      <div class="rs-testimonial-description">
-                        <p>Podcasting operational change management inside of workflows to establish a framework Taking seamless key performance indicators.</p>
+                  <div class="rs-testimonial-slider-wrapper">
+                    <div class="swiper">
+                      <div class="swiper-wrapper">
+                        <!-- Slide 1 -->
+                        <div class="swiper-slide">
+                          <div class="rs-testimonial-item">
+                            
+                            <div class="rs-testimonial-content">
+                              <h5 class="rs-testimonial-title">Best Company</h5>
+                              <div class="rs-testimonial-description">
+                                <p>Podcasting operational change management inside of workflows to establish a framework Taking seamless key performance indicators.</p>
+                              </div>
+                              <div class="rs-tesimonial-avater-info">
+                                  <h5 class="rs-testimonial-avater-title">
+                                    <i class="fa-regular fa-clock"></i> 10:30 AM
+                                  </h5>
+                                  <h5><span class="rs-testimonial-avater-designation">
+                                    <i class="fa-regular fa-calendar"></i> 13 Oct 2025
+                                  </span></h5>
+                                </div>
+
+                            </div>
+                          </div>
+                        </div>
+
+                        <!-- Slide 2 -->
+                        <div class="swiper-slide">
+                          <div class="rs-testimonial-item">
+                            
+                            <div class="rs-testimonial-content">
+                              <h5 class="rs-testimonial-title">Amazing Team</h5>
+                              <div class="rs-testimonial-description">
+                                <p>Taking seamless key performance indicators offline to maximise the long tail.</p>
+                              </div>
+                              <div class="rs-tesimonial-avater-info">
+                                  <h5 class="rs-testimonial-avater-title">
+                                    <i class="fa-regular fa-clock"></i> 10:30 AM
+                                  </h5>
+                                  <h5><span class="rs-testimonial-avater-designation">
+                                    <i class="fa-regular fa-calendar"></i> 13 Oct 2025
+                                  </span></h5>
+                                </div>
+
+                            </div>
+                          </div>
+                        </div>
+
+                       
                       </div>
-                      <div class="rs-tesimonial-avater-info">
-                        <h6 class="rs-testimonial-avater-title">Nayeem</h6>
-                        <span class="rs-testimonial-avater-designation">Manager</span>
+
+                      <!-- Navigation -->
+                      <div class="rs-testimonial-navigation">
+                        <button class="swiper-button-prev rs-swiper-btn has-small hover-light-orange"><i class="fa-regular fa-arrow-left"></i></button>
+                        <button class="swiper-button-next rs-swiper-btn has-small hover-light-orange"><i class="fa-regular fa-arrow-right"></i></button>
                       </div>
                     </div>
                   </div>
                 </div>
-
-                <!-- Slide 2 -->
-                <div class="swiper-slide">
-                  <div class="rs-testimonial-item">
-                    
-                    <div class="rs-testimonial-content">
-                      <h5 class="rs-testimonial-title">Amazing Team</h5>
-                      <div class="rs-testimonial-description">
-                        <p>Taking seamless key performance indicators offline to maximise the long tail.</p>
-                      </div>
-                      <div class="rs-tesimonial-avater-info">
-                        <h6 class="rs-testimonial-avater-title">Abdur Rashid</h6>
-                        <span class="rs-testimonial-avater-designation">Founder &amp; CEO</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-               
-              </div>
-
-              <!-- Navigation -->
-              <div class="rs-testimonial-navigation">
-                <button class="swiper-button-prev rs-swiper-btn has-small hover-light-orange"><i class="fa-regular fa-arrow-left"></i></button>
-                <button class="swiper-button-next rs-swiper-btn has-small hover-light-orange"><i class="fa-regular fa-arrow-right"></i></button>
               </div>
             </div>
           </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+        </section>
 
         <!-- testimonial area end -->
 

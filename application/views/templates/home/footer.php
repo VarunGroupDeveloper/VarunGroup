@@ -240,6 +240,33 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                                <div class="rs-footer-widget footer-2-col-4">
+                                    <h5 class="rs-footer-widget-title">Phone Number</h5>
+                                    <div class="rs-footer-widget-content">
+                                        <div class="rs-footer-widget-contact-info">
+                                            <div class="rs-footer-widget-number">
+                                                <span>
+                                       <a href="tel:971551579261">+971 551 579 261</a>
+                                    </span>
+                                                <span>
+                                       <a href="tel:971551579261">+97 155 596 1659</a>
+                                    </span>
+                                            </div>
+                                        </div>
+                                        <h5 class="rs-footer-widget-title">Follow Us</h5>
+                                        <div class="rs-footer-widget-social">
+                                            <div class="rs-theme-social has-theme-blue">
+                                                <a href="#"><i class="ri-youtube-fill"></i></a>
+                                                <a href="#"><i class="ri-facebook-fill"></i></a>
+                                                <a href="#"><i class="ri-linkedin-fill"></i></a>
+                                                <a href="#"><i class="ri-instagram-line"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
                         </div>
                     </div>
                 </div>

@@ -51,7 +51,7 @@ class AdminModel extends CI_Model {
         $query = $this->db->get('banners');
         return $query->result_array();
     }
-     public function get_active_banners_by_page($page)
+    public function get_active_banners_by_page($page)
     {
         return $this->db->from('banners')
                         ->where(['page' => $page, 'status' => 'active'])

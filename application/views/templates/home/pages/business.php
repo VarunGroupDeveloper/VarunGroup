@@ -64,9 +64,7 @@
                         <h2>Agriculture</h2>
                       </a>
                     </div>
-                  </li>
-               
-                  
+                  </li>                
                 </ul>
               </div>
           </div>
@@ -133,31 +131,8 @@
                                         <span class="prefix">+</span>
                                     </div>
                                 </div>
-                                <span class="rs-counter-title"><span class="large-text">Customer</span> Touchpoints <br>
-                           </span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                        <div class="rs-about-counter-wrapper">
-                            <div class="rs-counter-item">
-                                <div class="rs-counter-content-wrapper">
-                                    <div class="rs-counter-icon">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55" fill="none">
-                                            <circle opacity="0.1" cx="27.5" cy="27.5" r="27.5" fill="#1F1F1F"></circle>
-                                            <path d="M43.543 41.25C43.543 41.25 45.8346 41.25 45.8346 38.9583C45.8346 36.6667 43.543 29.7917 34.3763 29.7917C25.2096 29.7917 22.918 36.6667 22.918 38.9583C22.918 41.25 25.2096 41.25 25.2096 41.25H43.543ZM25.2608 38.9583C25.2529 38.9574 25.2418 38.956 25.2283 38.9537C25.222 38.9527 25.2157 38.9515 25.2097 38.9504C25.213 38.3453 25.592 36.5908 26.9496 35.007C28.2194 33.5256 30.4408 32.0833 34.3763 32.0833C38.3118 32.0833 40.5332 33.5256 41.803 35.007C43.1606 36.5908 43.5396 38.3453 43.5429 38.9504C43.5369 38.9515 43.5306 38.9527 43.5243 38.9537C43.5108 38.956 43.4997 38.9574 43.4918 38.9583H25.2608Z" fill="white"></path>
-                                            <path d="M34.3763 25.2083C36.9076 25.2083 38.9596 23.1563 38.9596 20.625C38.9596 18.0937 36.9076 16.0417 34.3763 16.0417C31.845 16.0417 29.793 18.0937 29.793 20.625C29.793 23.1563 31.845 25.2083 34.3763 25.2083ZM41.2513 20.625C41.2513 24.422 38.1733 27.5 34.3763 27.5C30.5793 27.5 27.5013 24.422 27.5013 20.625C27.5013 16.828 30.5793 13.75 34.3763 13.75C38.1733 13.75 41.2513 16.828 41.2513 20.625Z" fill="white"></path>
-                                            <path d="M25.0628 30.4333C24.2199 30.1637 23.2836 29.9677 22.2449 29.8674C21.7308 29.8178 21.1916 29.7917 20.6263 29.7917C11.4596 29.7917 9.16797 36.6667 9.16797 38.9583C9.16797 40.4861 9.93186 41.25 11.4596 41.25H21.1221C20.7995 40.599 20.6263 39.8272 20.6263 38.9583C20.6263 36.6431 21.4908 34.2788 23.1238 32.3038C23.6817 31.629 24.3293 30.9997 25.0628 30.4333ZM20.4431 32.0844C19.0738 34.177 18.3346 36.5628 18.3346 38.9583H11.4596C11.4596 38.3608 11.836 36.5979 13.1996 35.007C14.4495 33.5488 16.6216 32.1284 20.4431 32.0844Z" fill="white"></path>
-                                            <path d="M12.6055 21.7708C12.6055 17.9739 15.6835 14.8958 19.4805 14.8958C23.2774 14.8958 26.3555 17.9739 26.3555 21.7708C26.3555 25.5678 23.2774 28.6458 19.4805 28.6458C15.6835 28.6458 12.6055 25.5678 12.6055 21.7708ZM19.4805 17.1875C16.9492 17.1875 14.8971 19.2395 14.8971 21.7708C14.8971 24.3021 16.9492 26.3542 19.4805 26.3542C22.0118 26.3542 24.0638 24.3021 24.0638 21.7708C24.0638 19.2395 22.0118 17.1875 19.4805 17.1875Z" fill="white"></path>
-                                        </svg>
-                                    </div>
-                                    <div class="rs-counter-number-item">
-                                        <span class="rs-counter-number odometer" data-count="25">00</span>
-                                        <span class="prefix">Lakhs+</span>
-                                    </div>
-                                </div>
-                                <span class="rs-counter-title"><span class="large-text">Vehicles</span> Serviced <br>
-                           Annually</span>
+                                <span class="rs-counter-title"><span class="large-text">Highly</span> Specialised <br>
+                           Employees</span>
                             </div>
                         </div>
                     </div>
@@ -181,6 +156,29 @@
                                 </div>
                                 <span class="rs-counter-title"><span class="large-text">Highly</span> Specialised <br>
                            Employees</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                        <div class="rs-about-counter-wrapper">
+                            <div class="rs-counter-item">
+                                <div class="rs-counter-content-wrapper">
+                                    <div class="rs-counter-icon">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55" fill="none">
+                                            <circle opacity="0.1" cx="27.5" cy="27.5" r="27.5" fill="#1F1F1F"></circle>
+                                            <path d="M43.543 41.25C43.543 41.25 45.8346 41.25 45.8346 38.9583C45.8346 36.6667 43.543 29.7917 34.3763 29.7917C25.2096 29.7917 22.918 36.6667 22.918 38.9583C22.918 41.25 25.2096 41.25 25.2096 41.25H43.543ZM25.2608 38.9583C25.2529 38.9574 25.2418 38.956 25.2283 38.9537C25.222 38.9527 25.2157 38.9515 25.2097 38.9504C25.213 38.3453 25.592 36.5908 26.9496 35.007C28.2194 33.5256 30.4408 32.0833 34.3763 32.0833C38.3118 32.0833 40.5332 33.5256 41.803 35.007C43.1606 36.5908 43.5396 38.3453 43.5429 38.9504C43.5369 38.9515 43.5306 38.9527 43.5243 38.9537C43.5108 38.956 43.4997 38.9574 43.4918 38.9583H25.2608Z" fill="white"></path>
+                                            <path d="M34.3763 25.2083C36.9076 25.2083 38.9596 23.1563 38.9596 20.625C38.9596 18.0937 36.9076 16.0417 34.3763 16.0417C31.845 16.0417 29.793 18.0937 29.793 20.625C29.793 23.1563 31.845 25.2083 34.3763 25.2083ZM41.2513 20.625C41.2513 24.422 38.1733 27.5 34.3763 27.5C30.5793 27.5 27.5013 24.422 27.5013 20.625C27.5013 16.828 30.5793 13.75 34.3763 13.75C38.1733 13.75 41.2513 16.828 41.2513 20.625Z" fill="white"></path>
+                                            <path d="M25.0628 30.4333C24.2199 30.1637 23.2836 29.9677 22.2449 29.8674C21.7308 29.8178 21.1916 29.7917 20.6263 29.7917C11.4596 29.7917 9.16797 36.6667 9.16797 38.9583C9.16797 40.4861 9.93186 41.25 11.4596 41.25H21.1221C20.7995 40.599 20.6263 39.8272 20.6263 38.9583C20.6263 36.6431 21.4908 34.2788 23.1238 32.3038C23.6817 31.629 24.3293 30.9997 25.0628 30.4333ZM20.4431 32.0844C19.0738 34.177 18.3346 36.5628 18.3346 38.9583H11.4596C11.4596 38.3608 11.836 36.5979 13.1996 35.007C14.4495 33.5488 16.6216 32.1284 20.4431 32.0844Z" fill="white"></path>
+                                            <path d="M12.6055 21.7708C12.6055 17.9739 15.6835 14.8958 19.4805 14.8958C23.2774 14.8958 26.3555 17.9739 26.3555 21.7708C26.3555 25.5678 23.2774 28.6458 19.4805 28.6458C15.6835 28.6458 12.6055 25.5678 12.6055 21.7708ZM19.4805 17.1875C16.9492 17.1875 14.8971 19.2395 14.8971 21.7708C14.8971 24.3021 16.9492 26.3542 19.4805 26.3542C22.0118 26.3542 24.0638 24.3021 24.0638 21.7708C24.0638 19.2395 22.0118 17.1875 19.4805 17.1875Z" fill="white"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="rs-counter-number-item">
+                                        <span class="rs-counter-number odometer" data-count="1,75,000">00</span>
+                                        <span class="prefix">+</span>
+                                    </div>
+                                </div>
+                                <span class="rs-counter-title"><span class="small-text">Vehicles sold Annually<br>
+                           </span>
                             </div>
                         </div>
                     </div>
@@ -213,8 +211,7 @@
                         </span>
                                 <h2 class="rs-section-title rs-split-text-enable split-in-fade mb-20">Our clients and partners
                                 </h2>
-                                <p class="descrip">Welcome to Industrie, a leading industry innovator with a rich history
-                                    empowering industries and driving progress.</p>
+                                <p class="descrip">Trusted by businesses worldwide, our clients and partners drive growth and innovation together with us</p>
                             </div>
 
                             <div class="rs-brand-item-wrapper">
@@ -282,7 +279,7 @@
                         </svg>
                         Work Process
                      </span>
-                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Work Process Style 05</h2>
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Our Business Ethics</h2>
                         </div>
                     </div>
                 </div>
@@ -316,8 +313,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Expert Engineers</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Integrity in Every Deal</h5>
+                                <p class="descrip"> Conducting all transactions with honesty and transparency.</p>
                             </div>
                         </div>
                     </div>
@@ -356,8 +353,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Quality Control System</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Respectful Partnerships</h5>
+                                <p class="descrip">Valuing and treating every client and partner with equity.</p>
                             </div>
                         </div>
                     </div>
@@ -400,8 +397,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Satisfaction Guarantee</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Professional Excellence</h5>
+                                <p class="descrip">Maintaining the highest standards in behavior and work.</p>
                             </div>
                         </div>
                     </div>
@@ -430,8 +427,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">International Business</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Confidentiality & Trust</h5>
+                                <p class="descrip">Safeguarding sensitive information with utmost care.</p>
                             </div>
                         </div>
                     </div>
@@ -498,8 +495,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title"> Unrivalled Workmanship</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title"> Accountability </h5>
+                                <p class="descrip">Taking responsibility for decisions and outcomes.</p>
                             </div>
                         </div>
                     </div>
@@ -650,8 +647,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">High Professional Staff</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Client Commitment</h5>
+                                <p class="descrip">Ensuring every engagement delivers value and trust.</p>
                             </div>
                         </div>
                     </div>
@@ -686,41 +683,46 @@
                                         <div class="rs-accordion-item">
                                             <h4 class="accordion-header" id="headingOne">
                                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                    01. Why is sand important for industry?
+                                                    01. What is Varun Group?
                                                     <span class="accordion-btn"></span>
                                                 </button>
                                             </h4>
                                             <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExampleOne">
-                                                <div class="accordion-body"> Randomised words which don’t look even slightly
-                                                    believable. If you are going to use a passage of Lorem Ipsum, you need to be sure
-                                                    there isn’t anything.
+                                                <div class="accordion-body">Varun Group is a diversified business conglomerate with over 75 years of experience in automotive, healthcare, agriculture, and other industries.
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="rs-accordion-item">
                                             <h6 class="accordion-header" id="headingTwo">
                                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                    02. Can I switch to a different plan?
+                                                    02. What industries does Varun Group operate in?
                                                     <span class="accordion-btn"></span>
                                                 </button>
                                             </h6>
                                             <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExampleOne">
-                                                <div class="accordion-body">Randomised words which don’t look even slightly
-                                                    believable. If you are going to use a passage of Lorem Ipsum, you need to be sure
-                                                    there isn’t anything.</div>
+                                                <div class="accordion-body">We operate in automotive, healthcare, agriculture, infrastructure, finance, and agriculture, providing products and services with a focus on innovation and quality.</div>
                                             </div>
                                         </div>
                                         <div class="rs-accordion-item">
                                             <h6 class="accordion-header" id="headingThree">
                                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    03. What should I wear for an industry treatment?
+                                                    03. Does Varun Group offer career opportunities?
                                                     <span class="accordion-btn"></span>
                                                 </button>
                                             </h6>
                                             <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExampleOne">
-                                                <div class="accordion-body">Randomised words which don’t look even slightly
-                                                    believable. If you are going to use a passage of Lorem Ipsum, you need to be sure
-                                                    there isn’t anything.</div>
+                                                <div class="accordion-body">Yes, we provide various career opportunities across our industries. Interested candidates can apply through our careers page.</div>
+                                            </div>
+                                        </div>
+                                        <div class="rs-accordion-item">
+                                            <h6 class="accordion-header" id="headingThree">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                    04. Who is the owner of Varun Group?
+                                                    <span class="accordion-btn"></span>
+                                                </button>
+                                            </h6>
+                                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExampleOne">
+                                                <div class="accordion-body">The owner and Chairman of Varun Group is Mr. Prabhu Kishore, who has been leading the Group for over 50 years, building its legacy across multiple industries with a focus on trust, innovation, and excellence.</div>
                                             </div>
                                         </div>
                                     </div>

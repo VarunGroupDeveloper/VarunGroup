@@ -39,11 +39,11 @@
                                         d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
                                         fill="#EA5501"></path>
                                 </svg>
-                                Global Branch
+                                Contact Us
                             </span>
                             <h2 class="rs-section-title rs-split-text-enable split-in-fade mb-10">Get in touch with our
                                 team</h2>
-                            <p>We have the team and know-how to help scale 10x faster.</p>
+                            
                         </div>
                     </div>
                 </div>
