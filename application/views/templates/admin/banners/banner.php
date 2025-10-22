@@ -49,6 +49,7 @@
                                     <th>S.No</th>
                                     <th>Page</th>
                                     <th>Image</th>
+                                    <th>Mobile Image</th>
                                     <th>Alt Name</th>
                                     <th>Order</th>
                                     <th>Status</th>
@@ -60,7 +61,10 @@
                                     <tr>
                                         <td><?= $sno++; ?></td>
                                         <td><span class="badge bg-secondary"><?= htmlspecialchars($banner['page']); ?></span></td>
-                                          <td><?php if(!empty($banner['image'])): ?><img src="<?= base_url('uploads/banners/'.$banner['image']); ?>" width="100" class="rounded"><?php endif; ?></td>
+                                        <td><?php if(!empty($banner['image'])): ?><img src="<?= base_url('uploads/banners/'.$banner['image']); ?>" width="100" class="rounded"><?php endif; ?></td>
+                                        <td>
+                                            <img src="<?= base_url('uploads/banners/' . $banner['mobile_image']); ?>" width="100" class="rounded">
+                                        </td>
                                         <td><?= $banner['alt_name']; ?></td>
                                         <td><?= $banner['image_order']; ?></td>
                                         <td>
@@ -101,6 +105,21 @@
                                                                 <input type="file" name="banner_image" class="form-control">
                                                             </div>
 
+                                                            <div class="mb-3">
+                                                                <label class="form-label">Current Mobile Banner Image</label>
+                                                                <div>
+                                                                    <?php if (!empty($banner['mobile_image'])): ?>
+                                                                        <img src="<?= base_url('uploads/banners/' . htmlspecialchars($banner['mobile_image'])); ?>" width="150" class="rounded">
+                                                                    <?php else: ?>
+                                                                        <p class="text-muted">No mobile banner uploaded.</p>
+                                                                    <?php endif; ?>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="mb-3">
+                                                                <label class="form-label">Upload New Mobile Banner Image</label>
+                                                                <input type="file" name="mobile_banner_image" class="form-control">
+                                                            </div>
 
                                                             <div class="mb-3">
                                                                 <label class="form-label">Alt Image Name</label>
@@ -189,6 +208,10 @@
                   <input type="file" name="banner_image" class="form-control" required>
                 </div>
 
+                <div class="mb-3">
+                    <label class="form-label">Upload Mobile Banner Image</label>
+                    <input type="file" name="mobile_banner_image" class="form-control">
+                </div>
 
                 <div class="mb-3">
                   <label class="form-label">Alt Image Name</label>

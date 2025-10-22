@@ -1,37 +1,64 @@
         <!-- banner area start -->
-        <section class="rs-banner-area rs-banner-two p-relative">
-            <div class="rs-banner-bg-thumb" data-background="assets/images/bg/banner-bg-03.png">
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xxl-8 col-xl-9 col-lg-9">
-                        <div class="rs-banner-wrapper">
-                            <div class="rs-banner-content">
-                                <h1 class="rs-banner-title wow fadeInUp" data-wow-delay=".3s" data-wow-duration=".7s">Delivering
-                                    superior solutions to complex engineering.
-                                </h1>
-                                <div class="rs-banner-descrip wow fadeInUp" data-wow-delay=".5s" data-wow-duration=".9s">
-                                    <p>Since 1989 we are serving customer successfully complete projects on time and within
-                                        budget. </p>
+        <section class="rs-banner-area rs-banner-four p-relative rs-swiper community-image-banner">
+         
+            <div class="rs-banner-slider-wrapper">
+                <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="2000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="fade" data-delay="1000" data-item="1" data-item-xl="1" data-item-lg="1" data-item-md="1" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="rs-banner-item-wrapper">
+                                <div class="rs-banner-bg-thumb" data-background="assets/images/bg/banner-bg-05.png">
                                 </div>
-                                <div class="rs-banner-btn wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1.1s">
-                                    <a class="rs-btn has-theme-red has-icon" href="contact.html">Explore More
-                                        <span class="icon-box">
-                                 <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                    <path
-                                       d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                    </path>
-                                 </svg>
-                                 <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                    <path
-                                       d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                    </path>
-                                 </svg>
-                              </span>
-                                    </a>
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-xxl-8 col-xl-10 col-lg-11">
+                                            <div class="rs-banner-item">
+                                                <div class="rs-banner-content">
+                                                    <span class="rs-banner-subtitle">
+                                          Community
+                                       </span>
+                                          
+                                                
+                                          
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
+                        <div class="swiper-slide">
+                            <div class="rs-banner-item-wrapper">
+                                <div class="rs-banner-bg-thumb" data-background="assets/images/bg/banner-bg-06.png">
+                                </div>
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-xxl-8 col-xl-10 col-lg-11">
+                                            <div class="rs-banner-item">
+                                                <div class="rs-banner-content">
+                                                    <span class="rs-banner-subtitle">
+                                          Community
+                                       </span>
+                                      
+                                                   
+                                                  
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- If we need navigation buttons -->
+                    <div class="rs-banner-navigation">
+                        <button class="swiper-button-prev rs-swiper-btn has-theme-red"><i
+                        class="fa-regular fa-arrow-left"></i></button>
+                        <button class="swiper-button-next rs-swiper-btn has-theme-red"><i
+                        class="fa-regular fa-arrow-right"></i></button>
+                    </div>
+                    <!-- if we need pagination -->
+                    <div class="rs-banner-pagination d-block d-md-none">
+                        <div class="swiper-pagination rs-pagination has-theme-red"></div>
                     </div>
                 </div>
             </div>

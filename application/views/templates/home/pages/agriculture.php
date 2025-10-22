@@ -154,12 +154,10 @@
                                     d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
                                     fill="#EA5501"></path>
                               </svg>
-                              About Us
+                              About Varun Berries
                            </span>
-                                    <h2 class="rs-section-title rs-split-text-enable split-in-fade">We work for you since 1989.
-                                        Industrial around the world</h2>
-                                    <p class="descrip">We solve worldwide industrial every problem, the heart of global landscape
-                                        the industry stands multidimensional electronic typesetting.</p>
+                                    <h2 class="rs-section-title rs-split-text-enable split-in-fade">Modern Farming, Fresh Produce</h2>
+                                    <p class="descrip">Started in October 2023 on 4 acres, Varun Berries has grown into a thriving 7-acre farm. We cultivate fresh, high-quality produce with a focus on quality, consistency, and innovation. Blueberries and Raspberries are coming soon as we continue to expand and diversify our crops.</p>
                                 </div>
                                 <div class="rs-about-author-info">
                                     <div class="rs-about-btn">

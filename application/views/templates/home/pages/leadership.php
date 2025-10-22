@@ -46,7 +46,7 @@
                         </svg>
                         OUR LEADERS
                      </span>
-                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Promoters of the group
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Promoters of the Group
                             </h2>
                         </div>
                     </div>
@@ -159,11 +159,15 @@
                                 <a href="team-details.html"><img src="assets/images/about/team-harsha.webp" alt="image"></a>
                             </div>
                             <div class="rs-team-content-wrapper">
-                                <div class="rs-team-content-box">
-                                    <h6 class="rs-team-title"><a href="team-details.html">Mr. Harsha Hanumara</a></h6>
-                                    <span class="rs-team-designation">Joint Managing Director - Varun Group</span>
-                                </div>
+                              <div class="rs-team-content-box">
+                                <h6 class="rs-team-title">
+                                  <a href="team-details.html">Mr. Harsha Hanumara</a>
+                                </h6>
+                                <span class="rs-team-designation">Joint Managing Director</span><br>
+                                <span class="rs-team-designation">Varun Group</span>
+                              </div>
                             </div>
+
                         </div>
                     </div>
 
@@ -175,7 +179,8 @@
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
                                     <h6 class="rs-team-title"><a href="team-details.html">Dr. Bangaru Raju</a></h6>
-                                    <span class="rs-team-designation">Vice President - Varun Health Centers</span>
+                                    <span class="rs-team-designation">Vice President</span><br>
+                                    <span class="rs-team-designation">Varun Health Centers</span>
                                 </div>
                             </div>
                         </div>
@@ -189,7 +194,8 @@
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
                                     <h6 class="rs-team-title"><a href="team-details.html">Mr. R.C. Raju</a></h6>
-                                    <span class="rs-team-designation">Executive Director - Varun Maruti</span>
+                                    <span class="rs-team-designation">Executive Director </span><br>
+                                    <span class="rs-team-designation">Varun Maruti</span>
                                 </div>
                             </div>
                         </div>
@@ -203,7 +209,8 @@
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
                                     <h6 class="rs-team-title"><a href="team-details.html">Mr. D. K. Raju</a></h6>
-                                    <span class="rs-team-designation">Executive Director - Nexa</span>
+                                    <span class="rs-team-designation">Executive Director </span><br>
+                                    <span class="rs-team-designation">Nexa</span>
                                 </div>
                             </div>
                         </div>
@@ -217,7 +224,8 @@
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
                                     <h6 class="rs-team-title"><a href="team-details.html">Mr. G. V. P. Raju</a></h6>
-                                    <span class="rs-team-designation">Vice President - Finance</span>
+                                    <span class="rs-team-designation">Vice President</span><br>
+                                    <span class="rs-team-designation">Finance</span>
                                 </div>
                             </div>
                         </div>
@@ -231,7 +239,8 @@
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
                                     <h6 class="rs-team-title"><a href="team-details.html">Mr.P.V.Satyanarayana</a></h6>
-                                    <span class="rs-team-designation">Executive Director - Varun Bajaj</span>
+                                    <span class="rs-team-designation">Executive Director</span><br>
+                                    <span class="rs-team-designation">Varun Bajaj</span>
                                 </div>
                             </div>
                         </div>
@@ -245,7 +254,8 @@
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
                                     <h6 class="rs-team-title"><a href="team-details.html">Mr. V. Subba Rao</a></h6>
-                                    <span class="rs-team-designation">Executive Director - Varun Trucking</span>
+                                    <span class="rs-team-designation">Executive Director</span><br>
+                                    <span class="rs-team-designation"> Varun Trucking</span>
                                 </div>
                             </div>
                         </div>
@@ -259,7 +269,8 @@
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
                                     <h6 class="rs-team-title"><a href="team-details.html">Mr.T.Vinod Kumar</a></h6>
-                                    <span class="rs-team-designation">Executive Director - Varun JCB</span>
+                                    <span class="rs-team-designation">Executive Director</span><br>
+                                    <span class="rs-team-designation"> Varun JCB</span>
                                 </div>
                             </div>
                         </div>
@@ -273,7 +284,8 @@
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
                                     <h6 class="rs-team-title"><a href="team-details.html">Mr.B.Chandra Sekhar</a></h6>
-                                    <span class="rs-team-designation">Executive Director - Varun JCB</span>
+                                    <span class="rs-team-designation"> Director </span><br>
+                                    <span class="rs-team-designation">Neon Motors, Neon Hyundai</span>
                                 </div>
                             </div>
                         </div>
@@ -287,7 +299,8 @@
                             <div class="rs-team-content-wrapper">
                                 <div class="rs-team-content-box">
                                     <h6 class="rs-team-title"><a href="team-details.html">Mr.K.Kapil</a></h6>
-                                    <span class="rs-team-designation">Executive Director - Varun JCB</span>
+                                     <span class="rs-team-designation">Managing Director</span><br>
+                                    <span class="rs-team-designation">Green Honda, BMW</span>
                                 </div>
                             </div>
                         </div>

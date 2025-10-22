@@ -64,9 +64,7 @@
                         <h2>Agriculture</h2>
                       </a>
                     </div>
-                  </li>
-               
-                  
+                  </li>                
                 </ul>
               </div>
           </div>
@@ -106,12 +104,11 @@
                                         </svg>
                                     </div>
                                     <div class="rs-counter-number-item">
-                                        <span class="rs-counter-number odometer" data-count="460">00</span>
+                                        <span class="rs-counter-number odometer" data-count="21500">00</span>
                                         <span class="prefix">+</span>
                                     </div>
                                 </div>
-                                <span class="rs-counter-title"><span class="large-text">Highly</span> Specialised <br>
-                           Employees</span>
+                                <span class="rs-counter-title"><span class="small-text">Number of Employees</span>
                             </div>
                         </div>
                     </div>
@@ -129,12 +126,11 @@
                                         </svg>
                                     </div>
                                     <div class="rs-counter-number-item">
-                                        <span class="rs-counter-number odometer" data-count="460">00</span>
+                                        <span class="rs-counter-number odometer" data-count="856">00</span>
                                         <span class="prefix">+</span>
                                     </div>
                                 </div>
-                                <span class="rs-counter-title"><span class="large-text">Highly</span> Specialised <br>
-                           Employees</span>
+                                <span class="rs-counter-title"><span class="small-text">Customer Touchpoints</span> 
                             </div>
                         </div>
                     </div>
@@ -152,12 +148,11 @@
                                         </svg>
                                     </div>
                                     <div class="rs-counter-number-item">
-                                        <span class="rs-counter-number odometer" data-count="460">00</span>
+                                        <span class="rs-counter-number odometer" data-count="25lakh">00</span>
                                         <span class="prefix">+</span>
                                     </div>
                                 </div>
-                                <span class="rs-counter-title"><span class="large-text">Highly</span> Specialised <br>
-                           Employees</span>
+                                <span class="rs-counter-title"><span class="small-text">Vehicles Serviced Anually</span> 
                             </div>
                         </div>
                     </div>
@@ -175,12 +170,12 @@
                                         </svg>
                                     </div>
                                     <div class="rs-counter-number-item">
-                                        <span class="rs-counter-number odometer" data-count="460">00</span>
+                                        <span class="rs-counter-number odometer" data-count="1,75,000">00</span>
                                         <span class="prefix">+</span>
                                     </div>
                                 </div>
-                                <span class="rs-counter-title"><span class="large-text">Highly</span> Specialised <br>
-                           Employees</span>
+                                <span class="rs-counter-title"><span class="small-text">Vehicles sold Annually<br>
+                           </span>
                             </div>
                         </div>
                     </div>
@@ -213,8 +208,7 @@
                         </span>
                                 <h2 class="rs-section-title rs-split-text-enable split-in-fade mb-20">Our clients and partners
                                 </h2>
-                                <p class="descrip">Welcome to Industrie, a leading industry innovator with a rich history
-                                    empowering industries and driving progress.</p>
+                                <p class="descrip">Trusted by businesses worldwide, our clients and partners drive growth and innovation together with us</p>
                             </div>
 
                             <div class="rs-brand-item-wrapper">
@@ -282,7 +276,7 @@
                         </svg>
                         Work Process
                      </span>
-                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Work Process Style 05</h2>
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Our Business Ethics</h2>
                         </div>
                     </div>
                 </div>
@@ -316,8 +310,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Expert Engineers</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Integrity in Every Deal</h5>
+                                <p class="descrip"> Conducting all transactions with honesty and transparency.</p>
                             </div>
                         </div>
                     </div>
@@ -356,8 +350,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Quality Control System</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Respectful Partnerships</h5>
+                                <p class="descrip">Valuing and treating every client and partner with equity.</p>
                             </div>
                         </div>
                     </div>
@@ -400,8 +394,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Satisfaction Guarantee</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Professional Excellence</h5>
+                                <p class="descrip">Maintaining the highest standards in behavior and work.</p>
                             </div>
                         </div>
                     </div>
@@ -430,8 +424,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">International Business</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Confidentiality & Trust</h5>
+                                <p class="descrip">Safeguarding sensitive information with utmost care.</p>
                             </div>
                         </div>
                     </div>
@@ -498,8 +492,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title"> Unrivalled Workmanship</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title"> Accountability </h5>
+                                <p class="descrip">Taking responsibility for decisions and outcomes.</p>
                             </div>
                         </div>
                     </div>
@@ -650,8 +644,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">High Professional Staff</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Client Commitment</h5>
+                                <p class="descrip">Ensuring every engagement delivers value and trust.</p>
                             </div>
                         </div>
                     </div>
@@ -686,41 +680,46 @@
                                         <div class="rs-accordion-item">
                                             <h4 class="accordion-header" id="headingOne">
                                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                    01. Why is sand important for industry?
+                                                    01. What is Varun Group?
                                                     <span class="accordion-btn"></span>
                                                 </button>
                                             </h4>
                                             <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExampleOne">
-                                                <div class="accordion-body"> Randomised words which don’t look even slightly
-                                                    believable. If you are going to use a passage of Lorem Ipsum, you need to be sure
-                                                    there isn’t anything.
+                                                <div class="accordion-body">Varun Group is a diversified business conglomerate with over 75 years of experience in automotive, healthcare, agriculture, and other industries.
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="rs-accordion-item">
                                             <h6 class="accordion-header" id="headingTwo">
                                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                    02. Can I switch to a different plan?
+                                                    02. What industries does Varun Group operate in?
                                                     <span class="accordion-btn"></span>
                                                 </button>
                                             </h6>
                                             <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExampleOne">
-                                                <div class="accordion-body">Randomised words which don’t look even slightly
-                                                    believable. If you are going to use a passage of Lorem Ipsum, you need to be sure
-                                                    there isn’t anything.</div>
+                                                <div class="accordion-body">We operate in automotive, healthcare, agriculture, infrastructure, finance, and agriculture, providing products and services with a focus on innovation and quality.</div>
                                             </div>
                                         </div>
                                         <div class="rs-accordion-item">
                                             <h6 class="accordion-header" id="headingThree">
                                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                    03. What should I wear for an industry treatment?
+                                                    03. Does Varun Group offer career opportunities?
                                                     <span class="accordion-btn"></span>
                                                 </button>
                                             </h6>
                                             <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExampleOne">
-                                                <div class="accordion-body">Randomised words which don’t look even slightly
-                                                    believable. If you are going to use a passage of Lorem Ipsum, you need to be sure
-                                                    there isn’t anything.</div>
+                                                <div class="accordion-body">Yes, we provide various career opportunities across our industries. Interested candidates can apply through our careers page.</div>
+                                            </div>
+                                        </div>
+                                        <div class="rs-accordion-item">
+                                            <h6 class="accordion-header" id="headingThree">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                    04. Who is the owner of Varun Group?
+                                                    <span class="accordion-btn"></span>
+                                                </button>
+                                            </h6>
+                                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExampleOne">
+                                                <div class="accordion-body">The owner and Chairman of Varun Group is Mr. Prabhu Kishore, who has been leading the Group for over 50 years, building its legacy across multiple industries with a focus on trust, innovation, and excellence.</div>
                                             </div>
                                         </div>
                                     </div>

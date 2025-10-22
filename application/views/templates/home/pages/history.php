@@ -159,7 +159,17 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                 <div class="tab-scroll-wrapper"  id="tabScrollContainer">
                                     <ul class="nav nav-pills d-flex flex-nowrap justify-content-start align-items-center gap-2" id="pills-tab" role="tablist">
                                         <li class="nav-item" role="presentation">
-                                            <button class="nav-link active" id="year-1982-tab" data-bs-toggle="pill" data-bs-target="#year-1982" type="button" role="tab" aria-selected="false" tabindex="-1">
+                                            <button class="nav-link active" id="year-1950-tab" data-bs-toggle="pill" data-bs-target="#year-1950" type="button" role="tab" aria-selected="false" tabindex="-1">
+                                                In 1950
+                                            </button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link " id="year-1960-tab" data-bs-toggle="pill" data-bs-target="#year-1960" type="button" role="tab" aria-selected="false" tabindex="-1">
+                                                In 1960
+                                            </button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link" id="year-1982-tab" data-bs-toggle="pill" data-bs-target="#year-1982" type="button" role="tab" aria-selected="false" tabindex="-1">
                                                 In 1982
                                             </button>
                                         </li>
@@ -171,6 +181,11 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                         <li class="nav-item" role="presentation">
                                             <button class="nav-link"  id="year-1992-tab" data-bs-toggle="pill" data-bs-target="#year-1992" type="button" role="tab" aria-selected="false" tabindex="-1">
                                                 In 1992
+                                            </button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-1993-tab" data-bs-toggle="pill" data-bs-target="#year-1993" type="button" role="tab" aria-selected="false" tabindex="-1">
+                                                In 1993
                                             </button>
                                         </li>
                                         <li class="nav-item" role="presentation">
@@ -209,12 +224,32 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                             </button>
                                         </li>
                                          <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-20161-tab" data-bs-toggle="pill" data-bs-target="#year-20161" type="button" role="tab" aria-selected="true">
+                                                In 2016
+                                            </button>
+                                        </li>
+                                         <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-20162-tab" data-bs-toggle="pill" data-bs-target="#year-20162" type="button" role="tab" aria-selected="true">
+                                                In 2016
+                                            </button>
+                                        </li>
+                                         <li class="nav-item" role="presentation">
                                             <button class="nav-link"  id="year-2021-tab" data-bs-toggle="pill" data-bs-target="#year-2021" type="button" role="tab" aria-selected="true">
                                                 In 2021
                                             </button>
                                         </li>
                                          <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-20211-tab" data-bs-toggle="pill" data-bs-target="#year-20211" type="button" role="tab" aria-selected="true">
+                                                In 2021
+                                            </button>
+                                        </li>
+                                         <li class="nav-item" role="presentation">
                                             <button class="nav-link"  id="year-2023-tab" data-bs-toggle="pill" data-bs-target="#year-2023" type="button" role="tab" aria-selected="true">
+                                                In 2023
+                                            </button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link"  id="year-20231-tab" data-bs-toggle="pill" data-bs-target="#year-20231" type="button" role="tab" aria-selected="true">
                                                 In 2023
                                             </button>
                                         </li>
@@ -233,29 +268,42 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
 
                             <div class="rs-history-tab-content-wrapper">
                                 <div class="tab-content rs-history-tab-anim" id="pills-tabContent">
-                                    <div class="tab-pane fade show active" id="year-1982" role="tabpanel" aria-labelledby="year-1982-tab" tabindex="0">
+                                    <div class="tab-pane fade show active" id="year-1950" role="tabpanel" aria-labelledby="year-1950-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
                                                 <img src="assets/images/about/varun-group-about-us-construction.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Construction of Residential Apartments</h5>
+                                                <h5 class="rs-history-tab-title">Foundation of Padamaja Commercial Corporation</h5>
                                                 <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
+                                                    The company began with Zetor tractors, empowering farmers and fueling agricultural progress. In its early years, PCC focused on importing and distributing farming equipment and industrial goods, bridging modern technology with local needs. This foundation of trust, service, and innovation set the stage for the Varun Group’s growth into multiple industries in the decades to come.</p>
+                                      
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade " id="year-1960" role="tabpanel" aria-labelledby="year-1960-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/about/varun-group-about-us-construction.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title">Expanding Business Horizons</h5>
+                                                <p>
+                                                    PCC diversified into automobile distribution, introducing iconic brands like Hindustan Motors, Fiat, Royal Enfield, and Mitsubishi, bringing mobility and progress to communities across Andhra Pradesh.</p>
+                                               
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade " id="year-1982" role="tabpanel" aria-labelledby="year-1982-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/about/varun-group-about-us-construction.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title">Residential Construction</h5>
+                                                <p>
+                                                    In 1982, Varun Group expanded into residential construction, marking its foray into real estate. With a focus on quality, innovation, and modern living, the Group built homes that combined comfort with trust.</p>
+                                              
                                             </div>
                                         </div>
                                     </div>
@@ -265,23 +313,10 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                                 <img src="assets/images/about/varun-group-about-us-vf.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Varun Finance</h5>
+                                                <h5 class="rs-history-tab-title">Varun Finance and Lakshmi Finance</h5>
                                                 <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
+                                                    Varun Group diversified into financial services with the launch of Varun Finance and Lakshmi Finance, providing trusted lending solutions and supporting growth for individuals and businesses alike.</p>
+                                             
                                             </div>
                                         </div>
                                     </div>
@@ -293,21 +328,21 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Varun Bajaj</h5>
                                                 <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
+                                                   Varun Group expanded its automotive presence with the launch of Varun Bajaj under Varun Motors. This milestone marked the Group’s entry into the two-wheeler segment, offering quality products and trusted service to riders across the region.</p>
+                                              
+                                            </div>
+                                        </div>
+                                    </div>
+                                     <div class="tab-pane fade" id="year-1993" role="tabpanel" aria-labelledby="year-1993-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/about/varun-group-about-us-bajaj.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title"> Varsha Builders</h5>
+                                                <p>
+                                                   Varsha Builders was established, marking the Group’s entry into real estate. The company focused on delivering quality residential and commercial projects with modern design and lasting trust.</p>
+                                              
                                             </div>
                                         </div>
                                     </div>
@@ -319,21 +354,8 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Varun Maruti</h5>
                                                 <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
+                                                    Varun Maruti was launched through a strategic partnership with Maruti Suzuki, establishing a strong presence in the passenger car segment and setting new benchmarks in sales and service excellence.</p>
+                                               
                                             </div>
                                         </div>
                                     </div>
@@ -345,21 +367,8 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Varun JCB</h5>
                                                 <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
+                                                    A collaboration with JCB expanded the Group’s footprint in construction and heavy equipment, providing advanced machinery and reliable support to clients across industries. </p>
+                                               
                                             </div>
                                         </div>
                                     </div>
@@ -397,21 +406,8 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Varun Hospitality Novotel Hotels, Taj (2018) & INOX</h5>
                                                 <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
+                                                    Varun Novotel was launched, marking the entry into hospitality with world-class accommodations and services, catering to both business and leisure travelers.</p>
+                                            
                                             </div>
                                         </div>
                                     </div>
@@ -421,23 +417,10 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                                 <img src="assets/images/about/varun-group-about-us-bhartbenz.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Bharat Benz</h5>
+                                                <h5 class="rs-history-tab-title">Varun Trucking</h5>
                                                 <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
+                                                    Varun Trucking began operations with BharatBenz, providing reliable commercial transport solutions and enhancing logistics capabilities across regions</p>
+                                           
                                             </div>
                                         </div>
                                     </div>
@@ -447,23 +430,10 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                                 <img src="assets/images/about/varun-group-about-us-mahindra.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Mahindra</h5>
+                                                <h5 class="rs-history-tab-title">Neon Mahindra</h5>
                                                 <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
+                                                    Neon Mahindra was launched, strengthening the Group’s automotive portfolio and bringing Mahindra’s trusted vehicles to new markets. With a focus on customer satisfaction, quality service, and innovative solutions, the venture set new benchmarks in automotive retail.</p>
+                                           
                                             </div>
                                         </div>
                                     </div>
@@ -473,23 +443,36 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                                 <img src="assets/images/about/varun-group-about-us-suzuki.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Suzuki & TVS 2Wheeler</h5>
+                                                <h5 class="rs-history-tab-title">Suzuki Two-Wheelers</h5>
                                                 <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
+                                                    Suzuki Two-Wheelers joined the portfolio, delivering top-quality motorcycles and scooters with exceptional service, performance, and a commitment to rider satisfaction.</p>
+                                               
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="year-20161" role="tabpanel" aria-labelledby="year-20161-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/about/varun-group-about-us-suzuki.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title"> Olive TVS</h5>
+                                                <p>
+                                                    The Group entered the TVS Two-Wheelers segment, offering a range of scooters and motorcycles designed for performance, reliability, and a superior riding experience for every rider.</p>
+                                               
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="year-20162" role="tabpanel" aria-labelledby="year-20162-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/about/varun-group-about-us-suzuki.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title"> Taj Gateway</h5>
+                                                <p>
+                                                    Stepping into luxury hospitality, Taj Gateway redefined guest experiences with elegant stays, thoughtful services, and unforgettable moments that set new standards in hospitality.</p>
+                                               
                                             </div>
                                         </div>
                                     </div>
@@ -499,23 +482,23 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                                 <img src="assets/images/about/varun-group-about-us-bmw.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">BMW</h5>
+                                                <h5 class="rs-history-tab-title">Varsha Auto Haus</h5>
                                                 <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
+                                                    Varsha Auto Haus partnered with BMW, bringing luxury automobiles to discerning customers and elevating the Group’s presence in the premium automotive segment.</p>
+                                       
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="year-20211" role="tabpanel" aria-labelledby="year-20211-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/about/varun-group-about-us-bmw.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title">Neon Hyundai</h5>
+                                                <p>
+                                                   The Group entered the Hyundai business with Neon Hyundai, offering modern, high-quality vehicles, advanced technology, and trusted service for an exceptional customer experience.</p>
+                                       
                                             </div>
                                         </div>
                                     </div>
@@ -525,23 +508,23 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                                 <img src="assets/images/about/varun-group-about-us-triump.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Triumph</h5>
+                                                <h5 class="rs-history-tab-title">Varun Berries</h5>
                                                 <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
+                                                   Venturing into agriculture, Varun Berries marked a new chapter, bringing premium berries from Ooty to customers with sustainable farming, innovation, and a focus on quality and freshness.</p>
+                                             
+                                            </div>
+                                        </div>
+                                    </div>
+                                        <div class="tab-pane fade" id="year-20231" role="tabpanel" aria-labelledby="year-20231-tab" tabindex="0">
+                                        <div class="rs-history-tab-item">
+                                            <div class="rs-history-tab-thumb">
+                                                <img src="assets/images/about/varun-group-about-us-triump.webp" alt="image">
+                                            </div>
+                                            <div class="rs-history-tab-content">
+                                                <h5 class="rs-history-tab-title">Triumph Motorcycles</h5>
+                                                <p>
+                                                   The Group entered the premium motorcycle segment with Triumph, offering iconic bikes and delivering an exhilarating riding experience for enthusiasts.</p>
+                                             
                                             </div>
                                         </div>
                                     </div>
@@ -551,23 +534,10 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                                 <img src="assets/images/about/varun-group-about-us-mg.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">MG Motor</h5>
+                                                <h5 class="rs-history-tab-title">MG Motors</h5>
                                                 <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
+                                                   MG Motors was launched, expanding the Group’s presence in the premium and electric car segment, delivering innovative vehicles and exceptional experiences to customers.</p>
+                                               
                                             </div>
                                         </div>
                                     </div>
@@ -607,7 +577,7 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                               </svg>
                               Statement of Kesavarao Choudhary
                            </span>
-                                    <h2 class="rs-section-title rs-split-text-enable split-in-fade mb-20" style="font-size: 30px;">" Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                                    <h2 class="rs-section-title rs-split-text-enable split-in-fade mb-20" style="font-size: 30px;">"True progress is measured not by wealth or power, but by the lives we uplift and the legacy of hope we leave behind."
                                     </h2>
                                 </div>
                             </div>
@@ -736,10 +706,10 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                               d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
                               fill="#EA5501"></path>
                         </svg>
-                        Our Benefit
+                        Key Strengths
                      </span>
-                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Always powering your business for
-                                <span class="rs-black"> over 30 years</span>
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Always powering your business for 
+                                <span class="rs-black"> over 75 years</span>
                             </h2>
                         </div>
                     </div>
@@ -774,8 +744,8 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Expert Engineers</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Commitment to Excellence</h5>
+                                <p class="descrip">Striving for the highest standards in everything we do.</p>
                             </div>
                         </div>
                     </div>
@@ -814,8 +784,8 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Quality Control System</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Innovation & Progress</h5>
+                                <p class="descrip">Embracing ideas that shape the future.</p>
                             </div>
                         </div>
                     </div>
@@ -858,8 +828,8 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Satisfaction Guarantee</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Customer First </h5>
+                                <p class="descrip">Satisfaction at the heart of everything.</p>
                             </div>
                         </div>
                     </div>
@@ -888,8 +858,8 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">International Business</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Integrity & Trust</h5>
+                                <p class="descrip">Building relationships that last. </p>
                             </div>
                         </div>
                     </div>
@@ -956,8 +926,8 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title"> Unrivalled Workmanship</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Skilled Professionals</h5>
+                                <p class="descrip">Passion and expertise powering growth.</p>
                             </div>
                         </div>
                     </div>
@@ -1108,8 +1078,8 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">High Professional Staff</h5>
-                                <p class="descrip">Modern society consumes consectetur adipisicing elitid. </p>
+                                <h5 class="rs-category-title">Sustainable Practices</h5>
+                                <p class="descrip">Balancing business growth with responsibility to society and environment.</p>
                             </div>
                         </div>
                     </div>

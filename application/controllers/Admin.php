@@ -20,7 +20,7 @@ class Admin extends CI_Controller
     public function dashboard()
     {
         $this->load->model('AdminModel');
-        $data['title']  = 'Dashboard - VarunBajaj';
+        $data['title']  = 'Dashboard - VarunGroup';
         $data['page']   = 'templates/admin/dashboard';
         $this->load->view('templates/admin/main', $data);
     }
@@ -171,7 +171,7 @@ class Admin extends CI_Controller
     {
         $this->load->model('AdminModel');
         $page = $this->input->get('page'); // e.g., ?page=home
-        $data['title']   = 'Manage Banners - VarunBajaj';
+        $data['title']   = 'Manage Banners - VarunGroup';
         $data['page']    = 'templates/admin/banners/banner';
         $data['pages']   = $this->pages;   
         $data['selected_page'] = $page ?: 'all';
@@ -208,8 +208,6 @@ class Admin extends CI_Controller
                 $upload_data = $this->upload->data();
                 $banner_data['image'] = $upload_data['file_name'];
             }
-
-          
 
             if ($this->AdminModel->add_banner($banner_data)) {
                 $this->session->set_flashdata('success', 'Banner added successfully.');

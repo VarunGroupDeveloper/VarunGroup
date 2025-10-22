@@ -32,41 +32,31 @@
                     <div class="col-xxl-12 col-xl-8 col-lg-8">
                         <div class="rs-shop-meta-wrapper">
                           
-                            <div class="rs-shop-filter-wrapper">
-                                <div class="row">
-                                    <div class="rs-shorting-select">
-                                        <select name="subject">
-                                              <option value="all">All Years</option>
-                                              <option>2025</option>
-                                              <option>2024</option>
-                                              <option>2023</option>
-                                              <option>2022</option>
-                                              <option>2021</option>
-                                              <option>2020</option>
-                                              <option>2019</option>
-                                              <option>2018</option>
-                                              <option>2017</option>
-                                              <option>2016</option>
-                                              <option>2015</option>
-                                              <option>2014</option>
-                                              <option>2013</option>
-                                              <option>2012</option>
-                                              <option>2011</option>
-                                              <option>2010</option>
-                                        </select>
-                                    </div>
-                                    <div class="rs-shorting-select">
-                                        <select name="subject">
-                                              <option value="all">All Events</option>
-                                              <option value="Green Park">Green Park</option>
-                                              <option value="Health Centres">Health Centres</option>
-                                              <option value="Skill Development">Skill Development</option>
-                                              <option value="Scholarships">Scholarships</option>
-                                              <option value="Medical Camps">Medical Camps</option>
-                                        </select>
-                                    </div>
-                                </div>
-                            </div>
+                          <!-- Filter Wrapper -->
+          <div class="rs-shop-filter-wrapper">
+            <div class="row align-items-center g-3">
+
+              <!-- From Year -->
+              <div class="col-md-4 col-sm-6">
+                <label for="fromYear" class="form-label">From Year:</label>
+                <input type="text" id="fromYear" name="fromYear" placeholder="Select Year" class="year-input form-control">
+              </div>
+
+              <!-- To Year -->
+              <div class="col-md-4 col-sm-6">
+                <label for="toYear" class="form-label">To Year:</label>
+                <input type="text" id="toYear" name="toYear" placeholder="Select Year" class="year-input form-control">
+              </div>
+
+              <!-- Event Dropdown -->
+              <div class="col-md-3 col-sm-6">
+                <label for="eventSelect" class="form-label">Events:</label>
+                <select name="subject"> <option value="all">All Events</option> <option value="Green Park">Green Park</option> <option value="Health Centres">Health Centres</option> <option value="Skill Development">Skill Development</option> <option value="Scholarships">Scholarships</option> <option value="Medical Camps">Medical Camps</option> </select>
+              </div>
+
+            </div>
+          </div>
+          <!-- /Filter Wrapper -->
                         </div>
                     </div>
                 </div>
