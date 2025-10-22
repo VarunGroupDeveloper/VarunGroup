@@ -106,11 +106,11 @@
                                         </svg>
                                     </div>
                                     <div class="rs-counter-number-item">
-                                        <span class="rs-counter-number odometer" data-count="460">00</span>
+                                        <span class="rs-counter-number odometer" data-count="21500">00</span>
                                         <span class="prefix">+</span>
                                     </div>
                                 </div>
-                                <span class="rs-counter-title"><span class="large-text">Highly</span> Specialised <br>
+                                <span class="rs-counter-title"><span class="large-text">Number of</span> <br>
                            Employees</span>
                             </div>
                         </div>
@@ -129,12 +129,12 @@
                                         </svg>
                                     </div>
                                     <div class="rs-counter-number-item">
-                                        <span class="rs-counter-number odometer" data-count="460">00</span>
+                                        <span class="rs-counter-number odometer" data-count="856">00</span>
                                         <span class="prefix">+</span>
                                     </div>
                                 </div>
-                                <span class="rs-counter-title"><span class="large-text">Highly</span> Specialised <br>
-                           Employees</span>
+                                <span class="rs-counter-title"><span class="large-text">Customer</span> Touchpoints <br>
+                           </span>
                             </div>
                         </div>
                     </div>
@@ -152,12 +152,12 @@
                                         </svg>
                                     </div>
                                     <div class="rs-counter-number-item">
-                                        <span class="rs-counter-number odometer" data-count="460">00</span>
-                                        <span class="prefix">+</span>
+                                        <span class="rs-counter-number odometer" data-count="25">00</span>
+                                        <span class="prefix">Lakhs+</span>
                                     </div>
                                 </div>
-                                <span class="rs-counter-title"><span class="large-text">Highly</span> Specialised <br>
-                           Employees</span>
+                                <span class="rs-counter-title"><span class="large-text">Vehicles</span> Serviced <br>
+                           Annually</span>
                             </div>
                         </div>
                     </div>
