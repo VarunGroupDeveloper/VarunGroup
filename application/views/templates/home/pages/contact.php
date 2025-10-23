@@ -8,13 +8,13 @@
                     <div class="col-xxl-6 col-xl-8 col-lg-8">
                         <div class="rs-breadcrumb-content-wrapper">
                             <div class="rs-breadcrumb-title-wrapper">
-                                <h1 class="rs-breadcrumb-title">Contact Two</h1>
+                                <h1 class="rs-breadcrumb-title">Contact</h1>
                             </div>
                             <div class="rs-breadcrumb-menu">
                                 <nav>
                                     <ul>
                                         <li><span><a href="index.html">Home</a></span></li>
-                                        <li><span>Contact Two</span></li>
+                                        <li><span>Contact</span></li>
                                     </ul>
                                 </nav>
                             </div>
