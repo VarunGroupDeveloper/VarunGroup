@@ -271,7 +271,7 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                     <div class="tab-pane fade show active" id="year-1950" role="tabpanel" aria-labelledby="year-1950-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/about/varun-group-about-us-construction.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-padamaja-commercial-corporation.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Foundation of Padamaja Commercial Corporation</h5>
@@ -297,7 +297,7 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                     <div class="tab-pane fade " id="year-1982" role="tabpanel" aria-labelledby="year-1982-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/about/varun-group-about-us-construction.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-Residential-Construction.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Residential Construction</h5>
@@ -336,7 +336,7 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                      <div class="tab-pane fade" id="year-1993" role="tabpanel" aria-labelledby="year-1993-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/about/varun-group-about-us-bajaj.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-varsha-builders.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title"> Varsha Builders</h5>
@@ -453,7 +453,7 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                     <div class="tab-pane fade" id="year-20161" role="tabpanel" aria-labelledby="year-20161-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/about/varun-group-about-us-suzuki.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-tvs.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title"> Olive TVS</h5>
@@ -466,7 +466,7 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                     <div class="tab-pane fade" id="year-20162" role="tabpanel" aria-labelledby="year-20162-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/about/varun-group-about-us-suzuki.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-taj.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title"> Taj Gateway</h5>
@@ -492,7 +492,7 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                     <div class="tab-pane fade" id="year-20211" role="tabpanel" aria-labelledby="year-20211-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/about/varun-group-about-us-bmw.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-hyundai.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Neon Hyundai</h5>
@@ -505,7 +505,7 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
                                      <div class="tab-pane fade" id="year-2023" role="tabpanel" aria-labelledby="year-2023-tab" tabindex="0">
                                         <div class="rs-history-tab-item">
                                             <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/about/varun-group-about-us-triump.webp" alt="image">
+                                                <img src="assets/images/about/varun-group-about-us-berries.webp" alt="image">
                                             </div>
                                             <div class="rs-history-tab-content">
                                                 <h5 class="rs-history-tab-title">Varun Berries</h5>
@@ -552,7 +552,7 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
         <!-- history area start -->
 
    
-                <!-- progress area start -->
+        <!-- progress area start -->
         <section class="rs-progress-area rs-progress-two ">
             <div class="rs-progress-bg-thumb" data-background="assets/images/bg/progress-bg-1.png"></div>
             <div class="rs-progress-shape">
@@ -692,7 +692,7 @@ $img2 = slide_img(isset($banners)?$banners:[], 1, 'assets/images/about/about-us-
         </section>
         <!-- team area end -->
 
-                <!-- category area start -->
+        <!-- category area start -->
         <section class="rs-category-area section-space rs-category-one has-theme-orange">
             <div class="rs-category-bg-thumb" data-background="assets/images/about/varungroup_aboutus_banner.webp"></div>
             <div class="container">

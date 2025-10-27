@@ -39,11 +39,11 @@
                                         d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
                                         fill="#EA5501"></path>
                                 </svg>
-                                Global Branch
+                                Contact Us
                             </span>
                             <h2 class="rs-section-title rs-split-text-enable split-in-fade mb-10">Get in touch with our
                                 team</h2>
-                            <p>We have the team and know-how to help scale 10x faster.</p>
+                       
                         </div>
                     </div>
                 </div>
@@ -51,171 +51,9 @@
                     <div class="col-12">
                         <div class="rs-contact-wrapper">
                             <div class="rs-contact-thumb">
-                                <img src="assets/images/contact/contact-thumb-05.png" alt="image">
+                                <img src="assets/images/contact/map-banner-final.webp" alt="image">
                             </div>
-                            <div class="rs-contact-ripple-wrapper">
-                                <div class="rs-ripple-item ripple-1">
-                                    <div class="rs-ripple-figure">
-                                        <div class="pre-title">
-                                            <h5 class="title"> San Francisco </h5>
-                                        </div>
-                                        <!-- Start Description -->
-                                        <div class="ripple-desc">
-                                            <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                        </div>
-                                        <!-- End Description -->
-                                    </div>
-                                    <div class="pre-circle-ripple"></div>
-                                </div>
-                                <div class="mobile_item">
-                                    <i class="remove-icon ri-close-line"></i>
-                                    <div class="pre-title">
-                                        <h5 class="title"> San Francisco </h5>
-                                    </div>
-                                    <div class="ripple-desc">
-                                        <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                    </div>
-                                </div>
-                                <div class="rs-ripple-item ripple-2">
-                                    <div class="rs-ripple-figure">
-                                        <div class="pre-title">
-                                            <h5 class="title"> Denver </h5>
-                                        </div>
-                                        <!-- Start Description -->
-                                        <div class="ripple-desc">
-                                            <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                        </div>
-                                        <!-- End Description -->
-                                    </div>
-                                    <div class="pre-circle-ripple"></div>
-                                </div>
-                                <div class="mobile_item">
-                                    <i class="remove-icon ri-close-line"></i>
-                                    <div class="pre-title">
-                                        <h5 class="title"> Denver</h5>
-                                    </div>
-                                    <div class="ripple-desc">
-                                        <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                    </div>
-                                </div>
-                                <div class="rs-ripple-item ripple-3">
-                                    <div class="rs-ripple-figure">
-
-                                        <div class="pre-title">
-                                            <h5 class="title"> Seattle </h5>
-                                        </div>
-
-                                        <!-- Start Description -->
-
-                                        <div class="ripple-desc">
-                                            <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                        </div>
-                                        <!-- End Description -->
-                                    </div>
-                                    <div class="pre-circle-ripple"></div>
-                                </div>
-                                <div class="mobile_item">
-                                    <i class="remove-icon ri-close-line"></i>
-                                    <div class="pre-title">
-                                        <h5 class="title"> Seattle </h5>
-                                    </div>
-                                    <div class="ripple-desc">
-                                        <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                    </div>
-                                </div>
-                                <div class="rs-ripple-item ripple-4">
-                                    <div class="rs-ripple-figure">
-                                        <div class="pre-title">
-                                            <h5 class="title"> Chicago </h5>
-                                        </div>
-                                        <!-- Start Description -->
-                                        <div class="ripple-desc">
-                                            <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                        </div>
-                                        <!-- End Description -->
-                                    </div>
-                                    <div class="pre-circle-ripple"></div>
-                                </div>
-                                <div class="mobile_item">
-                                    <i class="remove-icon ri-close-line"></i>
-                                    <div class="pre-title">
-                                        <h5 class="title"> Chicago </h5>
-                                    </div>
-                                    <div class="ripple-desc">
-                                        <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                    </div>
-                                </div>
-                                <div class="rs-ripple-item ripple-5">
-                                    <div class="rs-ripple-figure">
-                                        <div class="pre-title">
-                                            <h5 class="title"> New York </h5>
-                                        </div>
-                                        <!-- Start Description -->
-                                        <div class="ripple-desc">
-                                            <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                        </div>
-                                        <!-- End Description -->
-                                    </div>
-                                    <div class="pre-circle-ripple"></div>
-                                </div>
-                                <div class="mobile_item">
-                                    <i class="remove-icon ri-close-line"></i>
-                                    <div class="pre-title">
-                                        <h5 class="title">New York </h5>
-                                    </div>
-                                    <div class="ripple-desc">
-                                        <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                    </div>
-                                </div>
-                                <div class="rs-ripple-item ripple-6">
-                                    <div class="rs-ripple-figure">
-
-                                        <div class="pre-title">
-                                            <h5 class="title"> Australia </h5>
-                                        </div>
-
-                                        <!-- Start Description -->
-
-                                        <div class="ripple-desc">
-                                            <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                        </div>
-                                        <!-- End Description -->
-                                    </div>
-                                    <div class="pre-circle-ripple"></div>
-                                </div>
-                                <div class="mobile_item">
-                                    <i class="remove-icon ri-close-line"></i>
-                                    <div class="pre-title">
-                                        <h5 class="title"> Australia </h5>
-                                    </div>
-                                    <div class="ripple-desc">
-                                        <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                    </div>
-                                </div>
-                                <div class="rs-ripple-item ripple-7">
-                                    <div class="rs-ripple-figure">
-
-                                        <div class="pre-title">
-                                            <h5 class="title"> Bangladesh </h5>
-                                        </div>
-                                        <!-- Start Description -->
-                                        <div class="ripple-desc">
-                                            <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                        </div>
-                                        <!-- End Description -->
-                                    </div>
-                                    <div class="pre-circle-ripple"></div>
-                                </div>
-                                <div class="mobile_item">
-                                    <i class="remove-icon ri-close-line"></i>
-                                    <div class="pre-title">
-                                        <h5 class="title"> Bangladesh </h5>
-                                    </div>
-                                    <div class="ripple-desc">
-                                        <p class="description"> 5214F Diamond Heights Blvd #553, USA</p>
-                                    </div>
-                                </div>
-                            </div>
+                          
                         </div>
                     </div>
                 </div>
@@ -295,31 +133,59 @@
         </section>
         <!-- contact area start -->
 
-        <!-- contact form area start -->
-        <section class="rs-contact-form-area rs-contact-ten section-space-bottom">
+        <!-- faq area start -->
+        <section class="rs-faq-area section-space-bottom rs-faq-three">
+          
+            <div class="rs-faq-shape">
+                <img src="assets/images/shape/faq-shape.png" alt="image">
+            </div>
             <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-12">
-                        <div class="rs-contact-form">
-                            <h3 class="rs-contact-form-title">Get in Touch</h3>
-                            <p class="descrip">The point of using Lorem Ipsum is that it has more-or-less packages
-                                normal make a type specimen book it has survived</p>
+                <div class="row align-items-xl-center g-5">
+                    <div class="col-xl-5 col-lg-6">
+                        <div class="rs-contact-form rs-contact-one has-theme-green wow fadeInRight" data-wow-delay=".3s" data-wow-duration="1s">
+                            <div class="rs-contact-thumb">
+                                <img src="assets/images/bg/contact-bg-05.png" alt="">
+                            </div>
+                            <h3 class="rs-contact-form-title mb-10">Ask Us a Question…</h3>
+                            
                             <form id="contact-form" action="assets/mailer.php" method="POST">
-                                <div class="row g-5">
-                                    <div class="col-md-4">
+                                <div class="row g-4">
+                                    <div class="col-md-12">
                                         <div class="rs-contact-input">
                                             <input id="name" name="name" type="text" placeholder="Full Name">
                                         </div>
                                     </div>
-                                    <div class="col-md-4">
+                                    <div class="col-md-12">
                                         <div class="rs-contact-input">
-                                            <input id="email" name="email" type="email" placeholder="Email Address">
+                                            <input id="number" name="number" type="text" placeholder="Phone Number">
                                         </div>
                                     </div>
-                                    <div class="col-md-4">
+                                    <div class="col-md-12">
                                         <div class="rs-contact-input">
-                                            <input id="phone" name="phone" type="text" placeholder="Phone Number">
+                                            <input id="city" name="city" type="text" placeholder="Your City">
                                         </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <select class="select-option">
+                                            <option>Select Reason</option>
+                                            <option>Sales</option>
+                                            <option>Service</option>
+                                            <option>Complaint</option>
+                                            <option>Others</option>
+                                        </select>
+                                    </div>
+                                      <div class="col-md-12">
+                                        <select class="select-option">
+                                            <option>Select Company</option>
+                                            <option>Varun Bajaj</option>
+                                            <option>Varun KTM</option>
+                                            <option>Varun Maruti</option>
+                                            <option>Varun Chetak</option>
+                                            <option>Varun JCB</option>
+                                            <option>Varun Trucking</option>
+                                            <option>Novotel</option>
+                                            <option>Varsha Marina </option>
+                                        </select>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="rs-contact-input">
@@ -328,7 +194,7 @@
                                     </div>
                                     <div class="col-md-12">
                                         <div class="rs-contact-btn">
-                                            <button type="submit" class="rs-btn has-theme-orange">Send Message</button>
+                                            <button type="submit" class="rs-btn has-theme-yellow">Send Message</button>
                                         </div>
                                     </div>
                                 </div>
@@ -336,9 +202,12 @@
                             <div id="form-messages"></div>
                         </div>
                     </div>
+                    <div class="col-xl-7 col-lg-6">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3800.4831490478514!2d83.31669542591534!3d17.721859843082036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a394343999dba2d%3A0x3bb6960259aa47e7!2sMaruti%20Suzuki%20ARENA%20(Varun%20Motors%2C%20Visakhapatnam%2C%20Siripuram)!5e0!3m2!1sen!2sin!4v1761114775468!5m2!1sen!2sin" width="650" height="700" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
                 </div>
             </div>
         </section>
-        <!-- contact form area end -->
+        <!-- faq area end -->
 
 
