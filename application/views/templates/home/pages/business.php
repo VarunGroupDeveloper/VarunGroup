@@ -108,7 +108,8 @@
                                         <span class="prefix">+</span>
                                     </div>
                                 </div>
-                                <span class="rs-counter-title"><span class="small-text">Number of Employees</span>
+                                <span class="rs-counter-title"><span class="large-text">Number of</span> Employees<br>
+                           </span>
                             </div>
                         </div>
                     </div>
@@ -130,7 +131,8 @@
                                         <span class="prefix">+</span>
                                     </div>
                                 </div>
-                                <span class="rs-counter-title"><span class="small-text">Customer Touchpoints</span> 
+                                <span class="rs-counter-title"><span class="large-text">Customer</span> Touchpoints <br>
+                           </span>
                             </div>
                         </div>
                     </div>
@@ -148,11 +150,12 @@
                                         </svg>
                                     </div>
                                     <div class="rs-counter-number-item">
-                                        <span class="rs-counter-number odometer" data-count="25lakh">00</span>
+                                        <span class="rs-counter-number odometer" data-count="250000">00</span>
                                         <span class="prefix">+</span>
                                     </div>
                                 </div>
-                                <span class="rs-counter-title"><span class="small-text">Vehicles Serviced Anually</span> 
+                                <span class="rs-counter-title"><span class="large-text">Vehicles</span> Serviced Annually<br>
+                           </span>
                             </div>
                         </div>
                     </div>
@@ -174,7 +177,7 @@
                                         <span class="prefix">+</span>
                                     </div>
                                 </div>
-                                <span class="rs-counter-title"><span class="small-text">Vehicles sold Annually<br>
+                                <span class="rs-counter-title"><span class="large-text">Vehicles </span> sold Annually<br>
                            </span>
                             </div>
                         </div>
