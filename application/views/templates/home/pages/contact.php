@@ -52,7 +52,7 @@
                     <div class="col-12">
                         <div class="rs-contact-wrapper">
                             <div class="rs-contact-thumb">
-                                <img src="assets/images/contact/map-banner-final.webp" alt="image">
+                                <img src="assets/images/contact/mapbanner.webp" alt="image">
                             </div>
                           
                         </div>

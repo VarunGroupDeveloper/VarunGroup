@@ -189,7 +189,7 @@
                                     <h5 class="rs-footer-widget-title">About Company</h5>
                                     <div class="rs-footer-widget-content">
                                         <p class="rs-footer-widget-description">
-                                            It was popularised in the 1960s with the release of Letraset sheets containing Lorem
+                                            It was popularised in the 1950s with the release of Letraset sheets containing Lorem
                                             Ipsums.
                                         </p>
                                         <div class="rs-footer-widget-stroke-text">

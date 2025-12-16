@@ -139,21 +139,23 @@
                     <div class="col-xl-7 col-lg-8">
                         <div class="rs-section-title-wrapper text-center">
                             <span class="rs-section-subtitle has-theme-orange">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
-                           <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
-                           <path fill-rule="evenodd" clip-rule="evenodd"
-                              d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
-                              fill="#EA5501"></path>
-                        </svg>
-                        OUR Team
-                     </span>
-                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Management Team
-                            </h2>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
+                                   <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
+                                   <path fill-rule="evenodd" clip-rule="evenodd"
+                                      d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
+                                      fill="#EA5501"></path>
+                                </svg>
+                                OUR Team
+                            </span>
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Management Team</h2>
                         </div>
                     </div>
                 </div>
+
                 <div class="row g-5">
-                    <div class="col-5ths">
+
+                    <!-- 1 -->
+                    <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-harsha.webp" alt="image"></a>
@@ -167,11 +169,11 @@
                                 <span class="rs-team-designation">Varun Group</span>
                               </div>
                             </div>
-
                         </div>
                     </div>
 
-                    <div class="col-5ths">
+                    <!-- 2 -->
+                    <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-bangraju.webp" alt="image"></a>
@@ -186,7 +188,8 @@
                         </div>
                     </div>
 
-                    <div class="col-5ths">
+                    <!-- 3 -->
+                    <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-rcraju.webp" alt="image"></a>
@@ -201,6 +204,8 @@
                         </div>
                     </div>
 
+                    <!-- (COMMENTED — KEEP AS IT IS) -->
+                    <!--  
                     <div class="col-5ths">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
@@ -215,8 +220,10 @@
                             </div>
                         </div>
                     </div>
+                    -->
 
-                    <div class="col-5ths">
+                    <!-- 4 -->
+                    <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-gvpr.webp" alt="image"></a>
@@ -231,6 +238,8 @@
                         </div>
                     </div>
 
+                    <!-- (COMMENTED — KEEP AS IS) -->
+                    <!-- 
                     <div class="col-5ths">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
@@ -245,8 +254,10 @@
                             </div>
                         </div>
                     </div>
+                    -->
 
-                    <div class="col-5ths">
+                    <!-- 5 -->
+                    <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-subbarao.webp" alt="image"></a>
@@ -261,7 +272,8 @@
                         </div>
                     </div>
 
-                    <div class="col-5ths">
+                    <!-- 6 -->
+                    <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-VINOD.webp" alt="image"></a>
@@ -276,7 +288,8 @@
                         </div>
                     </div>
 
-                    <div class="col-5ths">
+                    <!-- 7 -->
+                    <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-b-chandrasekhar.webp" alt="image"></a>
@@ -291,7 +304,8 @@
                         </div>
                     </div>
 
-                    <div class="col-5ths">
+                    <!-- 8 -->
+                    <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
                             <div class="rs-team-thumb">
                                 <a href="team-details.html"><img src="assets/images/about/team-k-kapil.webp" alt="image"></a>
@@ -305,8 +319,10 @@
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
         </section>
         <!-- team area end -->
+
 

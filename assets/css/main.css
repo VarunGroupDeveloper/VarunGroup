@@ -243,6 +243,23 @@ h7, .body__overlay {
   --rs-fs-b2: 16px;
   --rs-fs-b3: 18px;
   --rs-fs-b4: 22px;
+
+  --vhc-font-three: "Caveat", cursive;
+  --vhc-gray: #6f7775;
+  --vhc-gray-rgb: 111, 119, 117;
+  --vhc-white: #ffffff;
+  --vhc-white-rgb: 255, 255, 255;
+  --vhc-base: #2566ad;
+  --vhc-base-rgb: 0, 113, 93;
+  --vhc-black: #283734;
+  --vhc-black-rgb: 40, 55, 52;
+  --vhc-primary: #fbd45a;
+  --vhc-primary-rgb: 251, 212, 90;
+  --vhc-extra: #f9f4e8;
+  --vhc-extra-rgb: 249, 244, 232;
+  --vhc-bdr-color: #eee9db;
+  --vhc-bdr-color-rgb: 238, 233, 219;
+  --vhc-bdr-radius: 20px;
 }
 
 /*----------------------------------------
@@ -7962,7 +7979,7 @@ body.rtl .rs-theme-dir-slide {
 }
 .rs-banner-eight .rs-banner-title {
   color: var(--rs-white);
-  font-size: 70px;
+  font-size: 44px;
   text-transform: uppercase;
   max-width: 720px;
   line-height: 1.07;
@@ -11641,10 +11658,15 @@ body.rtl .rs-theme-dir-slide {
     top: unset;
   }
 }
+/* Control image size in About Three section */
 .rs-about-three .rs-about-thumb img {
-  width: 100%;
-  transition: unset;
+    width: 100%;
+    max-width: 520px;   /* adjust: 480–540 as needed */
+    height: auto;
+    margin: 0 auto;
+    display: block;
 }
+
 .rs-about-three .rs-about-content-wrapper {
   margin-inline-start: 60px;
 }
@@ -12513,6 +12535,71 @@ body.rtl .rs-theme-dir-slide {
     margin-inline-start: 0px;
   }
 }
+/* Image collage layout */
+.rs-about-eight .image-collage {
+  position: relative;
+  width: 100%;
+  min-height: 500px;
+}
+
+/* Common styles */
+.rs-about-eight .collage-item {
+  position: absolute;
+  overflow: hidden;
+}
+
+.rs-about-eight .collage-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 2px;
+}
+
+/* Individual image positions */
+.rs-about-eight .img-1 {
+  top: 0;
+  left: 0;
+  width: 48%;
+  height: 45%;
+}
+
+.rs-about-eight .img-2 {
+  top: 0;
+  right: 0;
+  width: 50%;
+  height: 60%;
+}
+
+.rs-about-eight .img-3 {
+  bottom: 0;
+  left: 0;
+  width: 48%;
+  height: 50%;
+}
+
+.rs-about-eight .img-4 {
+  bottom: 0;
+  right: 0;
+  width: 48%;
+  height: 45%;
+}
+
+/* Responsive */
+@media (max-width: 991px) {
+  .rs-about-eight .image-collage {
+    min-height: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+  }
+
+  .rs-about-eight .collage-item {
+    position: relative;
+    width: 100%;
+    height: 220px;
+  }
+}
+
 .rs-about-eight {
   position: relative;
 }
@@ -16617,20 +16704,21 @@ body.rtl .rs-theme-dir-slide {
   margin-bottom: 15px;
 }
 .rs-services-one .rs-services-tab .nav-link {
-  width: calc(100% - 15px);
-  height: 55px;
-  background: var(--rs-white);
-  display: flex;
-  align-items: center;
-  justify-content: start;
-  position: relative;
-  gap: 10px;
-  border-radius: 2px;
-  font-weight: 700;
-  padding: 10px 30px 10px 30px;
-  color: var(--rs-text-primary);
-  border: 1px solid #EFEBEB;
-  transition: all 0.5s ease;
+width: calc(100% - -17px);
+    height: 55px;
+    background: var(--rs-white);
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    position: relative;
+    gap: 10px;
+    border-radius: 2px;
+    font-weight: 700;
+    padding: 10px 30px 10px 30px;
+    color: var(--rs-text-primary);
+    border: 1px solid #EFEBEB;
+    transition: all 0.5s ease;
+    font-size: 17px;
 }
 @media only screen and (max-width: 1199px) {
   .rs-services-one .rs-services-tab .nav-link {
@@ -25898,9 +25986,14 @@ a.ui-button:active {
   content: '';
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.3); /* light dark overlay */
+  background: rgba(0, 0, 0, 0.55); /* light dark overlay */
   z-index: 1;
 }
+/* Stronger overlay for hospitality hotels */
+.accordion ul li.hotel-card div::before {
+    background: rgba(0, 0, 0, 0.55) !important;
+}
+
 .accordion ul li div a {
   display: block;
   height: 350px;
@@ -25982,10 +26075,7 @@ background-position: 50% 50%;
   background-position: 60% 64%;
 }
 
-.accordion ul li:nth-child(6) { 
-  background-image: url("http://res.cloudinary.com/simpleview/image/upload/v1525446371/clients/scottsdale/Talking_Stick_Sunset1_Cordwell_f5ba762b-f42a-4bf7-bf7d-bad5a841bf07.jpg"); 
-  background-position: 70% 25%;
-}
+
 /* Base shared styles */
 .accordion ul li.hotel-card {
   background-size: cover;
@@ -26311,4 +26401,215 @@ ease-in-out;
 }
 .nice-select .option{
   min-width: 446px;
+}
+.map-banner-area {
+  position: relative;
+  background: linear-gradient(135deg, #004e92, #000428); /* navy blue gradient */
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.map-banner-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+}
+/*--------------------------------------------------------------
+# Become Volunteer One
+--------------------------------------------------------------*/
+.become-volunteer-one {
+  position: relative;
+  display: block;
+  z-index: 1;
+  padding: 113px 0 120px;
+}
+
+.become-volunteer-one__bg-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #2566ad !important;
+  z-index: -1;
+}
+
+.become-volunteer-one__bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  mix-blend-mode: luminosity;
+  opacity: 0.6;
+}
+
+.become-volunteer-one__shape-1 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 106px;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+  z-index: -1;
+}
+
+.become-volunteer-one__inner {
+  position: relative;
+  display: block;
+  text-align: center;
+}
+
+.become-volunteer-one__sub-title {
+  font-size: 24px;
+  color: var(--vhc-primary);
+  font-weight: 700;
+  font-family: var(--rs-ff-body);
+}
+
+.become-volunteer-one__title {
+  font-size: 40px;
+  color: var(--vhc-white);
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  line-height: 62px;
+  margin-top: 9px;
+  margin-bottom: 36px;
+}
+@media (max-width: 768px) {
+  /* Make the container a positioning context */
+ .become-volunteer-one__title { 
+    font-size: 25px;
+    line-height: 40px;         /* ensure the overlay isn't clipped */
+  }
+}
+.become-volunteer-one__btn {
+  font-weight: 800;
+}
+/*--------------------------------------------------------------
+# Counter One
+--------------------------------------------------------------*/
+.counter-one {
+  position: relative;
+  display: block;
+  margin-top: -40px;
+}
+
+.counter-one__inner {
+  position: relative;
+  display: block;
+  background-color: var(--vhc-base);
+  padding: 55px 0 29px;
+  border-radius: var(--vhc-bdr-radius);
+  overflow: hidden;
+  z-index: 1;
+}
+
+.counter-one-bg {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-radius: var(--vhc-bdr-radius);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  mix-blend-mode: luminosity;
+  opacity: 0.08;
+  z-index: -1;
+}
+
+.counter-one__list {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.counter-one__single {
+  position: relative;
+  flex: 0 0 25%;
+  max-width: 25%;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 33px;
+}
+
+.counter-one__single:before {
+  position: absolute;
+  top: 5px;
+  bottom: -2px;
+  left: 0;
+  content: "";
+  width: 1px;
+  background-color: rgba(var(--vhc-white-rgb), 0.1);
+}
+
+.counter-one__single:first-child:before {
+  display: none;
+}
+
+.counter-one__count-box {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 7px;
+}
+
+.counter-one__count-box h3 {
+  font-size: 46px;
+  color: var(--vhc-white);
+  font-weight: 900;
+  font-family: var(--rs-ff-body);
+  letter-spacing: -0.04em;
+  line-height: 60px !important;
+}
+
+.counter-one__letter {
+  font-size: 60px;
+  color: var(--vhc-white);
+  font-weight: 900;
+  font-family: var(--rs-ff-body);
+  letter-spacing: -0.04em;
+  line-height: 60px;
+  position: relative;
+  top: -4px;
+}
+
+.counter-one__text {
+  position: relative;
+  display: inline-block;
+  font-size: 21px;
+  color: #8fadcd;
+  font-weight: 700;
+  font-family: var(--rs-ff-body);
+  line-height: 24px;
+}
+
+.counter-one__text:before {
+  position: absolute;
+  bottom: -7px;
+  left: 0;
+  right: 0;
+  content: "";
+  height: 2px;
+  background-color: var(--vhc-primary);
+  transition: transform 500ms ease;
+  transform: scale(0, 1);
+  transform-origin: right center;
+}
+
+.counter-one__single:hover .counter-one__text:before {
+  transform: scale(1, 1);
+  transform-origin: left center;
 }
